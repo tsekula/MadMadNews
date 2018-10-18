@@ -1,0 +1,5 @@
+{
+  "include_POS_tags": "NNP,JJ,VB,IN,CD,PRP$,NN,NNS,NNP,NNPS,RB,RBR,RBS,VBD,VBG,VBN",
+  "exclude_words": "’,s,was,were,in,about",
+  "include_keywords": "President Trump, Marine Le Pen, Trump"
+}

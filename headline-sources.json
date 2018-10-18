@@ -1,0 +1,45 @@
+{
+  "sources": [
+    {
+      "name": "NY Times Bestsellers",
+      "output_file": "./headlines/nytbestseller.json",
+      "alexa_params":{},
+      "source_request_params": {
+        "url": "https://api.nytimes.com/svc/books/v3/lists.json",
+        "qs": {
+          "api-key": "4652552890064bc788ec90a4d5ff1048",
+          "list": "Combined Print and E-Book Fiction",
+          "sort-order": "ASC"
+        }
+      },
+      "source_response_params": {
+        "record_label": "results",
+        "record_params": {
+          "title": "book_details/0/title",
+          "author": "book_details/0/author",
+          "description": "book_details/0/description"
+        }
+      }
+  },
+  {
+    "name": "NY Times Top Stories - World",
+    "output_file": "./headlines/nyttopstoriesworld.json",
+    "alexa_params":{},
+    "source_request_params": {
+      "url": "https://api.nytimes.com/svc/topstories/v2/world.json",
+      "qs": {
+        "api-key": "4652552890064bc788ec90a4d5ff1048",
+        "section": "world",
+        "format": "json"
+      }
+    },
+    "source_response_params": {
+      "record_label": "results",
+      "record_params": {
+        "title": "title",
+        "abstract": "abstract"
+      }
+    }
+}
+  ]
+  }

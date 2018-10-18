@@ -1,0 +1,24 @@
+WordPOS
+https://github.com/moos/wordpos
+
+POS
+https://www.npmjs.com/package/pos
+
+http://www.convertcsv.com/csv-to-json.htm
+
+To Do
+- 
+###########################################
+ALexa, open Mad Mad News
+
+Let\'s get you a mad mad news update.  I\'ll need from you a total of 8 words.  Let\'s get started.
+
+Tell me an adjective.
+
+Tell me another adjective.
+
+Thanks.  And now, your mad mad news update:
+
+###############################################
+Try web services
+curl -X GET "https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json?api-key=4652552890064bc788ec90a4d5ff1048"
