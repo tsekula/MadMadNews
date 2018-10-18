@@ -3,24 +3,21 @@
 var request = require('request');
 var nlpfunctions = require('./nlpfunctions.js');
 var exports = module.exports = {};
-
 const NLPAPI = "https://nlp-api-tsekula.c9users.io:8080/nlp/parse-sentences"
-const DemoText = "Marine Le Pen Sharpens Attack on Emmanuel Macron in French Debate. The two presidential hopefuls clashed over immigration, integration and France’s role in the world.  It was about bringing the player to the game."
-
-//getPOSTags(DemoText, processString);
-
 
 exports.processString = function (tags){
   var replacetags = getListofTagstoReplace(tags);
+  //console.log(replacetags);
 }
 
+// For given text return the same text but with randomly chosen words replaced with their POS tag
 var getListofTagstoReplace = function (tags) {
-  // iterate through object and return object containing only allowed tags
 
   for (key in tags["sentences"]){
     var sentence = tags["sentences"][key];
     
     sentence["modified"] = sentence["original"];
+    // iterate through object and return object containing only allowed tags
     sentence["restricted"] = nlpfunctions.PreserveWhitelist(sentence["original"]);
     //console.log(sentence["original"]);
 
@@ -38,7 +35,8 @@ var getListofTagstoReplace = function (tags) {
     delete sentence["restricted"];
     
   }
-  console.log(tags);
+  //console.log(tags);
+  return tags;
 }
 
 var isChosenForReplacement = function() {
@@ -49,6 +47,7 @@ var isChosenForReplacement = function() {
     return 0;
 }
 
+// For given text return POS tags
 exports.getPOSTags = function(text, callback) {
   if (text) {
       request.get({

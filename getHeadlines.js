@@ -5,7 +5,6 @@ var request = require('request');
 var fs = require("fs");
 var nlpfunctions = require('./nlptools/getNLP.js');
 
-
 // details for headlines configuration JSON
 const OutputFilesPath = "./headlines/";
 const OutputParam = "output_file";
@@ -13,15 +12,31 @@ const ResponseParams = "source_response_params";
 const RequestParams = "source_request_params";
 const RecordLabel = "record_label";
 const RecordParams = "record_params";
+var exports = module.exports = {};
 
-// did this change?
-//nlpfunctions.getPOSTags("This should be a pretty sweet way to go about things", nlpfunctions.processString);
+nlpfunctions.getPOSTags("This should be a pretty sweet way to go about things, right President Trump and Prime Minister Trudeau?  I really think that we should change our shoes when we get home.", nlpfunctions.processString);
 
-if (headlineSources["sources"]){
-  for (source in headlineSources["sources"]){
-    getHeadlinesFromURL(headlineSources["sources"][source], processHeadlineRecords);
+// retrieve 
+exports.getRandomHeadline = function (source, callback) {
+// 1. refresh local headline depot if out of date
+  refreshHeadlines();
+// 2. load the chosen type of headlines from the local file
+// 3. choose 1 at random
+
+  
+}
+
+
+
+// Refreshes Headlines from all external providers
+function refreshHeadlines() {
+  if (headlineSources["sources"]){
+    for (source in headlineSources["sources"]){
+      getHeadlinesFromURL(headlineSources["sources"][source], processHeadlineRecords);
+      }
     }
-  }
+}
+
 
 // retrieve data from a specified web service
 function getHeadlinesFromURL(source, callback) {
@@ -77,15 +92,13 @@ function processHeadlineRecords(err, source, body){
       output[index]=tryme;
       index++;
     }
-    console.log(output);
+    //console.log(output);
     saveHeadlinesToFile(JSON.stringify(output, null, 2), source[OutputParam]);
   }
 }
 
 function saveHeadlinesToFile(body, location){
   if (body && location){
-    console.log("here I am");
     fs.writeFileSync(location, body);
-
   }
 }
