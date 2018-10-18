@@ -22,3 +22,6 @@ Thanks.  And now, your mad mad news update:
 ###############################################
 Try web services
 curl -X GET "https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json?api-key=4652552890064bc788ec90a4d5ff1048"
+
+GIT going
+https://gist.github.com/jboulhous/6007980

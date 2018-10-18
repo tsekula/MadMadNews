@@ -14,6 +14,7 @@ const RequestParams = "source_request_params";
 const RecordLabel = "record_label";
 const RecordParams = "record_params";
 
+// did this change?
 //nlpfunctions.getPOSTags("This should be a pretty sweet way to go about things", nlpfunctions.processString);
 
 if (headlineSources["sources"]){
