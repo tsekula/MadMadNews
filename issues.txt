@@ -1,0 +1,2 @@
+- Upper-cased words all seen as NNP because Headlines are capitalized 
+- are cities ("Sydney") seen as NNP or place name?

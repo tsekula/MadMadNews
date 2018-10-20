@@ -3,7 +3,9 @@
     {
       "name": "NY Times Bestsellers",
       "output_file": "./headlines/nytbestseller.json",
-      "alexa_params":{},
+      "alexa_params":{
+        "reading_format": "{title}, by {author}. {description}"
+         },
       "source_request_params": {
         "url": "https://api.nytimes.com/svc/books/v3/lists.json",
         "qs": {
@@ -24,7 +26,9 @@
   {
     "name": "NY Times Top Stories - World",
     "output_file": "./headlines/nyttopstoriesworld.json",
-    "alexa_params":{},
+    "alexa_params":{
+      "reading_format": "{title}. {abstract}"
+    },
     "source_request_params": {
       "url": "https://api.nytimes.com/svc/topstories/v2/world.json",
       "qs": {

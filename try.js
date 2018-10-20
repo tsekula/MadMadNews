@@ -5,23 +5,29 @@ var request = require('request');
 var nytBooks = require('./nytbooks');
 var nlpfunctions = require('./nlptools/getNLP.js');
 var headlinefunctions = require('./getHeadlines.js');
-
+var taggedHeadline = Object;
 
 var tagger = new pos.Tagger();
 var nytBooks;
 var words;
 
-GetTagsForEachHeadline();
+GetTagsForHeadline(headlinefunctions.getRandomHeadline(1));
 
-function GetTagsForEachHeadline(){
-  // load NYT headlines from file
-  headlinefunctions.refreshHeadlines();
-  // for each headline get the replacement version
-
-
-
-  //nlpfunctions.getPOSTags("This should be a pretty sweet way to go about things, right President Trump and Prime Minister Trudeau?  I really think that we should change our shoes when we get home.", nlpfunctions.processString);
-
+// Return a headline record with POSTags inserted 
+function GetTagsForHeadline(headline){
+  for (record in headline) {
+    nlpfunctions.getPOSTags(headline[record], function(body, err) {
+      if (err) return(err);
+      if (body){
+        //taggedHeadline.
+        console.log(body);
+      }
+      else
+        return(err);  // is an error sent?
+    })
+  }
+  
+  
 }
 
 

@@ -14,16 +14,20 @@ const RecordLabel = "record_label";
 const RecordParams = "record_params";
 var exports = module.exports = {};
 
-nlpfunctions.getPOSTags("This should be a pretty sweet way to go about things, right President Trump and Prime Minister Trudeau?  I really think that we should change our shoes when we get home.", nlpfunctions.processString);
-
-// retrieve 
-exports.getRandomHeadline = function (source, callback) {
-// 1. refresh local headline depot if out of date
-  refreshHeadlines();
-// 2. load the chosen type of headlines from the local file
-// 3. choose 1 at random
-
+// retrieve random headline
+exports.getRandomHeadline = function (sourceIndex) {
+  var chosenRecord;
   
+  // refresh local headline depot if out of date
+    //refreshHeadlines();
+    
+  // load the chosen type of headlines and choose 1 at random
+    chosenRecord = pickRandomHeadline(loadHeadlinesFromFile(sourceIndex));
+  
+    if (chosenRecord)
+      return chosenRecord;
+    else
+      return "";
 }
 
 
@@ -100,5 +104,29 @@ function processHeadlineRecords(err, source, body){
 function saveHeadlinesToFile(body, location){
   if (body && location){
     fs.writeFileSync(location, body);
+  }
+}
+
+function loadHeadlinesFromFile(sourceindex){
+  var body="";
+  if (headlineSources["sources"][sourceindex][OutputParam]){
+      body = fs.readFileSync(headlineSources["sources"][sourceindex][OutputParam], 'utf8');
+      if (body)
+        return JSON.parse(body);
+    }
+}
+
+// Returns a record containing a randomly chosen headline from the chosen source
+function pickRandomHeadline(headlines) {
+  if(headlines){
+    var headlineCount = Object.keys(headlines).length;
+    //var recordParams = headlineSources["sources"][sourceindex][ResponseParams]["record_params"];
+
+    // randomly choose a record
+    var chosenIndex = Math.floor(Math.random() * (headlineCount));
+    var chosenRecord = Object.keys(headlines)[chosenIndex];
+    
+    //console.log(headlines[chosenRecord]);
+    return headlines[chosenRecord];
   }
 }

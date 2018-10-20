@@ -5,13 +5,20 @@ var nlpfunctions = require('./nlpfunctions.js');
 var exports = module.exports = {};
 const NLPAPI = "https://nlp-api-tsekula.c9users.io:8080/nlp/parse-sentences"
 
-exports.processString = function (tags){
+exports.processString = function (tags, callback){
   var replacetags = getListofTagstoReplace(tags);
+  callback(replacetags);
+  //console.log(replacetags);
+}
+
+exports.processString = function (tags, callback){
+  var replacetags = getListofTagstoReplace(tags);
+  callback(replacetags);
   //console.log(replacetags);
 }
 
 // For given text return the same text but with randomly chosen words replaced with their POS tag
-var getListofTagstoReplace = function (tags) {
+function getListofTagstoReplace(tags) {
 
   for (key in tags["sentences"]){
     var sentence = tags["sentences"][key];
@@ -55,12 +62,13 @@ exports.getPOSTags = function(text, callback) {
       json: {
         "text": text  }
     }, function(err, response, body) {
-      if (err) callback(err);
+      if (err) return (err);
       if (body){
-        callback(body);
+        var tags = getListofTagstoReplace(body);
+        callback(tags);
       }
       else
-        callback(err);
+        return (err);
     })
   }
 }
