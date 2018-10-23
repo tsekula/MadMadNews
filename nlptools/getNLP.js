@@ -4,6 +4,7 @@ var request = require('request');
 var nlpfunctions = require('./nlpfunctions.js');
 var exports = module.exports = {};
 const NLPAPI = "https://nlp-api-tsekula.c9users.io:8080/nlp/parse-sentences"
+const NLPAPITEST = "https://nlp-api-tsekula.c9users.io:8080/nlp/parse"
 
 exports.processString = function (tags, callback){
   var replacetags = getListofTagstoReplace(tags);
@@ -26,7 +27,6 @@ function getListofTagstoReplace(tags) {
     // iterate through object and return object containing only allowed tags
     sentence["restricted"] = nlpfunctions.PreserveWhitelist(sentence["original"]);
     sentence["modified"] = getSingleModifiedSentence(sentence, sentence["restricted"]);
-
     delete sentence["restricted"];
     
   }
@@ -85,7 +85,10 @@ exports.getPOSTags = function(text, callback) {
     json: {
       "text": text  }
     }, function(err, response, body) {
-      if (err) return callback(null);
+      if (err) {
+        console.log(err.message);
+        return callback(null);
+        }
       if (body){
         var newText = getModifiedSentence(body);
         return callback(newText);
@@ -107,6 +110,7 @@ exports.getJSONPOSTags = function(text, callback) {
     }, function(err, response, body) {
       if (err) return callback(null);
       if (body){
+        //console.log(body);
         var tags = getListofTagstoReplace(body);
         return callback(tags);
       }

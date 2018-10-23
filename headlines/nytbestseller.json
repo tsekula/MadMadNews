@@ -1,122 +1,122 @@
 {
   "0": {
     "origtitle": "HOLY GHOST",
-    "title": "",
+    "title": " {{JJ}} GHOST",
     "origauthor": "John Sandford",
-    "author": "",
+    "author": " {{NNP}} Sandford",
     "origdescription": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
-    "description": ""
+    "description": " {{NNP}} Flowers investigates shootings in a Minnesota {{NN}} following an attempt to revive its ailing economy."
   },
   "1": {
     "origtitle": "AMBUSH",
-    "title": "",
+    "title": " AMBUSH",
     "origauthor": "James Patterson and James O Born",
-    "author": "",
+    "author": " {{NNP}} Patterson and James O {{VBN}}",
     "origdescription": "Michael Bennett discovers that an assassin is targeting him and his family.",
-    "description": ""
+    "description": " Michael {{NNP}} discovers that an {{NN}} is {{VBG}} him and his family."
   },
   "2": {
     "origtitle": "THE NEXT PERSON YOU MEET IN HEAVEN",
-    "title": "",
+    "title": " THE {{NN}} {{NN}} YOU {{NN}} IN HEAVEN",
     "origauthor": "Mitch Albom",
-    "author": "",
+    "author": " {{NNP}} Albom",
     "origdescription": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
-    "description": ""
+    "description": " The sequel to \"The {{CD}} People You Meet in Heaven\" follows {{NNP}} on her heavenly journey."
   },
   "3": {
     "origtitle": "THE WITCH ELM",
-    "title": "",
+    "title": " THE WITCH ELM",
     "origauthor": "Tana French",
-    "author": "",
+    "author": " Tana {{JJ}}",
     "origdescription": "After Toby Hennessy retreats to his family’s ancestral home, a skull discovered in the backyard exposes his family's past.",
-    "description": ""
+    "description": " After Toby {{NNP}} {{NNS}} to his {{NN}}’s {{JJ}} {{NN}}, a {{NN}} {{VBN}} in the backyard exposes his family's {{JJ}}."
   },
   "4": {
     "origtitle": "THE CLOCKMAKER'S DAUGHTER",
-    "title": "",
+    "title": " THE CLOCKMAKER'S DAUGHTER",
     "origauthor": "Kate Morton",
-    "author": "",
+    "author": " Kate Morton",
     "origdescription": "A century-old mystery at the Birchwood Manor on the Thames connects the lives of an archivist and artist.",
-    "description": ""
+    "description": " A {{JJ}} {{NN}} at the Birchwood Manor on the {{NNP}} connects the lives of an archivist and artist."
   },
   "5": {
     "origtitle": "WINTER IN PARADISE",
-    "title": "",
+    "title": " {{NN}} IN {{NN}}",
     "origauthor": "Elin Hilderbrand",
-    "author": "",
+    "author": " Elin Hilderbrand",
     "origdescription": "Irene Steele uncovers her husband’s secret life on a Caribbean island following his death.",
-    "description": ""
+    "description": " Irene Steele uncovers her {{NN}}’s {{JJ}} life on a Caribbean island following his {{NN}}."
   },
   "6": {
     "origtitle": "A SPARK OF LIGHT",
-    "title": "",
+    "title": " A {{NN}} OF {{NN}}",
     "origauthor": "Jodi Picoult",
-    "author": "",
+    "author": " Jodi {{NNP}}",
     "origdescription": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
-    "description": ""
+    "description": " The {{NNS}} of patients, doctors and activists intersect when a gunman holds them all {{NN}} in a woman's health center in Mississippi."
   },
   "7": {
     "origtitle": "KILLING COMMENDATORE",
-    "title": "",
+    "title": " KILLING COMMENDATORE",
     "origauthor": "Haruki Murakami",
-    "author": "",
+    "author": " {{NNP}} Murakami",
     "origdescription": "The discovery of an unseen work in an artist’s attic unleashes a series of bizarre occurrences that a painter must navigate.",
-    "description": ""
+    "description": " The discovery of an unseen {{NN}} in an {{NN}}’s {{NN}} unleashes a series of bizarre occurrences that a painter must {{VB}}."
   },
   "8": {
     "origtitle": "VINCE FLYNN: RED WAR",
-    "title": "",
+    "title": " VINCE FLYNN: RED {{NNP}}",
     "origauthor": "Kyle Mills",
-    "author": "",
+    "author": " {{NNP}} Mills",
     "origdescription": "When the Russian prime minister plots to invade the Baltics, only Mitch Rapp can stop him.",
-    "description": ""
+    "description": " When the Russian prime {{NN}} {{NNS}} to {{VB}} the {{NNP}}, only Mitch Rapp can stop him."
   },
   "9": {
     "origtitle": "WHERE THE CRAWDADS SING",
-    "title": "",
+    "title": " WHERE THE {{NN}} {{NN}}",
     "origauthor": "Delia Owens",
-    "author": "",
+    "author": " Delia Owens",
     "origdescription": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
-    "description": ""
+    "description": " In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the {{NN}} becomes a murder suspect."
   },
   "10": {
     "origtitle": "CRAZY RICH ASIANS",
-    "title": "",
+    "title": " {{JJ}} RICH {{NN}}",
     "origauthor": "Kevin Kwan",
-    "author": "",
+    "author": " {{NNP}} Kwan",
     "origdescription": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
-    "description": ""
+    "description": " A New Yorker gets a surprise when she spends the summer with her boyfriend in {{NNP}}."
   },
   "11": {
     "origtitle": "THE TATTOOIST OF AUSCHWITZ",
-    "title": "",
+    "title": " THE TATTOOIST OF AUSCHWITZ",
     "origauthor": "Heather Morris",
-    "author": "",
+    "author": " Heather Morris",
     "origdescription": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
-    "description": ""
+    "description": " A {{NN}} camp detainee tasked with permanently marking fellow {{NNS}} falls in love with one of them."
   },
   "12": {
     "origtitle": "LETHAL WHITE",
-    "title": "",
+    "title": " {{JJ}} {{NN}}",
     "origauthor": "Robert Galbraith",
-    "author": "",
+    "author": " Robert {{NNP}}",
     "origdescription": "The fourth book in the Cormoran Strike series. Detectives Strike and Ellacott investigate a crime a young man may have witnessed as a child; by J. K. Rowling, writing pseudonymously.",
-    "description": ""
+    "description": " The {{JJ}} book in the Cormoran Strike series. Detectives {{VB}} and {{NNP}} investigate a crime a {{JJ}} man may have witnessed as a {{NN}}; by J. K. {{NNP}}, writing {{RB}}."
   },
   "13": {
     "origtitle": "ELEANOR OLIPHANT IS COMPLETELY FINE",
-    "title": "",
+    "title": " {{NN}} {{NN}} IS {{NN}} {{NN}}",
     "origauthor": "Gail Honeyman",
-    "author": "",
+    "author": " Gail {{NNP}}",
     "origdescription": "A young woman’s well-ordered life is disrupted by the I.T. guy from her office.",
-    "description": ""
+    "description": " A {{JJ}} woman’s {{VBN}} {{NN}} is {{VBN}} by the {{NNP}} guy from her {{NN}}."
   },
   "14": {
     "origtitle": "JUROR #3",
-    "title": "",
+    "title": " {{NN}} #3",
     "origauthor": "James Patterson and Nancy Allen",
-    "author": "",
+    "author": " James Patterson and {{NNP}} {{NNP}}",
     "origdescription": "Ruby Bozarth defends a college football star charged in a felony case complicated by a second murder.",
-    "description": ""
+    "description": " Ruby Bozarth defends a {{NN}} football star {{VBN}} in a felony {{NN}} {{VBN}} by a second murder."
   }
 }

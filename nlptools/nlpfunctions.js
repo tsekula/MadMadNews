@@ -16,7 +16,8 @@ exports.IsTagAllowed = function (tag){
 
 exports.IsTextIgnored = function (text){
     if (blacklistText && text){
-        return blacklistText.indexOf(text) > -1;
+        if (blacklistText.indexOf(text) > -1 || text.length<3)
+            return 1;
     }
 }
 

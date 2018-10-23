@@ -25,3 +25,6 @@ curl -X GET "https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.jso
 
 GIT going
 https://gist.github.com/jboulhous/6007980
+
+Async Node.js
+https://stackoverflow.com/questions/21184340/async-for-loop-in-node-js

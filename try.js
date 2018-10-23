@@ -5,6 +5,7 @@ var request = require('request');
 var nytBooks = require('./nytbooks');
 var nlpfunctions = require('./nlptools/getNLP.js');
 var headlinefunctions = require('./getHeadlines.js');
+var utils = require('./utils.js');
 var taggedHeadline = Object;
 
 var tagger = new pos.Tagger();
@@ -13,18 +14,21 @@ var words;
 
 // for chosen type, get headlines in
 
-nlpfunctions.getJSONPOSTags("This is my sentence isn't it grand?  This is a second sentence.  And finally Joey likes the third sentence.", function(body) {
-      console.log(body);
-    });
+//for (i=0; i<3;i++){
+  //console.log(utils.replaceContractionsInSentence("This is my sentence isn't it grand?  I should've done better but we'll try again later."));
+//  nlpfunctions.getJSONPOSTags("This is my sentence isn't it grand?  I should've done better but we'll try again later.", function(body) {
+//      console.log(body);
+//    });
+
+//}
 
 
-//GetTagsForHeadline(headlinefunctions.getRandomHeadline(1), function(body) {
-//  if(!body) {
-    //return console.log("empty");
-//  }
-
-//  return console.log(body);
-//});
+GetTagsForHeadline(headlinefunctions.getRandomHeadline(1), function(body) {
+  if(!body) {
+    return console.log("empty");
+  }
+  return console.log(body);
+});
 
 
 // Return a headline record with POSTags inserted 
