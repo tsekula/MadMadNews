@@ -2,7 +2,7 @@
   "sources": [
     {
       "name": "NY Times Bestsellers",
-      "output_file": "./headlines/nytbestseller.json",
+      "output_file": "nytbestseller.json",
       "alexa_params":{
         "reading_format": "{title}, by {author}. {description}"
          },
@@ -25,7 +25,7 @@
   },
   {
     "name": "NY Times Top Stories - World",
-    "output_file": "./headlines/nyttopstoriesworld.json",
+    "output_file": "nyttopstoriesworld.json",
     "alexa_params":{
       "reading_format": "{title}. {abstract}"
     },

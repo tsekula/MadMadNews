@@ -11,23 +11,36 @@ var tagger = new pos.Tagger();
 var nytBooks;
 var words;
 
-GetTagsForHeadline(headlinefunctions.getRandomHeadline(1));
+// for chosen type, get headlines in
+
+nlpfunctions.getJSONPOSTags("This is my sentence isn't it grand?  This is a second sentence.  And finally Joey likes the third sentence.", function(body) {
+      console.log(body);
+    });
+
+
+//GetTagsForHeadline(headlinefunctions.getRandomHeadline(1), function(body) {
+//  if(!body) {
+    //return console.log("empty");
+//  }
+
+//  return console.log(body);
+//});
+
 
 // Return a headline record with POSTags inserted 
-function GetTagsForHeadline(headline){
-  for (record in headline) {
-    nlpfunctions.getPOSTags(headline[record], function(body, err) {
-      if (err) return(err);
-      if (body){
-        //taggedHeadline.
-        console.log(body);
-      }
-      else
-        return(err);  // is an error sent?
-    })
+function GetTagsForHeadline(headline, callback){
+  if (!headline) {
+    return callback(null);
   }
   
-  
+  for (record in headline) {
+    nlpfunctions.getJSONPOSTags(headline[record], function(body) {
+      if (!body){
+        return callback(null);
+      }
+      return callback(body);
+    });
+  }
 }
 
 

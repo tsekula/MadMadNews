@@ -23,28 +23,49 @@ function getListofTagstoReplace(tags) {
   for (key in tags["sentences"]){
     var sentence = tags["sentences"][key];
     
-    sentence["modified"] = sentence["original"];
     // iterate through object and return object containing only allowed tags
     sentence["restricted"] = nlpfunctions.PreserveWhitelist(sentence["original"]);
-    //console.log(sentence["original"]);
+    sentence["modified"] = getSingleModifiedSentence(sentence, sentence["restricted"]);
 
+    delete sentence["restricted"];
+    
+  }
+  return tags;
+}
+
+
+function getModifiedSentence(tags) {
+  var modifiedSentence = "";
+  for (key in tags["sentences"]){
+    var sentence = tags["sentences"][key];
+    
+    // iterate through object and return object containing only allowed tags
+    sentence["restricted"] = nlpfunctions.PreserveWhitelist(sentence["original"]);
+    modifiedSentence = modifiedSentence + " " + getSingleModifiedSentence(sentence, sentence["restricted"]);
+
+    delete sentence["restricted"];
+    
+  }
+  return modifiedSentence;
+}
+
+
+function getSingleModifiedSentence(sentence, restrictedSentence) {
+    var modifiedSentence = sentence["original"];
     for (wordkey in sentence["words"]){
       var word= sentence["words"][wordkey];
 
       // if this tag is on the blocklist,
       //  and word is not on the block list
       //   and whitelist words are preserved
-      if(nlpfunctions.IsTagAllowed(word.tag) && !nlpfunctions.IsTextIgnored(word.text) && sentence["restricted"].indexOf(word.text)>-1 && isChosenForReplacement()){
-        sentence["modified"] = sentence["modified"].replace(word.text, "{{" + word.tag + "}}");
+      if(nlpfunctions.IsTagAllowed(word.tag) && !nlpfunctions.IsTextIgnored(word.text) && restrictedSentence.indexOf(word.text)>-1 && isChosenForReplacement()){
+        modifiedSentence = modifiedSentence.replace(word.text, "{{" + word.tag + "}}");
         //console.log(word.text + " - " + word.tag);
       }
-    }
-    delete sentence["restricted"];
-    
-  }
-  //console.log(tags);
-  return tags;
+    }  
+    return modifiedSentence;
 }
+
 
 var isChosenForReplacement = function() {
   // perform dice roll to determine if this is a word that will be replaced
@@ -52,23 +73,44 @@ var isChosenForReplacement = function() {
     return 1;
   else
     return 0;
-}
+};
 
-// For given text return POS tags
+// For given text return POS tags in simple text field
 exports.getPOSTags = function(text, callback) {
-  if (text) {
-      request.get({
-      url: NLPAPI,
-      json: {
-        "text": text  }
+  if (!text) {
+    return callback(null);
+  }
+    request.get({
+    url: NLPAPI,
+    json: {
+      "text": text  }
     }, function(err, response, body) {
-      if (err) return (err);
+      if (err) return callback(null);
       if (body){
-        var tags = getListofTagstoReplace(body);
-        callback(tags);
+        var newText = getModifiedSentence(body);
+        return callback(newText);
       }
       else
-        return (err);
-    })
+        return callback(null);
+    });
+};
+
+// For given text return POS tags in JSON
+exports.getJSONPOSTags = function(text, callback) {
+  if (!text) {
+    return callback(null);
   }
-}
+    request.get({
+    url: NLPAPI,
+    json: {
+      "text": text  }
+    }, function(err, response, body) {
+      if (err) return callback(null);
+      if (body){
+        var tags = getListofTagstoReplace(body);
+        return callback(tags);
+      }
+      else
+        return callback(null);
+    });
+};
