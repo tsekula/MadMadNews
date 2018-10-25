@@ -1,212 +1,510 @@
 {
   "0": {
-    "origtitle": "Erdogan Says Saudis Planned Khashoggi’s Killing in Turkey",
-    "title": " {{NNP}} Says Saudis Planned Khashoggi’s Killing in Turkey",
-    "origabstract": "The Turkish president’s speech followed a series of leaks by Turkey that implicated the Saudi government in the death of the journalist Jamal Khashoggi.",
-    "abstract": " The Turkish president’s speech {{VBD}} a series of leaks by Turkey that implicated the Saudi {{NN}} in the {{NN}} of the journalist Jamal Khashoggi."
+    "headlinetext": "Saudi Arabia, in Reversal, {{0}} {{1}}’s Killing {{2}} ‘Premeditated’. The announcement that his death may have been planned was the latest shift in the kingdom’s official account of what {{3}} to the {{4}} and dissident.",
+    "headlinepostags": [
+      "NNS",
+      "NNP",
+      "VBD",
+      "VBD",
+      "NN"
+    ]
   },
   "1": {
-    "origtitle": "Italy’s Populists Dig in After E.U. Rejects Their Budget as a Danger",
-    "title": " {{NNP}}’s Populists {{VB}} in After E.U. Rejects Their Budget as a Danger",
-    "origabstract": "The European Commission told Rome that it would have to rewrite its draft 2019 budget and reduce its deficit, or face heavy fines early next year.",
-    "abstract": " The European Commission {{VBD}} Rome that it would have to rewrite its {{NN}} {{CD}} budget and reduce its deficit, or face {{JJ}} {{NNS}} {{JJ}} next year."
+    "headlinetext": "Pakistan Tries a {{0}} {{1}} to {{2}} for a Dam: {{3}}. The {{4}} {{5}} government asks Pakistanis at home and {{6}} to donate to a $14 {{7}} dam project. It’s a sign of a much bigger problem.",
+    "headlinepostags": [
+      "NNP",
+      "NN",
+      "VB",
+      "NNP",
+      "RB",
+      "VBN",
+      "RB",
+      "CD"
+    ]
   },
   "2": {
-    "origtitle": "Bolton Rejects Russian Entreaties to Stay in Nuclear Treaty",
-    "title": " Bolton Rejects Russian {{NNP}} to Stay in {{NNP}} {{NNP}}",
-    "origabstract": "The national security adviser told a news conference in Moscow that the United States remained committed to quitting a Soviet-era nuclear pact despite Russian objections.",
-    "abstract": " The national {{NN}} adviser told a {{NN}} {{NN}} in Moscow that the {{NNP}} States remained {{VBN}} to {{VBG}} a {{JJ}} {{JJ}} {{NN}} despite Russian {{NNS}}."
+    "headlinetext": "Why {{0}} {{1}}’s {{2}} Has Resonated. The {{3}} of a dissident {{4}} has set off international outrage in a way that previous Saudi actions have not. Here's why his death has had {{5}} broad {{6}} implications.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NN",
+      "VBG",
+      "NN",
+      "JJ",
+      "JJ"
+    ]
   },
   "3": {
-    "origtitle": "The I.N.F. Treaty, Explained",
-    "title": " The {{NNP}} Treaty, Explained",
-    "origabstract": "A few days ago, few people thought about the Intermediate-range Nuclear Forces Treaty. Is it really so important that its demise could touch off a nuclear arms race?",
-    "abstract": " A few {{NNS}} ago, few {{NNS}} thought about the Intermediate-range Nuclear Forces Treaty. Is it {{RB}} so {{JJ}} that its demise could touch off a {{JJ}} {{NNS}} race?"
+    "headlinetext": "How the {{0}} Caravan {{1}} a Trump Election Strategy. {{2}} in {{3}} hoped the caravan would damage a president they {{4}} and help migrants. Instead it {{5}} a crisis that hurt them and played into President Trump’s {{6}}.",
+    "headlinepostags": [
+      "NNP",
+      "VBD",
+      "NNS",
+      "NNP",
+      "VBN",
+      "VBD",
+      "NNS"
+    ]
   },
   "4": {
-    "origtitle": "Palestinian Leaders Are Accused of Using Torture and Arbitrary Arrests to Crush Dissent",
-    "title": " Palestinian {{NNS}} Are Accused of Using Torture and {{NNP}} Arrests to Crush {{NNP}}",
-    "origabstract": "The advocacy group Human Rights Watch said the Palestinian Authority in the West Bank and Hamas in Gaza had turned their territories into “police states.”",
-    "abstract": " The advocacy {{NN}} Human {{NNP}} {{NN}} {{VBD}} the {{JJ}} {{NNP}} in the West Bank and {{NNP}} in {{NNP}} {{VBD}} turned their {{NNS}} into “{{NN}} states.”"
+    "headlinetext": "A ‘People’s Pig’ in China Could Be {{0}} to Upstate New York. Their farm {{1}} by a modernization {{2}}, four specimens of a rare breed of {{3}} {{4}} a {{5}} {{6}}. A {{7}} {{8}} may {{9}} them.",
+    "headlinepostags": [
+      "VBN",
+      "VBN",
+      "NN",
+      "NNS",
+      "NN",
+      "JJ",
+      "NN",
+      "NNP",
+      "NN",
+      "VB"
+    ]
   },
   "5": {
-    "origtitle": "Khashoggi Case Erodes Saudi Reputation, and Allies Worry",
-    "title": " Khashoggi {{NNP}} Erodes Saudi {{NNP}}, and Allies {{NN}}",
-    "origabstract": "As Crown Prince Mohammed faces accusations in the killing of a dissident, Israel, the U.A.E. and other allies fear that damage to him could upend their own plans.",
-    "abstract": " As Crown {{NNP}} {{NNP}} faces accusations in the {{VBG}} of a {{JJ}}, {{NNP}}, the U.A.E. and other allies fear that damage to him could {{NN}} their {{JJ}} plans."
+    "headlinetext": "Debunking 5 Viral {{0}} of the Migrant Caravan. A group of Hondurans {{1}} toward the {{2}} {{3}} has been the subject of misinformation on {{4}} {{5}}.",
+    "headlinepostags": [
+      "NNP",
+      "VBG",
+      "NNP",
+      "NNPS",
+      "JJ",
+      "NNS"
+    ]
   },
   "6": {
-    "origtitle": "Jamal Khashoggi Body Double Created False Trail in Turkey, Surveillance Images Suggest",
-    "title": " {{NNP}} Khashoggi Body {{NNP}} {{VBN}} {{NNP}} Trail in Turkey, {{NN}} {{NNP}} {{VB}}",
-    "origabstract": "The use of a body double suggests a premeditated plan to cover up the Saudi journalist’s disappearance — another hole in the Saudi narrative.",
-    "abstract": " The use of a {{NN}} {{JJ}} suggests a premeditated plan to cover up the {{NNP}} journalist’s disappearance — another hole in the {{NNP}} narrative."
+    "headlinetext": "{{0}} and {{1}}, {{2}} Rivals, Are Trying to Get Along. {{3}} Abe’s state visit to China this {{4}} will be the {{5}} by a {{6}} leader in eight {{7}}. Both {{8}} are seeking a {{9}} normality in the {{10}} of Trump.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "JJ",
+      "NNP",
+      "NN",
+      "JJ",
+      "JJ",
+      "NNS",
+      "NNS",
+      "JJ",
+      "NN"
+    ]
   },
   "7": {
-    "origtitle": "China Opens Giant Sea Bridge Linking Hong Kong, Macau and Mainland",
-    "title": " {{NNP}} {{NNP}} Giant Sea Bridge {{VBG}} Hong Kong, Macau and {{NNP}}",
-    "origabstract": "The government hopes the 34-mile span will bolster growth, but some say the primary goal is further integrating semiautonomous cities and the mainland.",
-    "abstract": " The government hopes the 34-mile span will {{VB}} {{NN}}, but some say the primary goal is further {{VBG}} {{JJ}} cities and the mainland."
+    "headlinetext": "In {{0}}, a Feud Over Night Life Intensifies. {{1}} {{2}} {{3}} after the state {{4}} {{5}} a {{6}} and {{7}} alcohol sales in the city center, some residents and business {{8}} say it is {{9}} for a change.",
+    "headlinepostags": [
+      "NNP",
+      "RB",
+      "CD",
+      "NNS",
+      "NN",
+      "VBN",
+      "NN",
+      "VBN",
+      "NNS",
+      "NN"
+    ]
   },
   "8": {
-    "origtitle": "Train’s Driver Disabled Speed Controls Before Taiwan Crash, Officials Say",
-    "title": " {{NNP}}’s Driver Disabled Speed Controls Before Taiwan {{NNP}}, Officials {{VB}}",
-    "origabstract": "Taiwanese officials said the train’s driver was a possible criminal suspect in the accident that killed 18 people.",
-    "abstract": " Taiwanese {{NNS}} said the train’s {{NN}} was a {{JJ}} criminal suspect in the {{NN}} that killed 18 {{NNS}}."
+    "headlinetext": "{{0}} {{1}} {{2}} From 3-Year {{3}} in Syria. Japanese {{4}} {{5}} reports that {{6}} {{7}}, a {{8}} journalist, {{9}} {{10}} released and was in Turkey.",
+    "headlinepostags": [
+      "JJ",
+      "NNP",
+      "VBN",
+      "NNP",
+      "NNS",
+      "VBD",
+      "NNP",
+      "NNP",
+      "JJ",
+      "VBD",
+      "VBN"
+    ]
   },
   "9": {
-    "origtitle": "Smoking Marijuana Is Legal in Canada, Unless You’re South Korean",
-    "title": " Smoking Marijuana Is Legal in Canada, Unless You’re South Korean",
-    "origabstract": "South Koreans are still subject to their country’s strict drug laws even when abroad, and can face up to five years in prison upon their return.",
-    "abstract": " South {{NNPS}} are still {{NN}} to their country’s strict drug {{NNS}} even when abroad, and can face up to five years in prison upon their return."
+    "headlinetext": "University Backed by George Soros Prepares to Leave {{0}} Under Duress. {{1}} {{2}} {{3}}, founded to ease the transition to {{4}} after the {{5}} Union’s fall, has {{6}} a target of Viktor Orban, Hungary’s far-right leader.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "JJ",
+      "NNP",
+      "NN",
+      "JJ",
+      "VBN"
+    ]
   },
   "10": {
-    "origtitle": "Trump May Revive the Cold War, but China Could Change the Dynamics",
-    "title": " Trump {{NNP}} Revive the {{NNP}} {{NNP}}, but {{NNP}} Could {{NNP}} the {{NNP}}",
-    "origabstract": "Trump’s decision to dump a missile-control treaty seems to end an important period of arms control — which did not include China. But Europe is not happy.",
-    "abstract": " Trump’s decision to {{VB}} a missile-control {{NN}} seems to end an important period of {{NNS}} control — which did {{RB}} include China. But {{NNP}} is {{RB}} happy."
+    "headlinetext": "{{0}} {{1}} Kills Goat in Scotland, and Gets {{2}} on Social Media. Larysa Switlyk’s {{3}} {{4}} of the carcass with the words “{{5}} hunt! !” drew wide condemnation, including from the mother of the Scottish tennis star Andy Murray.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN",
+      "NN"
+    ]
   },
   "11": {
-    "origtitle": "NATO Soldier Killed as Concern Rises Over Afghan Insider Attacks",
-    "title": " NATO Soldier {{NNP}} as {{NN}} {{NNP}} Over Afghan Insider Attacks",
-    "origabstract": "An Afghan commando targeted NATO soldiers, days after an infiltrator killed a top Afghan commander and wounded an American general.",
-    "abstract": " An {{JJ}} {{NN}} {{VBN}} {{NNP}} soldiers, {{NNS}} after an infiltrator {{VBN}} a top Afghan commander and wounded an {{NNP}} general."
+    "headlinetext": "China Mocks Report It {{0}} Trump’s iPhone (and Plugs Its {{1}} Competitor). {{2}} ridiculed but {{3}} {{4}} explicitly {{5}} reports by {{6}} {{7}} that the Chinese {{8}} President Trump’s phone calls with old {{9}}.",
+    "headlinepostags": [
+      "NNP",
+      "JJ",
+      "NNP",
+      "VBD",
+      "RB",
+      "VB",
+      "NN",
+      "NNS",
+      "VBD",
+      "NNS"
+    ]
   },
   "12": {
-    "origtitle": "Ryanair Under Fire for Ignoring Passenger’s Racist Rant",
-    "title": " {{NNP}} Under {{NNP}} for {{VBG}} {{NN}}’s Racist Rant",
-    "origabstract": "Video of the incident prompted calls to boycott the budget airline, and British officials promised to raise it in Parliament.",
-    "abstract": " Video of the {{NN}} {{VBD}} calls to {{NN}} the budget airline, and British {{NNS}} promised to {{VB}} it in Parliament."
+    "headlinetext": "{{0}}’s Radical Approach to News: Humans Over {{1}}. While Google, Facebook and Twitter face scrutiny for spreading {{2}}, Apple has avoided scandal by {{3}} people to {{4}} what news to show. Is that {{5}} for news outlets?",
+    "headlinepostags": [
+      "NNP",
+      "NNPS",
+      "NN",
+      "VBG",
+      "VB",
+      "JJ"
+    ]
   },
   "13": {
-    "origtitle": "The Trade War’s Latest Casualties: China’s Coddled Cats and Dogs",
-    "title": " The {{NNP}} War’s Latest Casualties: China’s Coddled Cats and Dogs",
-    "origabstract": "Some Chinese pet owners don’t trust local food and will even taste it themselves before serving it. For them, the fight means fewer and pricier choices.",
-    "abstract": " Some Chinese pet owners don’t trust {{JJ}} {{NN}} and will {{RB}} taste it themselves before {{VBG}} it. For them, the {{NN}} means fewer and pricier {{NNS}}."
+    "headlinetext": "Markets Edge Higher, Recovering After Decline That Wiped Out 2018’s {{0}}. {{1}} {{2}} in the {{3}} States on {{4}} {{5}}. European {{6}} were higher and Asian {{7}} were mixed a day after the S. & P. {{8}} gave up its {{9}} for 2018.",
+    "headlinepostags": [
+      "NNS",
+      "NNS",
+      "VBD",
+      "NNP",
+      "NNP",
+      "NN",
+      "NNS",
+      "NNS",
+      "CD",
+      "NNS"
+    ]
   },
   "14": {
-    "origtitle": "Italy Is in Trouble. Here’s Why the World Should Care.",
-    "title": " Italy Is in Trouble. {{RB}}’s Why the {{NNP}} Should Care.",
-    "origabstract": "Sinking confidence in Rome’s solvency could cause financial chain reactions that would be difficult for governments and central banks to control.",
-    "abstract": " Sinking confidence in Rome’s solvency could cause {{JJ}} {{NN}} {{NNS}} that would be difficult for governments and {{JJ}} banks to {{NN}}."
+    "headlinetext": "Denmark {{0}} a {{1}} to {{2}} a {{3}} Disease. Will It {{4}}?. The {{5}}, African {{6}} {{7}}, is {{8}}, but {{9}} say {{10}}’s {{11}} is {{12}}, and infected wild boar will find their {{13}} in from Germany.",
+    "headlinepostags": [
+      "NNS",
+      "NNP",
+      "VB",
+      "NNP",
+      "NN",
+      "NN",
+      "NNS",
+      "NN",
+      "JJ",
+      "NNS",
+      "NNP",
+      "NN",
+      "RB",
+      "NN"
+    ]
   },
   "15": {
-    "origtitle": "The Library of Congress Lets You Stream Hundreds of Free Films",
-    "title": " The {{NNP}} of {{NNP}} Lets You {{NNP}} Hundreds of Free Films",
-    "origabstract": "Viewers worldwide can now download or stream free movies from the library’s National Screening Room website.",
-    "abstract": " {{NNS}} {{JJ}} can now download or stream {{JJ}} movies from the {{NN}}’s National Screening Room website."
+    "headlinetext": "‘{{0}}’ {{1}} Yutu Slams Into U.S. Commonwealth in the {{2}}. The {{3}} was the {{4}} of a {{5}} 5 {{6}} when it destroyed {{7}} in the Northern Mariana {{8}}, which are {{9}} of {{10}} in the {{11}} {{12}} Ocean.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN",
+      "NN",
+      "NNP",
+      "NN",
+      "NNS",
+      "NNPS",
+      "NN",
+      "NNP",
+      "JJ",
+      "NNP"
+    ]
   },
   "16": {
-    "origtitle": "Standing Ovation for Saudi Crown Prince Thrusts Conference Attendees Into Limelight",
-    "title": " Standing Ovation for Saudi Crown Prince Thrusts Conference Attendees Into {{NNP}}",
-    "origabstract": "Investors from around the world gathered in Riyadh for a conference, but the killing the dissident journalist Jamal Khashoggi and Saudi Arabia’s role in it loomed large.",
-    "abstract": " Investors from around the world gathered in Riyadh for a conference, but the killing the dissident journalist {{NNP}} {{NNP}} and Saudi Arabia’s role in it loomed large."
+    "headlinetext": "Iraqi {{0}} {{1}} New {{2}}, but Key Posts Are Unfilled. A number of {{3}} posts have {{4}} {{5}} filled, {{6}} the {{7}} of {{8}}, {{9}} and {{10}}.",
+    "headlinepostags": [
+      "NNS",
+      "NNP",
+      "NNP",
+      "NN",
+      "RB",
+      "VBN",
+      "VBG",
+      "NNS",
+      "NN",
+      "NN",
+      "JJ"
+    ]
   },
   "17": {
-    "origtitle": "SoftBank Chief Is Said to Have Canceled Appearance at Saudi Conference",
-    "title": " SoftBank Chief Is Said to Have Canceled Appearance at Saudi {{NNP}}",
-    "origabstract": "Masayoshi Son joins other prominent executives who have decided not to attend the investment conference over the killing of the journalist Jamal Khashoggi.",
-    "abstract": " Masayoshi {{NNP}} joins other {{JJ}} executives who have {{VBD}} {{RB}} to attend the investment conference over the {{VBG}} of the {{NN}} Jamal Khashoggi."
+    "headlinetext": "{{0}}, Midterms, {{1}}: Your {{2}} Evening Briefing. Here’s what you {{3}} to {{4}} at the end of the {{5}}.",
+    "headlinepostags": [
+      "NNS",
+      "NNPS",
+      "NNP",
+      "NN",
+      "VB",
+      "NN"
+    ]
   },
   "18": {
-    "origtitle": "An Indian Court Ordered a Temple to Admit Women. So Far, It Hasn’t.",
-    "title": " An {{NNP}} Court Ordered a {{NNP}} to Admit Women. So {{NNP}}, It {{NNP}}’t.",
-    "origabstract": "At least 12 women have tried to enter Sabarimala Temple since the Supreme Court struck down its ban, but mobs — or official discouragement — have stopped them.",
-    "abstract": " At least 12 women have tried to enter {{NNP}} Temple since the Supreme Court struck down its ban, but {{NNS}} — or official discouragement — have stopped them."
+    "headlinetext": "If U.S. {{0}} Are Deployed, {{1}} Says, Europe at {{2}} of ‘Counterstrike’. The Russian president issued the warning after President Trump {{3}} the U.S. planned to {{4}} out of a {{5}} treaty {{6}} some types of missiles.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NN",
+      "VBD",
+      "VB",
+      "JJ",
+      "VBG"
+    ]
   },
   "19": {
-    "origtitle": "Migrant Caravan Puts Mexico Back in U.S. Cross Hairs",
-    "title": " {{NNP}} Caravan Puts Mexico Back in {{NNP}} Cross {{NNP}}",
-    "origabstract": "The American government has demanded that Mexico halt thousands of Central Americans making their way north. But Mexico may be in a no-win situation.",
-    "abstract": " The American {{NN}} has {{VBD}} that Mexico {{NN}} {{NNS}} of Central Americans making their {{NN}} north. But Mexico may be in a {{JJ}} {{NN}}."
+    "headlinetext": "{{0}} No {{1}}: Rose Zar, a {{2}} Survivor Who Hid in {{3}} Sight. {{4}} worked in the home of a {{5}} commander and saved dozens of Jewish orphans, then {{6}} to the {{7}} States and shared her {{8}} story.",
+    "headlinepostags": [
+      "VBN",
+      "RBR",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNP",
+      "VBD",
+      "NNP",
+      "NN"
+    ]
   },
   "20": {
-    "origtitle": "Series of Lapses Led to Army Soldier’s Death in Afghanistan",
-    "title": " {{NNP}} of Lapses Led to {{NNP}} Soldier’s Death in {{NNP}}",
-    "origabstract": "The location of the attack was a small strip of desert frequently used by a military unit, prompting Taliban militants to bury explosives nearby.",
-    "abstract": " The location of the {{NN}} was a small strip of desert frequently used by a {{JJ}} unit, {{VBG}} Taliban militants to bury explosives {{JJ}}."
+    "headlinetext": "{{0}} Push for a {{1}} Program to Scrub Carbon From the Air. Scientists are increasingly warning that {{2}} emissions isn't enough. We'll {{3}} have to take billions of tons of carbon out of the atmosphere.",
+    "headlinepostags": [
+      "NNS",
+      "NNP",
+      "VBG",
+      "RB"
+    ]
   },
   "21": {
-    "origtitle": "Migrant Caravan, Transgender Rights, Khashoggi: Your Monday Evening Briefing",
-    "title": " {{NNP}} {{NNP}}, {{NNP}} Rights, {{NNP}}: Your Monday {{NNP}} Briefing",
-    "origabstract": "Here’s what you need to know at the end of the day.",
-    "abstract": " {{RB}}’s what you {{NN}} to {{VB}} at the end of the day."
+    "headlinetext": "Racist Rant on {{0}} Flight {{1}} Investigation by British {{2}}. A white {{3}}’s tirade at a black {{4}} was {{5}} on {{6}} that was {{7}} {{8}} of times and led to a public {{9}}. The airline, which did not {{10}} the {{11}}, is facing calls for a boycott.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN",
+      "NN",
+      "VBN",
+      "NN",
+      "VBN",
+      "NNS",
+      "NN",
+      "NN",
+      "NN"
+    ]
   },
   "22": {
-    "origtitle": "Bolton Says He Confronted Russians Over Election Meddling",
-    "title": " Bolton Says He Confronted Russians Over Election {{NNP}}",
-    "origabstract": "President Trump’s national security adviser said that during meetings in Moscow he censured Russian officials for U.S. election meddling although it had had no effect on outcomes.",
-    "abstract": " President Trump’s national security adviser {{VBD}} that during {{NNS}} in Moscow he censured {{NNP}} {{NNS}} for U.S. election meddling although it {{VBD}} had no effect on outcomes."
+    "headlinetext": "{{0}} {{1}} to {{2}}, and So Do Seismic Tremors Near Drilling {{3}}. Minor earth tremors were {{4}} in an {{5}} where an energy {{6}} resumed hydraulic {{7}} less than {{8}} {{9}} ago, reinforcing fears of opponents.",
+    "headlinepostags": [
+      "NNP",
+      "NNS",
+      "NNP",
+      "NNP",
+      "VBD",
+      "NN",
+      "NN",
+      "VBG",
+      "CD",
+      "NNS"
+    ]
   },
   "23": {
-    "origtitle": "Microplastics Find Their Way Into Your Gut, a Pilot Study Finds",
-    "title": " {{NNP}} Find Their {{NN}} Into Your {{NNP}}, a Pilot Study Finds",
-    "origabstract": "Researchers looked for microplastics in stool samples of people from eight countries. “The results were astonishing,” they said.",
-    "abstract": " Researchers {{VBD}} for microplastics in {{NN}} samples of {{NNS}} from eight countries. “The {{NNS}} were astonishing,” they said."
+    "headlinetext": "Outrage Over a Handshake Between Khashoggi {{0}} and the Crown {{1}}. {{2}} images of {{3}} Prince {{4}} {{5}} {{6}} shaking the hand of a stone-faced Salah {{7}}, whose father was killed in a {{8}} {{9}}, {{10}} {{11}}.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN",
+      "VBD",
+      "NN"
+    ]
   },
   "24": {
-    "origtitle": "Robert Faurisson, Holocaust Denier Prosecuted by French, Dies at 89",
-    "title": " Robert {{NNP}}, Holocaust Denier Prosecuted by French, Dies at 89",
-    "origabstract": "A former literature professor, he was an obscure anti-Semitic propagandist until a respected newspaper published an article by him, causing an uproar.",
-    "abstract": " A former literature {{NN}}, he was an {{JJ}} anti-Semitic {{NN}} until a {{VBN}} newspaper published an {{NN}} by him, {{VBG}} an {{NN}}."
+    "headlinetext": "Saudi Crown {{0}} Calls {{1}}’s {{2}} ‘Heinous’. It was the crown {{3}}’s most public comment since the backlash over the {{4}} 2 {{5}} of the Saudi critic Jamal Khashoggi began {{6}} the kingdom.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NN",
+      "NN",
+      "NNP",
+      "VBG",
+      "VBG"
+    ]
   },
   "25": {
-    "origtitle": "Morocco Unleashes a Harsh Crackdown on Sub-Saharan Migrants",
-    "title": " Morocco Unleashes a Harsh Crackdown on Sub-Saharan Migrants",
-    "origabstract": "The raids, coordinated with Spain and the E.U., are resulting in the arrest of thousands, many with proper documents, banishment to distant parts of the country, or even expulsion, rights groups say.",
-    "abstract": " The raids, {{VBN}} with {{NNP}} and the E.U., are {{VBG}} in the arrest of thousands, {{JJ}} with proper documents, {{NN}} to {{JJ}} parts of the country, or even expulsion, {{NNS}} {{NNS}} say."
+    "headlinetext": "Spinal {{0}} Repaired in the Womb, in First Surgery of its {{1}} in U.K.. A team of surgeons this summer successfully repaired the {{2}} cords to treat spina bifida in two babies before birth.",
+    "headlinepostags": [
+      "NNP",
+      "NN",
+      "JJ"
+    ]
   },
   "26": {
-    "origtitle": "Security Images Show Khashoggi and Fiancée in His Final Hours",
-    "title": " Security {{NNP}} Show Khashoggi and Fiancée in His Final Hours",
-    "origabstract": "The images were published by the Turkish media as part of the continuing leaks from the investigation into the journalist’s death inside the Saudi Consulate.",
-    "abstract": " The {{NNS}} were published by the Turkish media as {{NN}} of the continuing leaks from the {{NN}} into the {{NN}}’s {{NN}} inside the Saudi Consulate."
+    "headlinetext": "Rome Escalator Collapse Injures Dozens in Subway Station. The {{0}} were investigating why the {{1}} suddenly {{2}} up, {{3}} passengers in a {{4}} of bodies at the bottom.",
+    "headlinepostags": [
+      "NNS",
+      "NN",
+      "VBD",
+      "VBG",
+      "NN"
+    ]
   },
   "27": {
-    "origtitle": "On Jamal Khashoggi Killing, Trump Administration Sends Mixed Signals",
-    "title": " On Jamal Khashoggi {{NN}}, Trump {{NNP}} {{NNP}} Mixed {{NNP}}",
-    "origabstract": "The C.I.A. director is helping the Turkish government with its inquiry into the killing of Jamal Khashoggi, and the Treasury secretary held a wide-ranging meeting with the Saudi crown prince.",
-    "abstract": " The {{NNP}} {{NN}} is {{VBG}} the Turkish {{NN}} with its {{NN}} into the {{VBG}} of {{NNP}} {{NNP}}, and the Treasury secretary {{VBN}} a {{JJ}} {{NN}} with the Saudi {{NN}} {{NN}}."
+    "headlinetext": "The ‘{{0}} Zhivago’ {{1}} Dust-up. Sixty {{2}} ago, the Swedish {{3}} {{4}}ed the {{5}} {{6}} Boris Pasternak the Nobel Prize for Literature, but less than a week later, under {{7}} from the Soviet government, Pasternak rejected the award. The {{8}}, which {{9}} more {{10}} and turns than a Cold War-era spy {{11}}, played out in The New York Times with {{12}} {{13}} story after another.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNS",
+      "NNP",
+      "NN",
+      "NNP",
+      "NN",
+      "NN",
+      "NN",
+      "VBD",
+      "NNS",
+      "NN",
+      "CD",
+      "JJ"
+    ]
   },
   "28": {
-    "origtitle": "Australia Tells America: Here’s How to Fix Your Voting System",
-    "title": " {{NNP}} Tells {{NNP}}: {{RB}}’s How to Fix Your Voting System",
-    "origabstract": "Our readers from Australia shared their thoughts about being required to vote and helped explain the ins and outs of the process.",
-    "abstract": " Our readers from Australia shared their thoughts about {{VBG}} {{VBN}} to vote and {{VBD}} explain the ins and {{NNS}} of the process."
+    "headlinetext": "The {{0}} With Fixing WhatsApp? Human {{1}} Might {{2}} in the {{3}}. The messaging app, which is {{4}} by {{5}}, has {{6}} {{7}} to address {{8}} news on its {{9}}. The problem may be less the company or product, and more WhatsApp the idea.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "VB",
+      "NN",
+      "VBN",
+      "NNP",
+      "VBN",
+      "JJ",
+      "JJ",
+      "NN"
+    ]
   },
   "29": {
-    "origtitle": "Walter Kwok, Hong Kong Developer Who Survived Kidnapping, Dies at 68",
-    "title": " Walter {{NNP}}, {{NNP}} Kong {{NNP}} Who Survived {{NNP}}, Dies at 68",
-    "origabstract": "Mr. Kwok led the development giant Sun Hung Kai Properties with his brothers, but was later ousted from the family business.",
-    "abstract": " Mr. Kwok {{VBN}} the development giant {{NNP}} Hung {{NNP}} Properties with his brothers, but was later ousted from the family business."
+    "headlinetext": "Paradise Threatened: {{0}}’s War Against Climate Change. The South Pacific {{1}} faces major environmental challenges, from the destruction of {{2}} reefs to rising sea {{3}}. At least one resort is asking {{4}} to help.",
+    "headlinepostags": [
+      "NNP",
+      "NN",
+      "JJ",
+      "NNS",
+      "NNS"
+    ]
   },
   "30": {
-    "origtitle": "Italy’s Tough Line on Immigrants Reaches a School Cafeteria",
-    "title": " {{NNP}}’s Tough Line on {{NNP}} Reaches a School {{NNP}}",
-    "origabstract": "Lodi’s mayor tightened the rules for lunch subsidies, a move that affected immigrant children. The leader of the League, the country’s right-wing governing party, supports her.",
-    "abstract": " {{NNP}}’s {{NN}} tightened the {{NNS}} for lunch {{NNS}}, a move that {{VBN}} immigrant children. The leader of the League, the {{NN}}’s right-wing governing party, supports her."
+    "headlinetext": "1918: Italian Workmen {{0}} Into {{1}} {{2}}. An escape from German {{3}} {{4}} the {{5}} Italians to {{6}} shelter in a {{7}}, before {{8}} shellfire to find refuge with {{9}} soldiers.",
+    "headlinepostags": [
+      "NN",
+      "NNP",
+      "NNP",
+      "VB",
+      "VBN",
+      "CD",
+      "VB",
+      "NN",
+      "VBG",
+      "NNP"
+    ]
   },
   "31": {
-    "origtitle": "‘We Say Sorry’: Australia Formally Apologizes to Victims of Child Sexual Abuse",
-    "title": " ‘We {{VB}} {{JJ}}’: Australia Formally Apologizes to {{NNS}} of {{NNP}} Sexual Abuse",
-    "origabstract": "A public apology by the prime minister was the culmination of a national investigation that found thousands of cases of abuse across decades.",
-    "abstract": " A {{JJ}} apology by the {{JJ}} minister was the {{NN}} of a {{JJ}} {{NN}} that {{VBD}} thousands of cases of abuse across decades."
+    "headlinetext": "{{0}} Willa Weakens in {{1}} After {{2}} Are {{3}}. {{4}} a {{5}} 3 hurricane, the storm {{6}} much of its power after making landfall in west-central Mexico, but flooding {{7}} a serious threat.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNS",
+      "NNP",
+      "RB",
+      "NNP",
+      "VBD",
+      "VBD"
+    ]
   },
   "32": {
-    "origtitle": "Taiwan Seeks Cause of Its Worst Rail Crash in Decades",
-    "title": " {{NNP}} Seeks {{NNP}} of Its Worst Rail Crash in Decades",
-    "origabstract": "The conductor of a train that crashed in northern Taiwan, killing 18 people, had reported problems with the power system, the local news media said.",
-    "abstract": " The conductor of a train that crashed in northern Taiwan, {{VBG}} 18 people, {{VBD}} reported problems with the power system, the {{JJ}} news media said."
+    "headlinetext": "{{0}} and {{1}} Escalate {{2}} Over Khashoggi Killing. For the strongmen of Turkey and Saudi Arabia, the {{3}} over the {{4}} of a dissident is {{5}} and political.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN",
+      "VBG",
+      "JJ"
+    ]
   },
   "33": {
-    "origtitle": "‘Headless Chicken Monster’ Spotted in the Deep Sea",
-    "title": " ‘{{NNP}} Chicken Monster’ Spotted in the {{NNP}} Sea",
-    "origabstract": "A sea cucumber, previously only filmed off the Gulf of Mexico, was seen floating near Antarctica.",
-    "abstract": " A sea cucumber, previously {{RB}} filmed off the Gulf of Mexico, was seen {{VBG}} near Antarctica."
+    "headlinetext": "Migrant {{0}} {{1}} by Hope but Uncertain of Success. They are sleeping {{2}} and living on {{3}} food on their {{4}} north. Despite the {{5}}, {{6}} say it is better than the poverty and {{7}} they left behind.",
+    "headlinepostags": [
+      "NNP",
+      "VBN",
+      "RB",
+      "VBN",
+      "NN",
+      "NN",
+      "NNS",
+      "NN"
+    ]
   },
   "34": {
-    "origtitle": "In Poland Elections, Populists Fail to Sway Moderates, Exit Polls Suggest",
-    "title": " In {{NNP}} Elections, {{NNP}} {{NNP}} to {{NNP}} Moderates, {{NN}} {{NNS}} Suggest",
-    "origabstract": "Although official results are not yet in, exit polls suggested that the governing Law and Justice party had not expanded its appeal to the moderates in Poland’s urban areas.",
-    "abstract": " Although {{NN}} results are {{RB}} yet in, exit {{NNS}} {{VBD}} that the {{VBG}} {{NNP}} and Justice {{NN}} had not {{VBN}} its {{NN}} to the {{NNS}} in {{NNP}}’s urban {{NNS}}."
+    "headlinetext": "Tycoon {{0}} a Titanic II (This One Will Have More {{1}}). Clive {{2}}, a colorful {{3}} mining magnate, has {{4}} wanted to make the {{5}} of a {{6}} {{7}} a {{8}}. After {{9}} of delays, he says his {{10}} is {{11}} on.",
+    "headlinepostags": [
+      "NNS",
+      "NNP",
+      "NNP",
+      "JJ",
+      "JJ",
+      "NN",
+      "JJ",
+      "NNP",
+      "NN",
+      "NNS",
+      "NN",
+      "RB"
+    ]
+  },
+  "35": {
+    "headlinetext": "{{0}}, {{1}}, Migrant Caravan: Your {{2}} Evening {{3}}. Here’s what you need to know at the {{4}} of the day.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NN"
+    ]
+  },
+  "36": {
+    "headlinetext": "{{0}} Mother and Baby Home Remains Will Be {{1}}, {{2}} Says. After the bodies, perhaps {{3}} in the hundreds, are dug out from an old {{4}} system, investigators will {{5}} to {{6}} them.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "VBG",
+      "JJ",
+      "NN",
+      "VB"
+    ]
+  },
+  "37": {
+    "headlinetext": "Italy Is in Trouble With the {{0}} Here’s Why the {{1}} Should Care.. Sinking {{2}} in Rome’s solvency could cause financial chain reactions that would be difficult for {{3}} and {{4}} banks to {{5}}.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NN",
+      "NNS",
+      "JJ",
+      "NN"
+    ]
   }
 }

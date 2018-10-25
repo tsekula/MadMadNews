@@ -4,7 +4,8 @@
       "name": "NY Times Bestsellers",
       "output_file": "nytbestseller.json",
       "alexa_params":{
-        "reading_format": "{title}, by {author}. {description}"
+        "introduction": "From the New York Times current best sellers list",
+        "reading_format": "'{{title}}', by {{author}}. {{description}}"
          },
       "source_request_params": {
         "url": "https://api.nytimes.com/svc/books/v3/lists.json",
@@ -27,7 +28,8 @@
     "name": "NY Times Top Stories - World",
     "output_file": "nyttopstoriesworld.json",
     "alexa_params":{
-      "reading_format": "{title}. {abstract}"
+      "introduction": "From the New York Times top stories in world news",
+      "reading_format": "{{title}}. {{abstract}}"
     },
     "source_request_params": {
       "url": "https://api.nytimes.com/svc/topstories/v2/world.json",

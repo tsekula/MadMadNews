@@ -14,3 +14,15 @@ exports.replaceContractionsInSentence = function (text) {
     
     return updatedText;
 };
+
+exports.getTagsInText = function(text) {
+    var myRe = /\{{2}[A-Za-z]*\}{2}/g;
+    var myArray;
+    var tagsArray = [];
+    
+    while ((myArray = myRe.exec(text)) !== null) {
+        tagsArray.push(myArray[0].replace("{{","").replace("}}",""));
+    }    
+    
+    return tagsArray;
+}

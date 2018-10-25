@@ -1,5 +1,5 @@
 {
   "include_POS_tags": "NNP,JJ,VB,CD,NN,NNS,NNP,NNPS,RB,RBR,RBS,VBD,VBG,VBN",
-  "exclude_words": "’,s,was,were,about,right,tried,date,should,would,could,is",
+  "exclude_words": "’,s,was,were,about,right,tried,date,should,would,could,is,north,east,west,south,next,few,ago,much,far,hasn",
   "include_keywords": "President Trump,Marine Le Pen,Trump,Trudeau,New York,Saudi Arabia,Saudi"
 }

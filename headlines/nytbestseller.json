@@ -1,122 +1,160 @@
 {
   "0": {
-    "origtitle": "HOLY GHOST",
-    "title": " {{JJ}} GHOST",
-    "origauthor": "John Sandford",
-    "author": " {{NNP}} Sandford",
-    "origdescription": "Virgil Flowers investigates shootings in a Minnesota town following an attempt to revive its ailing economy.",
-    "description": " {{NNP}} Flowers investigates shootings in a Minnesota {{NN}} following an attempt to revive its ailing economy."
+    "headlinetext": "'EVERY {{0}}', by Nicholas Sparks. Difficult {{1}} surface when Hope {{2}} and Tru {{3}} meet in a North Carolina seaside {{4}}.",
+    "headlinepostags": [
+      "NN",
+      "NNS",
+      "NNP",
+      "NNS",
+      "NN"
+    ]
   },
   "1": {
-    "origtitle": "AMBUSH",
-    "title": " AMBUSH",
-    "origauthor": "James Patterson and James O Born",
-    "author": " {{NNP}} Patterson and James O {{VBN}}",
-    "origdescription": "Michael Bennett discovers that an assassin is targeting him and his family.",
-    "description": " Michael {{NNP}} discovers that an {{NN}} is {{VBG}} him and his family."
+    "headlinetext": "'UNSHELTERED', by Barbara Kingsolver. Intertwined {{0}} of two families who live in {{1}} {{2}} on the same street corner in Vineland, N.J.",
+    "headlinepostags": [
+      "NNS",
+      "JJ",
+      "NNS"
+    ]
   },
   "2": {
-    "origtitle": "THE NEXT PERSON YOU MEET IN HEAVEN",
-    "title": " THE {{NN}} {{NN}} YOU {{NN}} IN HEAVEN",
-    "origauthor": "Mitch Albom",
-    "author": " {{NNP}} Albom",
-    "origdescription": "The sequel to \"The Five People You Meet in Heaven\" follows Annie on her heavenly journey.",
-    "description": " The sequel to \"The {{CD}} People You Meet in Heaven\" follows {{NNP}} on her heavenly journey."
+    "headlinetext": "'{{0}} {{1}}', by John {{2}}. {{3}} Flowers investigates {{4}} in a {{5}} {{6}} following an attempt to revive its {{7}} {{8}}.",
+    "headlinepostags": [
+      "JJ",
+      "NN",
+      "NNP",
+      "NNP",
+      "NNS",
+      "NNP",
+      "NN",
+      "VBG",
+      "NN"
+    ]
   },
   "3": {
-    "origtitle": "THE WITCH ELM",
-    "title": " THE WITCH ELM",
-    "origauthor": "Tana French",
-    "author": " Tana {{JJ}}",
-    "origdescription": "After Toby Hennessy retreats to his family’s ancestral home, a skull discovered in the backyard exposes his family's past.",
-    "description": " After Toby {{NNP}} {{NNS}} to his {{NN}}’s {{JJ}} {{NN}}, a {{NN}} {{VBN}} in the backyard exposes his family's {{JJ}}."
+    "headlinetext": "'THE NEXT PERSON YOU MEET IN HEAVEN', by Mitch Albom. The sequel to \"The {{0}} People You {{1}} in Heaven\" follows Annie on her {{2}} journey.",
+    "headlinepostags": [
+      "CD",
+      "VB",
+      "JJ"
+    ]
   },
   "4": {
-    "origtitle": "THE CLOCKMAKER'S DAUGHTER",
-    "title": " THE CLOCKMAKER'S DAUGHTER",
-    "origauthor": "Kate Morton",
-    "author": " Kate Morton",
-    "origdescription": "A century-old mystery at the Birchwood Manor on the Thames connects the lives of an archivist and artist.",
-    "description": " A {{JJ}} {{NN}} at the Birchwood Manor on the {{NNP}} connects the lives of an archivist and artist."
+    "headlinetext": "'DESPERATE MEASURES', by Stuart {{0}}. The {{1}} {{2}} in the Stone {{3}} series.",
+    "headlinepostags": [
+      "NNP",
+      "NN",
+      "NN",
+      "NNP"
+    ]
   },
   "5": {
-    "origtitle": "WINTER IN PARADISE",
-    "title": " {{NN}} IN {{NN}}",
-    "origauthor": "Elin Hilderbrand",
-    "author": " Elin Hilderbrand",
-    "origdescription": "Irene Steele uncovers her husband’s secret life on a Caribbean island following his death.",
-    "description": " Irene Steele uncovers her {{NN}}’s {{JJ}} life on a Caribbean island following his {{NN}}."
+    "headlinetext": "'A SPARK OF {{0}}', by Jodi Picoult. The {{1}} of {{2}}, {{3}} and {{4}} {{5}} when a gunman holds them all hostage in a {{6}}'s {{7}} {{8}} in Mississippi.",
+    "headlinepostags": [
+      "NN",
+      "NNS",
+      "NNS",
+      "NNS",
+      "NNS",
+      "VB",
+      "NN",
+      "NN",
+      "NN"
+    ]
   },
   "6": {
-    "origtitle": "A SPARK OF LIGHT",
-    "title": " A {{NN}} OF {{NN}}",
-    "origauthor": "Jodi Picoult",
-    "author": " Jodi {{NNP}}",
-    "origdescription": "The lives of patients, doctors and activists intersect when a gunman holds them all hostage in a woman's health center in Mississippi.",
-    "description": " The {{NNS}} of patients, doctors and activists intersect when a gunman holds them all {{NN}} in a woman's health center in Mississippi."
+    "headlinetext": "'{{0}}', by {{1}} Patterson and James O Born. {{2}} Bennett discovers that an assassin is targeting him and his family.",
+    "headlinepostags": [
+      "NN",
+      "NNP",
+      "NNP"
+    ]
   },
   "7": {
-    "origtitle": "KILLING COMMENDATORE",
-    "title": " KILLING COMMENDATORE",
-    "origauthor": "Haruki Murakami",
-    "author": " {{NNP}} Murakami",
-    "origdescription": "The discovery of an unseen work in an artist’s attic unleashes a series of bizarre occurrences that a painter must navigate.",
-    "description": " The discovery of an unseen {{NN}} in an {{NN}}’s {{NN}} unleashes a series of bizarre occurrences that a painter must {{VB}}."
+    "headlinetext": "'WHERE THE CRAWDADS SING', by Delia Owens. In a {{0}} town on the {{1}} {{2}} {{3}} in 1969, a {{4}} woman who survived alone in the {{5}} becomes a {{6}} suspect.",
+    "headlinepostags": [
+      "JJ",
+      "NNP",
+      "NNP",
+      "NN",
+      "JJ",
+      "NN",
+      "NN"
+    ]
   },
   "8": {
-    "origtitle": "VINCE FLYNN: RED WAR",
-    "title": " VINCE FLYNN: RED {{NNP}}",
-    "origauthor": "Kyle Mills",
-    "author": " {{NNP}} Mills",
-    "origdescription": "When the Russian prime minister plots to invade the Baltics, only Mitch Rapp can stop him.",
-    "description": " When the Russian prime {{NN}} {{NNS}} to {{VB}} the {{NNP}}, only Mitch Rapp can stop him."
+    "headlinetext": "'THE WITCH {{0}}', by Tana French. After Toby Hennessy {{1}} to his {{2}}’s ancestral home, a skull {{3}} in the {{4}} exposes his family's past.",
+    "headlinepostags": [
+      "NN",
+      "NNS",
+      "NN",
+      "VBN",
+      "NN"
+    ]
   },
   "9": {
-    "origtitle": "WHERE THE CRAWDADS SING",
-    "title": " WHERE THE {{NN}} {{NN}}",
-    "origauthor": "Delia Owens",
-    "author": " Delia Owens",
-    "origdescription": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
-    "description": " In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the {{NN}} becomes a murder suspect."
+    "headlinetext": "'CRAZY {{0}} {{1}}', by Kevin Kwan. A New Yorker gets a {{2}} when she spends the {{3}} with her boyfriend in Singapore.",
+    "headlinepostags": [
+      "NN",
+      "NN",
+      "NN",
+      "NN"
+    ]
   },
   "10": {
-    "origtitle": "CRAZY RICH ASIANS",
-    "title": " {{JJ}} RICH {{NN}}",
-    "origauthor": "Kevin Kwan",
-    "author": " {{NNP}} Kwan",
-    "origdescription": "A New Yorker gets a surprise when she spends the summer with her boyfriend in Singapore.",
-    "description": " A New Yorker gets a surprise when she spends the summer with her boyfriend in {{NNP}}."
+    "headlinetext": "'{{0}} {{1}}: RED WAR', by {{2}} Mills. When the {{3}} {{4}} {{5}} plots to invade the Baltics, only {{6}} {{7}} can {{8}} him.",
+    "headlinepostags": [
+      "NN",
+      "NN",
+      "NNP",
+      "NNP",
+      "JJ",
+      "NN",
+      "NNP",
+      "NNP",
+      "VB"
+    ]
   },
   "11": {
-    "origtitle": "THE TATTOOIST OF AUSCHWITZ",
-    "title": " THE TATTOOIST OF AUSCHWITZ",
-    "origauthor": "Heather Morris",
-    "author": " Heather Morris",
-    "origdescription": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
-    "description": " A {{NN}} camp detainee tasked with permanently marking fellow {{NNS}} falls in love with one of them."
+    "headlinetext": "'WINTER IN PARADISE', by {{0}} {{1}}. {{2}} {{3}} {{4}} her husband’s secret life on a {{5}} island following his death.",
+    "headlinepostags": [
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNP",
+      "NNS",
+      "NNP"
+    ]
   },
   "12": {
-    "origtitle": "LETHAL WHITE",
-    "title": " {{JJ}} {{NN}}",
-    "origauthor": "Robert Galbraith",
-    "author": " Robert {{NNP}}",
-    "origdescription": "The fourth book in the Cormoran Strike series. Detectives Strike and Ellacott investigate a crime a young man may have witnessed as a child; by J. K. Rowling, writing pseudonymously.",
-    "description": " The {{JJ}} book in the Cormoran Strike series. Detectives {{VB}} and {{NNP}} investigate a crime a {{JJ}} man may have witnessed as a {{NN}}; by J. K. {{NNP}}, writing {{RB}}."
+    "headlinetext": "'THE TATTOOIST OF AUSCHWITZ', by {{0}} Morris. A concentration camp detainee {{1}} with permanently {{2}} {{3}} prisoners falls in love with one of them.",
+    "headlinepostags": [
+      "NNP",
+      "VBN",
+      "VBG",
+      "NN"
+    ]
   },
   "13": {
-    "origtitle": "ELEANOR OLIPHANT IS COMPLETELY FINE",
-    "title": " {{NN}} {{NN}} IS {{NN}} {{NN}}",
-    "origauthor": "Gail Honeyman",
-    "author": " Gail {{NNP}}",
-    "origdescription": "A young woman’s well-ordered life is disrupted by the I.T. guy from her office.",
-    "description": " A {{JJ}} woman’s {{VBN}} {{NN}} is {{VBN}} by the {{NNP}} guy from her {{NN}}."
+    "headlinetext": "'{{0}} OLIPHANT IS COMPLETELY {{1}}', by {{2}} Honeyman. A {{3}} woman’s {{4}} life is {{5}} by the {{6}} {{7}} from her office.",
+    "headlinepostags": [
+      "NN",
+      "NN",
+      "NNP",
+      "JJ",
+      "VBN",
+      "VBN",
+      "NNP",
+      "NN"
+    ]
   },
   "14": {
-    "origtitle": "JUROR #3",
-    "title": " {{NN}} #3",
-    "origauthor": "James Patterson and Nancy Allen",
-    "author": " James Patterson and {{NNP}} {{NNP}}",
-    "origdescription": "Ruby Bozarth defends a college football star charged in a felony case complicated by a second murder.",
-    "description": " Ruby Bozarth defends a {{NN}} football star {{VBN}} in a felony {{NN}} {{VBN}} by a second murder."
+    "headlinetext": "'THE {{0}} FIRE', by {{1}} Scalzi. As humanity's interstellar empire nears {{2}}, Emperox {{3}} II faces resourceful adversaries.",
+    "headlinepostags": [
+      "NN",
+      "NNP",
+      "NN",
+      "NNP"
+    ]
   }
 }

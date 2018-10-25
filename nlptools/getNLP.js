@@ -46,7 +46,7 @@ function getModifiedSentence(tags) {
     delete sentence["restricted"];
     
   }
-  return modifiedSentence;
+  return modifiedSentence.trim();
 }
 
 
