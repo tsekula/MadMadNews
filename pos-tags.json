@@ -19,7 +19,7 @@
  },
  {
    "tag": "JJS",
-   "fullname": "an adjective ending in e. s. t. ",
+   "fullname": "an adjective ending in -e -s -t",
    "examples": "biggest, fastest, smartest",
    "description": "an adjective used to describe an object which is at the upper or lower limit of a quality"
  },
@@ -103,20 +103,20 @@
  },
  {
    "tag": "ORGANIZATION",
-   "fullname": "an group of people, team, or formal organization",
+   "fullname": "the name of an organization",
    "examples": "The Dodgers, The Beatles, Congress",
-   "description": ""
+   "description": "the name of a group of people, team, or formal organization"
  },
  {
    "tag": "GPE",
    "fullname": "the name of a place",
-   "examples": "Zimbabwe, school, Mars",
+   "examples": "Zimbabwe, school, Mars, Valhalla",
    "description": "a real or imaginary geographical location"
  },
  {
    "tag": "LOCATION",
    "fullname": "the name of a place",
-   "examples": "Zimbabwe, school, Mars",
+   "examples": "Zimbabwe, school, Mars, Valhalla",
    "description": "a real or imaginary geographical location"
  }
 ]

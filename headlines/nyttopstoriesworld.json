@@ -1,1945 +1,103 @@
 {
   "0": {
-    "headlinetext": " {0} and {1} {2} {3} {4} as {5} With {6} {7}.  {8} from {9} {10}’ s {11} {12} {13} {14} to {15} a {16} that {17} {18} what the {19} {20} {21} the {22}’ s {23} {24} {25}.",
+    "headlinetext": " {0} {1} Who {2} {3}'s {4} to {5} Is {6}.  When a {7} of an {8} {9} {10} in The {11}, {12} {13} {14} {15} to {16} to {17} the {18} of {19}. For {20}, it is {21} {22}.",
     "headlineentitytags": [
-      [
-        "U.S.",
-        "GPE"
-      ],
-      [
-        "Britain",
-        "GPE"
-      ],
-      [
-        "Seek",
-        "VBP"
-      ],
       [
         "Yemen",
         "GPE"
       ],
       [
-        "Cease-Fire",
-        "NN"
-      ],
-      [
-        "Relations",
-        "NNS"
-      ],
-      [
-        "Saudis",
-        "GPE"
-      ],
-      [
-        "Cool",
-        "ORGANIZATION"
-      ],
-      [
-        "Pressure",
-        "NN"
-      ],
-      [
-        "Saudi",
-        "GPE"
-      ],
-      [
-        "Arabia",
-        "PERSON"
-      ],
-      [
-        "biggest",
-        "JJS"
-      ],
-      [
-        "arms",
-        "NNS"
-      ],
-      [
-        "suppliers",
-        "NNS"
-      ],
-      [
-        "intensified",
-        "VBD"
-      ],
-      [
-        "halt",
-        "VB"
-      ],
-      [
-        "conflict",
-        "NN"
-      ],
-      [
-        "has",
-        "VBZ"
-      ],
-      [
-        "created",
-        "VBN"
-      ],
-      [
-        "United Nations",
-        "ORGANIZATION"
-      ],
-      [
-        "has",
-        "VBZ"
-      ],
-      [
-        "called",
-        "VBN"
-      ],
-      [
-        "world",
-        "NN"
-      ],
-      [
-        "worst",
-        "JJS"
-      ],
-      [
-        "humanitarian",
-        "JJ"
-      ],
-      [
-        "crisis",
-        "NN"
-      ]
-    ]
-  },
-  "1": {
-    "headlinetext": " {0} {1} Is {2} After ‘ {3}’ {4}.  {5} {6} {7} a {8} {9} from the {10}, {11} {12} of {13} what {14} {15} {16} {17} to {18} with {19} {20} on {21}.",
-    "headlineentitytags": [
-      [
-        "Black",
-        "GPE"
-      ],
-      [
-        "Box From Lion Air Crash",
-        "ORGANIZATION"
-      ],
-      [
-        "Recovered",
-        "VBN"
-      ],
-      [
-        "Desperate",
-        "JJ"
-      ],
-      [
-        "Search",
-        "NN"
-      ],
-      [
-        "Indonesian",
-        "GPE"
-      ],
-      [
-        "divers",
-        "NNS"
-      ],
-      [
-        "pulled",
-        "VBD"
-      ],
-      [
-        "flight",
-        "NN"
-      ],
-      [
-        "recorder",
-        "NN"
-      ],
-      [
-        "Java Sea",
-        "ORGANIZATION"
-      ],
-      [
-        "raising",
-        "VBG"
-      ],
-      [
-        "hopes",
-        "NNS"
-      ],
-      [
-        "learning",
-        "VBG"
-      ],
-      [
-        "caused",
-        "VBD"
-      ],
-      [
-        "Lion Air",
-        "PERSON"
-      ],
-      [
-        "Flight",
+        "Girl",
         "NNP"
       ],
       [
-        "610",
-        "CD"
-      ],
-      [
-        "crash",
-        "VB"
-      ],
-      [
-        "189",
-        "CD"
-      ],
-      [
-        "people",
-        "NNS"
-      ],
-      [
-        "board",
-        "NN"
-      ]
-    ]
-  },
-  "2": {
-    "headlinetext": " ‘ We’ ll {0}’: {1}’ s {2} {3} {4} to {5} {6}.  A {7} {8} {9} {10} {11} {12} and {13} {14} who {15} {16} {17} to {18} {19} in {20}.",
-    "headlineentitytags": [
-      [
-        "Dig Graves",
-        "ORGANIZATION"
-      ],
-      [
-        "Brazil",
-        "PERSON"
-      ],
-      [
-        "New",
-        "NNP"
-      ],
-      [
-        "Leaders",
-        "NNS"
-      ],
-      [
-        "Vow",
-        "NN"
-      ],
-      [
-        "Kill",
-        "VB"
-      ],
-      [
-        "Criminals",
-        "NNS"
-      ],
-      [
-        "violence-weary",
-        "JJ"
-      ],
-      [
-        "electorate",
-        "NN"
-      ],
-      [
-        "rewarded",
+        "Turned",
         "VBD"
-      ],
-      [
-        "incoming",
-        "JJ"
-      ],
-      [
-        "President",
-        "NN"
-      ],
-      [
-        "Jair Bolsonaro",
-        "PERSON"
-      ],
-      [
-        "other",
-        "JJ"
-      ],
-      [
-        "candidates",
-        "NNS"
-      ],
-      [
-        "promised",
-        "VBD"
-      ],
-      [
-        "draconian",
-        "JJ"
-      ],
-      [
-        "measures",
-        "NNS"
-      ],
-      [
-        "restore",
-        "VB"
-      ],
-      [
-        "order",
-        "NN"
-      ],
-      [
-        "Brazil",
-        "GPE"
-      ]
-    ]
-  },
-  "3": {
-    "headlinetext": " {0} # {1} {2}: ‘ They {3} Us {4}’.  {5} {6} {7} who {8} in the {9}’ s {10} {11} {12} {13} {14} on by {15} {16} {17} {18}, {19} {20}.",
-    "headlineentitytags": [
-      [
-        "North Korea",
-        "GPE"
-      ],
-      [
-        "MeToo",
-        "ORGANIZATION"
-      ],
-      [
-        "Voices",
-        "NNS"
-      ],
-      [
-        "Consider",
-        "VBP"
-      ],
-      [
-        "Toys",
-        "NNS"
-      ],
-      [
-        "Many",
-        "JJ"
-      ],
-      [
-        "North Korean",
-        "LOCATION"
-      ],
-      [
-        "women",
-        "NNS"
-      ],
-      [
-        "work",
-        "VBP"
-      ],
-      [
-        "country",
-        "NN"
-      ],
-      [
-        "fledgling",
-        "JJ"
-      ],
-      [
-        "market",
-        "NN"
-      ],
-      [
-        "economy",
-        "NN"
-      ],
-      [
-        "are",
-        "VBP"
-      ],
-      [
-        "preyed",
-        "VBN"
-      ],
-      [
-        "officials",
-        "NNS"
-      ],
-      [
-        "demanding",
-        "VBG"
-      ],
-      [
-        "sexual",
-        "JJ"
-      ],
-      [
-        "favors",
-        "NNS"
-      ],
-      [
-        "Human Rights Watch",
-        "ORGANIZATION"
-      ],
-      [
-        "says",
-        "VBZ"
-      ]
-    ]
-  },
-  "4": {
-    "headlinetext": " {0} {1}, {2} {3} {4}.  {5} by an {6} {7}’ s {8} at {9} {10}, {11} {12} {13} {14} {15}. But this is {16} {17} {18} in theU.S.",
-    "headlineentitytags": [
-      [
-        "New",
-        "GPE"
-      ],
-      [
-        "Migrant Caravans Trek North",
-        "ORGANIZATION"
-      ],
-      [
-        "Ignoring",
-        "VBG"
-      ],
-      [
-        "Political",
-        "JJ"
-      ],
-      [
-        "Repercussions",
-        "NNS"
-      ],
-      [
-        "Inspired",
-        "VBN"
-      ],
-      [
-        "earlier",
-        "JJR"
-      ],
-      [
-        "caravan",
-        "NN"
-      ],
-      [
-        "success",
-        "NN"
-      ],
-      [
-        "crossing",
-        "VBG"
-      ],
-      [
-        "borders",
-        "NNS"
-      ],
-      [
-        "other",
-        "JJ"
-      ],
-      [
-        "migrants",
-        "NNS"
-      ],
-      [
-        "are",
-        "VBP"
-      ],
-      [
-        "banding",
-        "NN"
-      ],
-      [
-        "together",
-        "RB"
-      ],
-      [
-        "feeding",
-        "VBG"
-      ],
-      [
-        "anti-immigrant",
-        "JJ"
-      ],
-      [
-        "sentiment",
-        "NN"
-      ]
-    ]
-  },
-  "5": {
-    "headlinetext": " On a {0} {1} {2}, a {3}, 9 {4} — and the {5} {6}?.  {7} {8} and {9} {10} {11} a {12} {13}. Why? {14} {15} that {16} {17} {18} {19} in {20} for {21} {22} {23}.",
-    "headlineentitytags": [
-      [
-        "Tiny",
-        "JJ"
-      ],
-      [
-        "Finnish",
-        "GPE"
-      ],
-      [
-        "Island",
-        "GPE"
-      ],
-      [
-        "Helipad",
-        "NN"
-      ],
-      [
-        "Piers",
-        "NNS"
-      ],
-      [
-        "Russian",
-        "GPE"
-      ],
-      [
-        "Military",
-        "NN"
-      ],
-      [
-        "Finnish",
-        "GPE"
-      ],
-      [
-        "police",
-        "NN"
-      ],
-      [
-        "soldiers",
-        "NNS"
-      ],
-      [
-        "recently",
-        "RB"
-      ],
-      [
-        "raided",
-        "VBD"
-      ],
-      [
-        "mysterious",
-        "JJ"
-      ],
-      [
-        "island",
-        "NN"
-      ],
-      [
-        "Many",
-        "JJ"
-      ],
-      [
-        "suspect",
-        "JJ"
-      ],
-      [
-        "Russia",
-        "GPE"
-      ],
-      [
-        "was",
-        "VBD"
-      ],
-      [
-        "buying",
-        "VBG"
-      ],
-      [
-        "land",
-        "NN"
-      ],
-      [
-        "Finland",
-        "GPE"
-      ],
-      [
-        "secret",
-        "JJ"
-      ],
-      [
-        "military",
-        "JJ"
-      ],
-      [
-        "bases",
-        "NNS"
-      ]
-    ]
-  },
-  "6": {
-    "headlinetext": " In {0} {1}, {2}’ s {3} {4} {5} {6} {7}.  The {8} by {9}’ s {10} is {11} to {12} the {13} of {14} {15} {16} {17} {18} and {19} {20} {21}.",
-    "headlineentitytags": [
-      [
-        "Landmark",
-        "GPE"
-      ],
-      [
-        "Ruling",
-        "NN"
-      ],
-      [
-        "South Korea",
-        "GPE"
-      ],
-      [
-        "Top",
-        "NNP"
-      ],
-      [
-        "Court",
-        "NNP"
-      ],
-      [
-        "Acquits",
-        "VBZ"
-      ],
-      [
-        "Conscientious",
-        "JJ"
-      ],
-      [
-        "Objector",
-        "NN"
-      ],
-      [
-        "ruling",
-        "NN"
-      ],
-      [
-        "South Korea",
-        "GPE"
-      ],
-      [
-        "Supreme Court",
-        "ORGANIZATION"
-      ],
-      [
-        "expected",
-        "VBN"
-      ],
-      [
-        "affect",
-        "VB"
-      ],
-      [
-        "fate",
-        "NN"
-      ],
-      [
-        "900",
-        "CD"
-      ],
-      [
-        "conscientious",
-        "JJ"
-      ],
-      [
-        "objectors",
-        "NNS"
-      ],
-      [
-        "awaiting",
-        "VBG"
-      ],
-      [
-        "trial",
-        "NN"
-      ],
-      [
-        "facing",
-        "VBG"
-      ],
-      [
-        "prison",
-        "NN"
-      ],
-      [
-        "terms",
-        "NNS"
-      ]
-    ]
-  },
-  "7": {
-    "headlinetext": " {0} {1} {2} {3}.  After a {4} of {5} {6} to {7} {8} on the {9} over the {10} {11}’ s {12}, {13} {14} to be {15} its {16}.",
-    "headlineentitytags": [
-      [
-        "Turkish",
-        "GPE"
-      ],
-      [
-        "Prosecutor Says Saudis",
-        "ORGANIZATION"
-      ],
-      [
-        "Strangled",
-        "VBD"
-      ],
-      [
-        "Khashoggi",
-        "PERSON"
-      ],
-      [
-        "campaign",
-        "NN"
-      ],
-      [
-        "leaks",
-        "NNS"
-      ],
-      [
-        "intended",
-        "VBN"
-      ],
-      [
-        "keep",
-        "VB"
-      ],
-      [
-        "pressure",
-        "NN"
-      ],
-      [
-        "Saudis",
-        "ORGANIZATION"
-      ],
-      [
-        "Saudi",
-        "GPE"
-      ],
-      [
-        "dissident",
-        "JJ"
-      ],
-      [
-        "death",
-        "NN"
-      ],
-      [
-        "Turkey",
-        "GPE"
-      ],
-      [
-        "appeared",
-        "VBD"
-      ],
-      [
-        "changing",
-        "VBG"
-      ],
-      [
-        "strategy",
-        "NN"
-      ]
-    ]
-  },
-  "8": {
-    "headlinetext": " How {0} {1} {2} {3} to {4}.  {5} {6} {7} a {8} {9} {10}. But {11} no {12} in {13} {14} {15}, the {16} {17}’ s {18} {19}, should {20} down from the {21} he {22}.",
-    "headlineentitytags": [
-      [
-        "Mark Zuckerberg",
-        "PERSON"
-      ],
-      [
-        "Became",
-        "VBD"
-      ],
-      [
-        "Too",
-        "RB"
-      ],
-      [
-        "Big",
-        "JJ"
-      ],
-      [
-        "Fail",
-        "VB"
-      ],
-      [
-        "Facebook",
-        "GPE"
-      ],
-      [
-        "has",
-        "VBZ"
-      ],
-      [
-        "had",
-        "VBN"
-      ],
-      [
-        "turbulent",
-        "JJ"
-      ],
-      [
-        "two",
-        "CD"
-      ],
-      [
-        "years",
-        "NNS"
-      ],
-      [
-        "almost",
-        "RB"
-      ],
-      [
-        "one",
-        "NN"
-      ],
-      [
-        "tech",
-        "NNP"
-      ],
-      [
-        "thinks",
-        "VBZ"
-      ],
-      [
-        "Mr. Zuckerberg",
-        "PERSON"
-      ],
-      [
-        "social",
-        "JJ"
-      ],
-      [
-        "network",
-        "NN"
-      ],
-      [
-        "chief",
-        "JJ"
-      ],
-      [
-        "executive",
-        "NN"
-      ],
-      [
-        "step",
-        "VB"
-      ],
-      [
-        "company",
-        "NN"
-      ],
-      [
-        "built",
-        "VBD"
-      ]
-    ]
-  },
-  "9": {
-    "headlinetext": " In {0}, {1} {2} {3} {4}.  {5} and the {6} {7} {8} in the {9} {10} to {11} {12} over {13} and {14}. The {15} is most {16} in {17} {18}.",
-    "headlineentitytags": [
-      [
-        "U.S.-India Trade",
-        "GPE"
-      ],
-      [
-        "Trump",
-        "PERSON"
-      ],
-      [
-        "Sees",
-        "VBZ"
-      ],
-      [
-        "Only",
-        "RB"
-      ],
-      [
-        "Harley-Davidson",
-        "NNP"
-      ],
-      [
-        "India",
-        "GPE"
-      ],
-      [
-        "United States",
-        "GPE"
-      ],
-      [
-        "face",
-        "VBP"
-      ],
-      [
-        "deadlines",
-        "NNS"
-      ],
-      [
-        "coming",
-        "JJ"
-      ],
-      [
-        "days",
-        "NNS"
-      ],
-      [
-        "decide",
-        "VB"
-      ],
-      [
-        "disputes",
-        "NNS"
-      ],
-      [
-        "trade",
-        "NN"
-      ],
-      [
-        "oil",
-        "NN"
-      ],
-      [
-        "president",
-        "NN"
-      ],
-      [
-        "interested",
-        "JJ"
-      ],
-      [
-        "motorcycle",
-        "NN"
-      ],
-      [
-        "tariffs",
-        "NNS"
-      ]
-    ]
-  },
-  "10": {
-    "headlinetext": " {0} {1} on {2}’ s {3} {4} a {5}.  The {6} {7} as the {8} {9} is {10} to {11} up with a {12} for {13} {14}’ s {15}.",
-    "headlineentitytags": [
-      [
-        "Dove",
-        "PERSON"
-      ],
-      [
-        "Painted",
-        "ORGANIZATION"
-      ],
-      [
-        "Franco",
-        "PERSON"
-      ],
-      [
-        "Tomb",
-        "NN"
-      ],
-      [
-        "Reignites",
-        "VBZ"
-      ],
-      [
-        "Debate",
-        "ORGANIZATION"
-      ],
-      [
-        "vandalism",
-        "NN"
-      ],
-      [
-        "comes",
-        "VBZ"
-      ],
-      [
-        "Spanish",
-        "GPE"
-      ],
-      [
-        "government",
-        "NN"
-      ],
-      [
-        "struggling",
-        "VBG"
-      ],
-      [
-        "come",
-        "VB"
-      ],
-      [
-        "plan",
-        "NN"
-      ],
-      [
-        "relocating",
-        "VBG"
-      ],
-      [
-        "Franco",
-        "PERSON"
-      ],
-      [
-        "remains",
-        "VBZ"
-      ]
-    ]
-  },
-  "11": {
-    "headlinetext": " {0}, {1}, {2}: Your {3} {4} {5}.  {6}’ s what you {7} to {8} at the {9} of the {10}.",
-    "headlineentitytags": [
-      [
-        "Midterms",
-        "GPE"
-      ],
-      [
-        "Markets",
-        "PERSON"
-      ],
-      [
-        "Pittsburgh",
-        "PERSON"
-      ],
-      [
-        "Wednesday",
-        "NNP"
-      ],
-      [
-        "Evening",
-        "NN"
-      ],
-      [
-        "Briefing",
-        "NN"
-      ],
-      [
-        "Here",
-        "RB"
-      ],
-      [
-        "need",
-        "VBP"
-      ],
-      [
-        "know",
-        "VB"
-      ],
-      [
-        "end",
-        "NN"
-      ],
-      [
-        "day",
-        "NN"
-      ]
-    ]
-  },
-  "12": {
-    "headlinetext": " {0} {1} to {2} to {3}.  {4} {5} {6} to the {7}, {8}, {9} than {10} {11} after {12} {13} {14} in the {15} and {16} him to {17} the {18}.",
-    "headlineentitytags": [
-      [
-        "Rebel",
-        "GPE"
-      ],
-      [
-        "Leader Returns",
-        "ORGANIZATION"
-      ],
-      [
-        "South Sudan",
-        "GPE"
-      ],
-      [
-        "Mark Peace Deal",
-        "PERSON"
-      ],
-      [
-        "Riek",
-        "PERSON"
-      ],
-      [
-        "Machar",
-        "PERSON"
-      ],
-      [
-        "traveled",
-        "VBD"
-      ],
-      [
-        "capital",
-        "NN"
-      ],
-      [
-        "Juba",
-        "GPE"
-      ],
-      [
-        "more",
-        "JJR"
-      ],
-      [
-        "two",
-        "CD"
-      ],
-      [
-        "years",
-        "NNS"
-      ],
-      [
-        "fierce",
-        "JJ"
-      ],
-      [
-        "fighting",
-        "NN"
-      ],
-      [
-        "erupted",
-        "VBD"
-      ],
-      [
-        "city",
-        "NN"
-      ],
-      [
-        "forced",
-        "VBD"
-      ],
-      [
-        "flee",
-        "VB"
-      ],
-      [
-        "country",
-        "NN"
-      ]
-    ]
-  },
-  "13": {
-    "headlinetext": " {0} {1} Against {2} {3} {4} for {5}.  {6} to {7} {8} for {9} {10}, the {11} {12} {13} {14} more {15} to {16} in {17} {18} and {19}, {20} {21} {22}.",
-    "headlineentitytags": [
-      [
-        "Studies",
-        "NNS"
-      ],
-      [
-        "Warn",
-        "VBP"
-      ],
-      [
-        "Minimally",
-        "RB"
-      ],
-      [
-        "Invasive",
-        "JJ"
-      ],
-      [
-        "Surgery",
-        "NN"
-      ],
-      [
-        "Cervical Cancer",
-        "ORGANIZATION"
-      ],
-      [
-        "Compared",
-        "VBN"
-      ],
-      [
-        "open",
-        "VB"
-      ],
-      [
-        "surgery",
-        "NN"
-      ],
-      [
-        "cervical",
-        "JJ"
-      ],
-      [
-        "cancer",
-        "NN"
-      ],
-      [
-        "less",
-        "JJR"
-      ],
-      [
-        "invasive",
-        "JJ"
-      ],
-      [
-        "approach",
-        "NN"
-      ],
-      [
-        "was",
-        "VBD"
-      ],
-      [
-        "likely",
-        "JJ"
-      ],
-      [
-        "result",
-        "VB"
-      ],
-      [
-        "cancer",
-        "NN"
-      ],
-      [
-        "recurrence",
-        "NN"
-      ],
-      [
-        "death",
-        "NN"
-      ],
-      [
-        "new",
-        "JJ"
-      ],
-      [
-        "studies",
-        "NNS"
-      ],
-      [
-        "found",
-        "VBN"
-      ]
-    ]
-  },
-  "14": {
-    "headlinetext": " {0} in {1}: {2} {3} {4} the {5}.  {6} {7} {8} to {9} in {10} to {11} a {12} {13} at the {14}, the {15} in a {16} of {17} {18}.",
-    "headlineentitytags": [
-      [
-        "War",
-        "NN"
-      ],
-      [
-        "Yemen",
-        "GPE"
-      ],
-      [
-        "New York Times",
-        "GPE"
-      ],
-      [
-        "Reports",
-        "VBZ"
-      ],
-      [
-        "Driving",
-        "VBG"
-      ],
-      [
-        "Conversation",
-        "NN"
-      ],
-      [
-        "New York Times",
-        "GPE"
-      ],
-      [
-        "journalists",
-        "NNS"
-      ],
-      [
-        "traveled",
-        "VBD"
-      ],
-      [
-        "Yemen",
-        "GPE"
-      ],
-      [
-        "October",
-        "NNP"
-      ],
-      [
-        "provide",
-        "VB"
-      ],
-      [
-        "deeper",
-        "JJR"
-      ],
-      [
-        "look",
-        "NN"
-      ],
-      [
-        "war",
-        "NN"
-      ],
-      [
-        "latest",
-        "JJS"
-      ],
-      [
-        "series",
-        "NN"
-      ],
-      [
-        "in-depth",
-        "JJ"
-      ],
-      [
-        "reports",
-        "NNS"
-      ]
-    ]
-  },
-  "15": {
-    "headlinetext": " {0} {1} That {2}’ s {3} {4}.  “ {5} {6} {7} a {8} of {9} {10} {11} for the {12}, ” {13} the {14} of a {15} that {16} 77 {17} of {18}’ s {19} {20} {21} {22} by {23}.",
-    "headlineentitytags": [
-      [
-        "Scientists",
-        "NNS"
-      ],
-      [
-        "Warn",
-        "VBP"
       ],
       [
         "World",
         "PERSON"
       ],
       [
-        "Wilderness Areas Are",
-        "ORGANIZATION"
-      ],
-      [
-        "Disappearing",
-        "VBG"
-      ],
-      [
-        "Wild",
-        "NNP"
-      ],
-      [
-        "areas",
+        "Eyes",
         "NNS"
       ],
       [
-        "provide",
-        "VBP"
-      ],
-      [
-        "lot",
-        "NN"
-      ],
-      [
-        "life",
-        "NN"
-      ],
-      [
-        "support",
-        "NN"
-      ],
-      [
-        "systems",
-        "NNS"
-      ],
-      [
-        "planet",
-        "NN"
-      ],
-      [
-        "said",
-        "VBD"
-      ],
-      [
-        "author",
-        "NN"
-      ],
-      [
-        "study",
-        "NN"
-      ],
-      [
-        "found",
-        "VBD"
-      ],
-      [
-        "percent",
-        "NN"
-      ],
-      [
-        "earth",
-        "NNP"
-      ],
-      [
-        "land",
-        "NNP"
-      ],
-      [
-        "had",
-        "VBD"
-      ],
-      [
-        "been",
-        "VBN"
-      ],
-      [
-        "modified",
-        "VBN"
-      ],
-      [
-        "humans",
-        "NNS"
-      ]
-    ]
-  },
-  "16": {
-    "headlinetext": " The {0} {1} {2} {3}.  {4} of {5} {6} {7} in {8} before the {9} of {10}.",
-    "headlineentitytags": [
-      [
-        "Great",
+        "Famine",
         "GPE"
       ],
       [
-        "Speckled",
+        "Dead",
         "JJ"
       ],
       [
-        "Dinosaur",
+        "photo",
         "NN"
       ],
       [
-        "Egg",
-        "NN"
-      ],
-      [
-        "Eggs",
-        "NNS"
-      ],
-      [
-        "different",
+        "emaciated",
         "JJ"
       ],
       [
-        "colors",
-        "NNS"
+        "Amal Hussain",
+        "ORGANIZATION"
       ],
       [
-        "evolved",
+        "appeared",
         "VBD"
       ],
       [
-        "dinosaurs",
+        "Times",
         "NNS"
       ],
       [
-        "appearance",
-        "NN"
+        "many",
+        "JJ"
       ],
       [
-        "birds",
+        "readers",
         "NNS"
-      ]
-    ]
-  },
-  "17": {
-    "headlinetext": " {0} {1} by {2} to {3} {4} {5}.  The {6}, the {7} {8} {9}, {10} {11} {12} to {13} for {14} a {15} to the {16} of the {17} {18} for {19}.",
-    "headlineentitytags": [
-      [
-        "Oxford",
-        "GPE"
       ],
       [
-        "Roiled",
+        "were",
+        "VBD"
+      ],
+      [
+        "moved",
         "VBN"
       ],
       [
-        "Invitation",
-        "ORGANIZATION"
+        "try",
+        "VB"
       ],
       [
-        "Far-Right",
-        "JJ"
+        "help",
+        "VB"
       ],
       [
-        "German",
-        "GPE"
-      ],
-      [
-        "Politician",
-        "NN"
-      ],
-      [
-        "Oxford Union",
-        "ORGANIZATION"
-      ],
-      [
-        "famed",
-        "JJ"
-      ],
-      [
-        "debating",
-        "VBG"
-      ],
-      [
-        "society",
-        "NN"
-      ],
-      [
-        "has",
-        "VBZ"
-      ],
-      [
-        "been",
-        "VBN"
-      ],
-      [
-        "taken",
-        "VBN"
-      ],
-      [
-        "task",
-        "NN"
-      ],
-      [
-        "giving",
-        "VBG"
-      ],
-      [
-        "platform",
-        "NN"
-      ],
-      [
-        "leader",
-        "NN"
-      ],
-      [
-        "anti-immigrant",
-        "JJ"
-      ],
-      [
-        "Alternative",
-        "NN"
-      ],
-      [
-        "Germany",
-        "GPE"
-      ]
-    ]
-  },
-  "18": {
-    "headlinetext": " In Congo’ s {0} {1}, {2} {3} {4}.  {5} than {6} of the {7} who {8} {9} {10}, {11} {12}.",
-    "headlineentitytags": [
-      [
-        "Ebola",
-        "NNP"
-      ],
-      [
-        "Outbreak",
-        "NN"
-      ],
-      [
-        "Experimental Treatments Are",
-        "ORGANIZATION"
-      ],
-      [
-        "Proving",
-        "VBG"
-      ],
-      [
-        "Effective",
-        "JJ"
-      ],
-      [
-        "More",
-        "JJR"
-      ],
-      [
-        "half",
-        "NN"
-      ],
-      [
-        "patients",
+        "children",
         "NNS"
       ],
       [
-        "received",
-        "VBD"
+        "Yemen",
+        "GPE"
       ],
       [
-        "treatment",
-        "NN"
-      ],
-      [
-        "survived",
-        "VBD"
-      ],
-      [
-        "scientists",
-        "NNS"
-      ],
-      [
-        "reported",
-        "VBD"
-      ]
-    ]
-  },
-  "19": {
-    "headlinetext": " A {0} {1} {2} of What the {3} {4}. But {5} This..  Despite {6} of {7} and {8} {9}, the {10} of the {11} {12} {13} {14} {15} {16} {17} to {18} a {19} {20}.",
-    "headlineentitytags": [
-      [
-        "Family",
+        "Amal",
         "ORGANIZATION"
       ],
       [
-        "Recovered",
-        "VBD"
-      ],
-      [
-        "Most",
-        "JJS"
-      ],
-      [
-        "Nazis",
-        "ORGANIZATION"
-      ],
-      [
-        "Stole",
-        "VBD"
-      ],
-      [
-        "Not",
+        "too",
         "RB"
       ],
       [
-        "decades",
-        "NNS"
-      ],
-      [
-        "effort",
-        "NN"
-      ],
-      [
-        "government",
-        "NN"
-      ],
-      [
-        "intervention",
-        "NN"
-      ],
-      [
-        "family",
-        "NN"
-      ],
-      [
-        "Paris",
-        "GPE"
-      ],
-      [
-        "art",
-        "NN"
-      ],
-      [
-        "dealer",
-        "NN"
-      ],
-      [
-        "Paul Rosenberg",
-        "PERSON"
-      ],
-      [
-        "has",
-        "VBZ"
-      ],
-      [
-        "been",
-        "VBN"
-      ],
-      [
-        "unable",
+        "late",
         "JJ"
-      ],
-      [
-        "reclaim",
-        "VB"
-      ],
-      [
-        "Degas",
-        "NNP"
-      ],
-      [
-        "portrait",
-        "NN"
       ]
     ]
   },
-  "20": {
-    "headlinetext": " {0} {1} In on {2} {3} From {4} {5} {6}.  {7} {8} {9} {10} {11} to {12} down the {13} of the {14} {15}, but {16} them could be a {17}.",
-    "headlineentitytags": [
-      [
-        "Divers",
-        "NNS"
-      ],
-      [
-        "Zero",
-        "CD"
-      ],
-      [
-        "Black",
-        "JJ"
-      ],
-      [
-        "Boxes",
-        "NNS"
-      ],
-      [
-        "Indonesia",
-        "GPE"
-      ],
-      [
-        "Plane",
-        "NN"
-      ],
-      [
-        "Crash",
-        "PERSON"
-      ],
-      [
-        "Locator",
-        "PERSON"
-      ],
-      [
-        "beacon",
-        "NNP"
-      ],
-      [
-        "signals",
-        "VBZ"
-      ],
-      [
-        "allowed",
-        "VBN"
-      ],
-      [
-        "investigators",
-        "NNS"
-      ],
-      [
-        "narrow",
-        "VB"
-      ],
-      [
-        "location",
-        "NN"
-      ],
-      [
-        "data",
-        "NNS"
-      ],
-      [
-        "recorders",
-        "NNS"
-      ],
-      [
-        "recovering",
-        "VBG"
-      ],
-      [
-        "challenge",
-        "NN"
-      ]
-    ]
-  },
-  "21": {
-    "headlinetext": " {0} {1} {2} in {3}, {4} {5} in {6} {7}.  {8} {9} {10} that {11} {12} in a {13} {14} could be {15} to {16} of {17}’ s most {18} {19} {20}.",
-    "headlineentitytags": [
-      [
-        "Bones",
-        "NNS"
-      ],
-      [
-        "Are",
-        "VBP"
-      ],
-      [
-        "Found",
-        "VBN"
-      ],
-      [
-        "Rome",
-        "GPE"
-      ],
-      [
-        "Renewing",
-        "VBG"
-      ],
-      [
-        "Speculation",
-        "NN"
-      ],
-      [
-        "1983",
-        "CD"
-      ],
-      [
-        "Disappearance",
-        "NN"
-      ],
-      [
-        "News",
-        "GPE"
-      ],
-      [
-        "reports",
-        "NNS"
-      ],
-      [
-        "suggested",
-        "VBD"
-      ],
-      [
-        "bones",
-        "NNS"
-      ],
-      [
-        "discovered",
-        "VBN"
-      ],
-      [
-        "Vatican-owned",
-        "JJ"
-      ],
-      [
-        "building",
-        "NN"
-      ],
-      [
-        "tied",
-        "VBN"
-      ],
-      [
-        "one",
-        "CD"
-      ],
-      [
-        "Italy",
-        "GPE"
-      ],
-      [
-        "enduring",
-        "JJ"
-      ],
-      [
-        "cold",
-        "JJ"
-      ],
-      [
-        "cases",
-        "NNS"
-      ]
-    ]
-  },
-  "22": {
-    "headlinetext": " {0} {1}, {2} {3} Who {4} {5}, {6} {7} {8}.  The {9}’ s {10} {11} {12} she should {13} {14} a {15} {16}. {17} of her {18} {19} {20} in {21} {22} her a {23} of {24} to {25}.",
-    "headlineentitytags": [
-      [
-        "Petra",
-        "PERSON"
-      ],
-      [
-        "Laszlo",
-        "ORGANIZATION"
-      ],
-      [
-        "Hungarian",
-        "GPE"
-      ],
-      [
-        "Camerawoman",
-        "NN"
-      ],
-      [
-        "Kicked",
-        "VBD"
-      ],
-      [
-        "Migrants",
-        "NNS"
-      ],
-      [
-        "Has",
-        "VBZ"
-      ],
-      [
-        "Conviction",
-        "ORGANIZATION"
-      ],
-      [
-        "Overturned",
-        "VBN"
-      ],
-      [
-        "country",
-        "NN"
-      ],
-      [
-        "highest",
-        "JJS"
-      ],
-      [
-        "court",
-        "NN"
-      ],
-      [
-        "said",
-        "VBD"
-      ],
-      [
-        "have",
-        "VB"
-      ],
-      [
-        "faced",
-        "VBN"
-      ],
-      [
-        "lesser",
-        "JJR"
-      ],
-      [
-        "charge",
-        "NN"
-      ],
-      [
-        "Video",
-        "NN"
-      ],
-      [
-        "kicking",
-        "VBG"
-      ],
-      [
-        "two",
-        "CD"
-      ],
-      [
-        "people",
-        "NNS"
-      ],
-      [
-        "2015",
-        "CD"
-      ],
-      [
-        "made",
-        "VBD"
-      ],
-      [
-        "symbol",
-        "NN"
-      ],
-      [
-        "hostility",
-        "NN"
-      ],
-      [
-        "refugees",
-        "NNS"
-      ]
-    ]
-  },
-  "23": {
-    "headlinetext": " A {0} {1} to {2} {3} of {4}. So a {5} {6} {7} {8}..  {9} {10} {11} than2,000 {12} down a {13} in {14}, {15}, after a {16} {17} {18} {19} {20} to {21} up its {22} {23}.",
+  "1": {
+    "headlinetext": " A {0} {1} to {2} {3} of {4}. So a {5} {6} {7} {8}..  {9} {10} {11} than {12} {13} down a {14} in {15}, {16}, after a {17} {18} {19} {20} {21} to {22} up its {23} {24}.",
     "headlineentitytags": [
       [
         "Store",
@@ -1988,6 +146,10 @@
       [
         "more",
         "JJR"
+      ],
+      [
+        "2,000",
+        "CD"
       ],
       [
         "books",
@@ -2039,475 +201,43 @@
       ]
     ]
   },
-  "24": {
-    "headlinetext": " {0} {1} at {2} {3} {4}, {5} 3 {6}.  The {7} {8} the {9} who {10} it into the {11} of the {12} {13} in the {14} {15} of {16}.",
-    "headlineentitytags": [
-      [
-        "Bomb",
-        "GPE"
-      ],
-      [
-        "Explodes",
-        "VBZ"
-      ],
-      [
-        "Russian",
-        "GPE"
-      ],
-      [
-        "Security",
-        "NNP"
-      ],
-      [
-        "Agency",
-        "NNP"
-      ],
-      [
-        "Wounding",
-        "VBG"
-      ],
-      [
-        "Workers",
-        "NNS"
-      ],
-      [
-        "device",
-        "NN"
-      ],
-      [
-        "killed",
-        "VBD"
-      ],
-      [
-        "person",
-        "NN"
-      ],
-      [
-        "carried",
-        "VBD"
-      ],
-      [
-        "offices",
-        "NNS"
-      ],
-      [
-        "Federal",
-        "JJ"
-      ],
-      [
-        "Security Service",
-        "ORGANIZATION"
-      ],
-      [
-        "northern",
-        "JJ"
-      ],
-      [
-        "city",
-        "NN"
-      ],
-      [
-        "Arkhangelsk",
-        "GPE"
-      ]
-    ]
-  },
-  "25": {
-    "headlinetext": " ‘ {0} {1}’ {2} {3} {4} for {5} {6} at a {7}.  A {8} {9} between {10} and {11} would {12} {13} in the {14}. {15} {16} {17} {18} {19} of the {20} 17 {21} {22} in {23} {24}.",
-    "headlineentitytags": [
-      [
-        "Cold",
-        "NNP"
-      ],
-      [
-        "War",
-        "NNP"
-      ],
-      [
-        "Takes",
-        "VBZ"
-      ],
-      [
-        "New",
-        "GPE"
-      ],
-      [
-        "Meaning",
-        "NN"
-      ],
-      [
-        "U.S.",
-        "GPE"
-      ],
-      [
-        "Marines",
-        "NNPS"
-      ],
-      [
-        "NATO Exercise",
-        "ORGANIZATION"
-      ],
-      [
-        "military",
-        "JJ"
-      ],
-      [
-        "conflict",
-        "NN"
-      ],
-      [
-        "NATO",
-        "ORGANIZATION"
-      ],
-      [
-        "Russia",
-        "GPE"
-      ],
-      [
-        "mean",
-        "VB"
-      ],
-      [
-        "fighting",
-        "VBG"
-      ],
-      [
-        "cold",
-        "NN"
-      ],
-      [
-        "American",
-        "GPE"
-      ],
-      [
-        "troops",
-        "NNS"
-      ],
-      [
-        "have",
-        "VBP"
-      ],
-      [
-        "spent",
-        "VBN"
-      ],
-      [
-        "much",
-        "RB"
-      ],
-      [
-        "past",
-        "JJ"
-      ],
-      [
-        "years",
-        "NNS"
-      ],
-      [
-        "warring",
-        "VBG"
-      ],
-      [
-        "warmer",
-        "JJR"
-      ],
-      [
-        "climes",
-        "NNS"
-      ]
-    ]
-  },
-  "26": {
-    "headlinetext": " How the {0} {1} Is {2} {3}’ s {4} {5}.  {6}’ s {7} as the {8} of a {9} and {10} {11} is in {12} in {13} because of a {14} {15} {16} that is {17} {18}. We {19} to {20}, where {21} {22} {23} {24} against {25}, to {26} why the {27} {28} {29} {30}.",
-    "headlineentitytags": [
-      [
-        "Far",
-        "RB"
-      ],
-      [
-        "Right",
-        "JJ"
-      ],
-      [
-        "Shaking",
-        "VBG"
-      ],
-      [
-        "Germany",
-        "GPE"
-      ],
-      [
-        "Political",
-        "JJ"
-      ],
-      [
-        "Order",
-        "NN"
-      ],
-      [
-        "Germany",
-        "GPE"
-      ],
-      [
-        "role",
-        "NN"
-      ],
-      [
-        "defender",
-        "NN"
-      ],
-      [
-        "liberal",
-        "JJ"
-      ],
-      [
-        "tolerant",
-        "JJ"
-      ],
-      [
-        "Europe",
-        "GPE"
-      ],
-      [
-        "jeopardy",
-        "NN"
-      ],
-      [
-        "part",
-        "NN"
-      ],
-      [
-        "far-right",
-        "JJ"
-      ],
-      [
-        "political",
-        "JJ"
-      ],
-      [
-        "party",
-        "NN"
-      ],
-      [
-        "gaining",
-        "VBG"
-      ],
-      [
-        "strength",
-        "NN"
-      ],
-      [
-        "went",
-        "VBD"
-      ],
-      [
-        "Chemnitz",
-        "GPE"
-      ],
-      [
-        "weekly",
-        "JJ"
-      ],
-      [
-        "protests",
-        "NNS"
-      ],
-      [
-        "take",
-        "VBP"
-      ],
-      [
-        "place",
-        "NN"
-      ],
-      [
-        "immigration",
-        "NN"
-      ],
-      [
-        "see",
-        "VB"
-      ],
-      [
-        "far",
-        "RB"
-      ],
-      [
-        "right",
-        "JJ"
-      ],
-      [
-        "feels",
-        "VBZ"
-      ],
-      [
-        "emboldened",
-        "VBN"
-      ]
-    ]
-  },
-  "27": {
-    "headlinetext": " {0} at {1}, 5 {2} {3} {4} {5} {6} {7} in {8}.  The {9} {10} {11} the {12} {13} who {14} {15} for {16}. {17} in {18} {19} {20} {21} to {22} {23} {24} as {25} {26} {27} {28} {29}.",
-    "headlineentitytags": [
-      [
-        "Once",
-        "RB"
-      ],
-      [
-        "Guantánamo",
-        "ORGANIZATION"
-      ],
-      [
-        "Senior Taliban",
-        "ORGANIZATION"
-      ],
-      [
-        "Members",
-        "NNS"
-      ],
-      [
-        "Now",
-        "RB"
-      ],
-      [
-        "Join",
-        "VBP"
-      ],
-      [
-        "Political",
-        "JJ"
-      ],
-      [
-        "Office",
-        "NN"
-      ],
-      [
-        "Qatar",
-        "GPE"
-      ],
-      [
-        "insurgent",
-        "JJ"
-      ],
-      [
-        "group",
-        "NN"
-      ],
-      [
-        "said",
-        "VBD"
-      ],
-      [
-        "five",
-        "CD"
-      ],
-      [
-        "leaders",
-        "NNS"
-      ],
-      [
-        "were",
-        "VBD"
-      ],
-      [
-        "traded",
-        "VBN"
-      ],
-      [
-        "Sgt",
-        "NN"
-      ],
-      [
-        "Bowe Bergdahl",
-        "PERSON"
-      ],
-      [
-        "2014",
-        "CD"
-      ],
-      [
-        "have",
-        "VBP"
-      ],
-      [
-        "been",
-        "VBN"
-      ],
-      [
-        "shifting",
-        "VBG"
-      ],
-      [
-        "active",
-        "JJ"
-      ],
-      [
-        "roles",
-        "NNS"
-      ],
-      [
-        "just",
-        "RB"
-      ],
-      [
-        "peace",
-        "NN"
-      ],
-      [
-        "talks",
-        "NNS"
-      ],
-      [
-        "are",
-        "VBP"
-      ],
-      [
-        "being",
-        "VBG"
-      ],
-      [
-        "pushed",
-        "VBN"
-      ]
-    ]
-  },
-  "28": {
-    "headlinetext": " {0} {1} {2} {3} {4} in {5} {6}.  {7} {8} {9} {10} on {11} {12} for {13} {14}, and her {15} {16} {17} {18} {19} on {20}’ s {21} {22} {23}.",
+  "2": {
+    "headlinetext": " {0} {1} {2} {3} as  \"{4} of the {5}\" Is {6}.  {7} {8}, who {9} {10} over the {11} in {12} {13}, {14} {15} in a {16} {17} at his {18} in {19}.",
     "headlineentitytags": [
       [
         "Pakistani",
         "GPE"
       ],
       [
-        "Court",
-        "ORGANIZATION"
+        "Religious",
+        "JJ"
       ],
       [
-        "Acquits",
-        "VBZ"
-      ],
-      [
-        "Christian",
-        "GPE"
-      ],
-      [
-        "Woman",
+        "Leader",
         "NN"
       ],
       [
-        "Capital",
-        "GPE"
+        "Known",
+        "VBN"
       ],
       [
-        "Blasphemy Case",
+        "Father",
+        "NN"
+      ],
+      [
+        "Taliban",
+        "ORGANIZATION"
+      ],
+      [
+        "Killed",
+        "VBN"
+      ],
+      [
+        "Maulana",
         "PERSON"
       ],
       [
-        "Asia",
-        "GPE"
-      ],
-      [
-        "Bibi",
+        "Sami ul-Haq",
         "PERSON"
       ],
       [
@@ -2515,23 +245,1544 @@
         "VBD"
       ],
       [
-        "been",
+        "influence",
+        "NN"
+      ],
+      [
+        "Taliban",
+        "ORGANIZATION"
+      ],
+      [
+        "neighboring",
+        "VBG"
+      ],
+      [
+        "Afghanistan",
+        "GPE"
+      ],
+      [
+        "was",
+        "VBD"
+      ],
+      [
+        "killed",
         "VBN"
       ],
       [
-        "death",
+        "knife",
         "NN"
       ],
       [
-        "row",
+        "attack",
         "NN"
       ],
       [
-        "eight",
+        "home",
+        "NN"
+      ],
+      [
+        "Rawalpindi",
+        "GPE"
+      ]
+    ]
+  },
+  "3": {
+    "headlinetext": " Despite {0} of {1} {2}, {3} {4} Is {5} as {6} {7}.  The {8} {9} is {10} {11} {12} {13} {14} will {15} out the {16} over the {17}, {18} to {19} {20} with the {21}.",
+    "headlineentitytags": [
+      [
+        "Stigma",
+        "NN"
+      ],
+      [
+        "Khashoggi",
+        "GPE"
+      ],
+      [
+        "Killing",
+        "NN"
+      ],
+      [
+        "Crown",
+        "GPE"
+      ],
+      [
+        "Prince",
+        "NN"
+      ],
+      [
+        "Seen",
+        "VBN"
+      ],
+      [
+        "Retaining",
+        "VBG"
+      ],
+      [
+        "Power",
+        "PERSON"
+      ],
+      [
+        "Trump",
+        "ORGANIZATION"
+      ],
+      [
+        "administration",
+        "NN"
+      ],
+      [
+        "convinced",
+        "JJ"
+      ],
+      [
+        "Saudi",
+        "GPE"
+      ],
+      [
+        "Crown",
+        "NN"
+      ],
+      [
+        "Prince",
+        "NNP"
+      ],
+      [
+        "Mohammed",
+        "PERSON"
+      ],
+      [
+        "ride",
+        "VB"
+      ],
+      [
+        "backlash",
+        "NN"
+      ],
+      [
+        "killing",
+        "NN"
+      ],
+      [
+        "according",
+        "VBG"
+      ],
+      [
+        "officials",
+        "NNS"
+      ],
+      [
+        "familiar",
+        "JJ"
+      ],
+      [
+        "matter",
+        "NN"
+      ]
+    ]
+  },
+  "4": {
+    "headlinetext": " {0} {1} {2} {3}'s {4} to {5} {6} of {7} {8}.  {9} {10} {11} {12} would be {13} {14} if {15} at the {16} {17}. The {18} {19} {20} to that {21} when {22} why its {23} {24} {25} {26}.",
+    "headlineentitytags": [
+      [
+        "Nigerian",
+        "GPE"
+      ],
+      [
+        "Army",
+        "ORGANIZATION"
+      ],
+      [
+        "Uses",
+        "VBZ"
+      ],
+      [
+        "Trump",
+        "PERSON"
+      ],
+      [
+        "Words",
+        "NNS"
+      ],
+      [
+        "Justify",
+        "VB"
+      ],
+      [
+        "Fatal Shooting",
+        "ORGANIZATION"
+      ],
+      [
+        "Rock-Throwing",
+        "JJ"
+      ],
+      [
+        "Protesters",
+        "NNS"
+      ],
+      [
+        "President",
+        "NN"
+      ],
+      [
+        "Trump",
+        "PERSON"
+      ],
+      [
+        "said",
+        "VBD"
+      ],
+      [
+        "rocks",
+        "NNS"
+      ],
+      [
+        "considered",
+        "VBN"
+      ],
+      [
+        "firearms",
+        "NNS"
+      ],
+      [
+        "thrown",
+        "VBN"
+      ],
+      [
+        "American",
+        "GPE"
+      ],
+      [
+        "military",
+        "NN"
+      ],
+      [
+        "Nigerian",
+        "GPE"
+      ],
+      [
+        "Army",
+        "ORGANIZATION"
+      ],
+      [
+        "pointed",
+        "VBD"
+      ],
+      [
+        "language",
+        "NN"
+      ],
+      [
+        "explaining",
+        "VBG"
+      ],
+      [
+        "soldiers",
+        "NNS"
+      ],
+      [
+        "fatally",
+        "RB"
+      ],
+      [
+        "shot",
+        "VBD"
+      ],
+      [
+        "protesters",
+        "NNS"
+      ]
+    ]
+  },
+  "5": {
+    "headlinetext": " {0} {1} {2} for {3} that {4} {5} in {6}.  {7} {8} {9} {10} {11} {12} {13} from a {14} {15} {16}. At {17} {18} {19} {20}.",
+    "headlineentitytags": [
+      [
+        "ISIS",
+        "ORGANIZATION"
+      ],
+      [
+        "Claims",
+        "VBZ"
+      ],
+      [
+        "Credit",
+        "ORGANIZATION"
+      ],
+      [
+        "Attack",
+        "NN"
+      ],
+      [
+        "Kills",
+        "VBZ"
+      ],
+      [
+        "Christians",
+        "NNS"
+      ],
+      [
+        "Egypt",
+        "GPE"
+      ],
+      [
+        "Islamist",
+        "GPE"
+      ],
+      [
+        "militants",
+        "NNS"
+      ],
+      [
+        "ambushed",
+        "VBD"
+      ],
+      [
+        "two",
         "CD"
       ],
       [
-        "years",
+        "buses",
+        "NNS"
+      ],
+      [
+        "carrying",
+        "VBG"
+      ],
+      [
+        "Copts",
+        "NNS"
+      ],
+      [
+        "remote",
+        "JJ"
+      ],
+      [
+        "desert",
+        "NN"
+      ],
+      [
+        "monastery",
+        "NN"
+      ],
+      [
+        "least",
+        "JJS"
+      ],
+      [
+        "seven",
+        "CD"
+      ],
+      [
+        "were",
+        "VBD"
+      ],
+      [
+        "killed",
+        "VBN"
+      ]
+    ]
+  },
+  "6": {
+    "headlinetext": " {0}  \"{1} {2} {3}\"! {4} {5} Its {6}'' {7}.  {8} a {9}, the {10} {11} the {12} {13} of all {14}, {15} {16} of who 's up, who 's down — and who may be {17} out of {18}.",
+    "headlineentitytags": [
+      [
+        "Happy",
+        "GPE"
+      ],
+      [
+        "National",
+        "JJ"
+      ],
+      [
+        "Jealousy",
+        "NN"
+      ],
+      [
+        "Day",
+        "NN"
+      ],
+      [
+        "Finland",
+        "GPE"
+      ],
+      [
+        "Bares",
+        "VBZ"
+      ],
+      [
+        "Citizens",
+        "NNS"
+      ],
+      [
+        "Taxes",
+        "NNS"
+      ],
+      [
+        "Once",
+        "RB"
+      ],
+      [
+        "year",
+        "NN"
+      ],
+      [
+        "authorities",
+        "NNS"
+      ],
+      [
+        "disclose",
+        "VBP"
+      ],
+      [
+        "taxable",
+        "JJ"
+      ],
+      [
+        "incomes",
+        "NNS"
+      ],
+      [
+        "Finns",
+        "NNS"
+      ],
+      [
+        "prompting",
+        "VBG"
+      ],
+      [
+        "talk",
+        "NN"
+      ],
+      [
+        "weaseling",
+        "VBG"
+      ],
+      [
+        "taxes",
+        "NNS"
+      ]
+    ]
+  },
+  "7": {
+    "headlinetext": " {0}'s {1} {2} Who {3} {4}.  {5} {6} {7} the {8}'s {9} to {10} to {11}. {12} he 's {13} to {14} as his {15}'s {16} {17}.",
+    "headlineentitytags": [
+      [
+        "Bolsonaro",
+        "PERSON"
+      ],
+      [
+        "Cabinet Will Include Brazil",
+        "ORGANIZATION"
+      ],
+      [
+        "Judge",
+        "NNP"
+      ],
+      [
+        "Convicted",
+        "VBD"
+      ],
+      [
+        "Lula",
+        "PERSON"
+      ],
+      [
+        "Judge",
+        "NNP"
+      ],
+      [
+        "Sérgio Moro",
+        "PERSON"
+      ],
+      [
+        "doomed",
+        "VBD"
+      ],
+      [
+        "ex-president",
+        "NN"
+      ],
+      [
+        "bid",
+        "NN"
+      ],
+      [
+        "return",
+        "VB"
+      ],
+      [
+        "power",
+        "NN"
+      ],
+      [
+        "Now",
+        "RB"
+      ],
+      [
+        "going",
+        "VBG"
+      ],
+      [
+        "serve",
+        "VB"
+      ],
+      [
+        "rival",
+        "NN"
+      ],
+      [
+        "justice",
+        "NNP"
+      ],
+      [
+        "minister",
+        "NNP"
+      ]
+    ]
+  },
+  "8": {
+    "headlinetext": "  \"{0} of {1}\" {2} {3} {4} Over {5} {6}.  {7} {8}, who {9} {10} the {11} {12}, is {13} {14} for {15} to the {16} {17} that may {18} {19} {20} {21}. He {22} the {23} {24} {25} {26}.",
+    "headlineentitytags": [
+      [
+        "Godfather",
+        "NNP"
+      ],
+      [
+        "Brexit",
+        "GPE"
+      ],
+      [
+        "Arron",
+        "NNP"
+      ],
+      [
+        "Banks",
+        "NNS"
+      ],
+      [
+        "Investigated",
+        "VBD"
+      ],
+      [
+        "Campaign",
+        "GPE"
+      ],
+      [
+        "Financing",
+        "NN"
+      ],
+      [
+        "Arron",
+        "GPE"
+      ],
+      [
+        "Banks",
+        "ORGANIZATION"
+      ],
+      [
+        "helped",
+        "VBD"
+      ],
+      [
+        "bankroll",
+        "VB"
+      ],
+      [
+        "pro-withdrawal",
+        "JJ"
+      ],
+      [
+        "movement",
+        "NN"
+      ],
+      [
+        "being",
+        "VBG"
+      ],
+      [
+        "investigated",
+        "VBN"
+      ],
+      [
+        "loans",
+        "NNS"
+      ],
+      [
+        "leave",
+        "NN"
+      ],
+      [
+        "campaign",
+        "NN"
+      ],
+      [
+        "have",
+        "VB"
+      ],
+      [
+        "broken",
+        "VBN"
+      ],
+      [
+        "British",
+        "GPE"
+      ],
+      [
+        "law",
+        "NN"
+      ],
+      [
+        "says",
+        "VBZ"
+      ],
+      [
+        "allegations",
+        "NNS"
+      ],
+      [
+        "are",
+        "VBP"
+      ],
+      [
+        "politically",
+        "RB"
+      ],
+      [
+        "motivated",
+        "VBN"
+      ]
+    ]
+  },
+  "9": {
+    "headlinetext": " {0}'s {1} {2} {3} in {4} of {5}.  {6} {7}, in an {8} {9} in The {10} {11}, {12} the {13} to {14} {15} {16} from “ the {17} {18} of the {19} {20}. ”",
+    "headlineentitytags": [
+      [
+        "Turkey",
+        "GPE"
+      ],
+      [
+        "President",
+        "NN"
+      ],
+      [
+        "Invokes",
+        "PERSON"
+      ],
+      [
+        "NATO Solidarity",
+        "ORGANIZATION"
+      ],
+      [
+        "Killing",
+        "NN"
+      ],
+      [
+        "Jamal Khashoggi",
+        "PERSON"
+      ],
+      [
+        "President",
+        "NNP"
+      ],
+      [
+        "Recep Tayyip Erdogan",
+        "PERSON"
+      ],
+      [
+        "opinion",
+        "NN"
+      ],
+      [
+        "article",
+        "NN"
+      ],
+      [
+        "Washington",
+        "GPE"
+      ],
+      [
+        "Post",
+        "NN"
+      ],
+      [
+        "said",
+        "VBD"
+      ],
+      [
+        "order",
+        "NN"
+      ],
+      [
+        "kill",
+        "VB"
+      ],
+      [
+        "Mr. Khashoggi",
+        "PERSON"
+      ],
+      [
+        "came",
+        "VBD"
+      ],
+      [
+        "highest",
+        "JJS"
+      ],
+      [
+        "levels",
+        "NNS"
+      ],
+      [
+        "Saudi",
+        "GPE"
+      ],
+      [
+        "government",
+        "NN"
+      ]
+    ]
+  },
+  "10": {
+    "headlinetext": " {0} {1} and {2} {3} in {4}'s {5} {6} {7}.  {8}'s {9} {10} {11} for {12} is {13} {14} amid {15} {16}, {17} {18}",
+    "headlineentitytags": [
+      [
+        "High",
+        "GPE"
+      ],
+      [
+        "Demand",
+        "ORGANIZATION"
+      ],
+      [
+        "Short",
+        "GPE"
+      ],
+      [
+        "Supply",
+        "NN"
+      ],
+      [
+        "Canada",
+        "GPE"
+      ],
+      [
+        "Legal",
+        "JJ"
+      ],
+      [
+        "Cannabis",
+        "NN"
+      ],
+      [
+        "Trade",
+        "PERSON"
+      ],
+      [
+        "Canada",
+        "GPE"
+      ],
+      [
+        "new",
+        "JJ"
+      ],
+      [
+        "legal",
+        "JJ"
+      ],
+      [
+        "market",
+        "NN"
+      ],
+      [
+        "marijuana",
+        "NN"
+      ],
+      [
+        "facing",
+        "VBG"
+      ],
+      [
+        "shortages",
+        "NNS"
+      ],
+      [
+        "higher-than-expected",
+        "JJ"
+      ],
+      [
+        "interest",
+        "NN"
+      ],
+      [
+        "writes",
+        "VBZ"
+      ],
+      [
+        "Dan Bilefsky",
+        "PERSON"
+      ]
+    ]
+  },
+  "11": {
+    "headlinetext": " {0} at the {1} Because of {2}, a {3} {4} to his {5} {6}.  {7} {8}, a {9} {10} {11} for {12} {13} his {14} {15} {16}, {17} {18} to {19} in on his {20} in the “ {21} {22} {23}. ”",
+    "headlineentitytags": [
+      [
+        "Disgraced",
+        "VBN"
+      ],
+      [
+        "Olympics",
+        "NNPS"
+      ],
+      [
+        "Marjiuana",
+        "GPE"
+      ],
+      [
+        "Snowboarder",
+        "NN"
+      ],
+      [
+        "Returns",
+        "NNS"
+      ],
+      [
+        "Cannabis",
+        "NN"
+      ],
+      [
+        "Roots",
+        "NNS"
+      ],
+      [
+        "Ross",
+        "PERSON"
+      ],
+      [
+        "Rebagliati",
+        "ORGANIZATION"
+      ],
+      [
+        "Canadian",
+        "GPE"
+      ],
+      [
+        "once",
+        "RB"
+      ],
+      [
+        "infamous",
+        "JJ"
+      ],
+      [
+        "briefly",
+        "NN"
+      ],
+      [
+        "losing",
+        "VBG"
+      ],
+      [
+        "Olympic",
+        "NNP"
+      ],
+      [
+        "gold",
+        "NN"
+      ],
+      [
+        "medal",
+        "NN"
+      ],
+      [
+        "now",
+        "RB"
+      ],
+      [
+        "hopes",
+        "VBZ"
+      ],
+      [
+        "cash",
+        "VB"
+      ],
+      [
+        "fame",
+        "NN"
+      ],
+      [
+        "green",
+        "JJ"
+      ],
+      [
+        "gold",
+        "NN"
+      ],
+      [
+        "rush",
+        "NN"
+      ]
+    ]
+  },
+  "12": {
+    "headlinetext": " How a {0} {1} {2} {3} {4} to {5} a {6}.  The {7} that {8} a {9} {10} {11} {12} and {13} the {14} {15} {16} {17} to {18} between {19}, and the {20} that {21} {22} behind it all.",
+    "headlineentitytags": [
+      [
+        "Taliban",
+        "GPE"
+      ],
+      [
+        "Assassin",
+        "PERSON"
+      ],
+      [
+        "Got",
+        "VBD"
+      ],
+      [
+        "Close",
+        "RB"
+      ],
+      [
+        "Enough",
+        "JJ"
+      ],
+      [
+        "Kill",
+        "VB"
+      ],
+      [
+        "General",
+        "JJ"
+      ],
+      [
+        "attack",
+        "NN"
+      ],
+      [
+        "killed",
+        "VBD"
+      ],
+      [
+        "powerful",
+        "JJ"
+      ],
+      [
+        "Afghan",
+        "NNP"
+      ],
+      [
+        "police",
+        "NN"
+      ],
+      [
+        "chief",
+        "NN"
+      ],
+      [
+        "missed",
+        "VBD"
+      ],
+      [
+        "top",
+        "JJ"
+      ],
+      [
+        "U.S.",
+        "GPE"
+      ],
+      [
+        "commander",
+        "NN"
+      ],
+      [
+        "led",
+        "VBD"
+      ],
+      [
+        "violence",
+        "NN"
+      ],
+      [
+        "allies",
+        "NNS"
+      ],
+      [
+        "rumor",
+        "NN"
+      ],
+      [
+        "Americans",
+        "NNPS"
+      ],
+      [
+        "were",
+        "VBD"
+      ]
+    ]
+  },
+  "13": {
+    "headlinetext": " {0} and {1} {2} {3} {4} {5}.  The {6} {7}, {8} by the {9} {10} of an {11} {12} in {13}, {14} {15} in {16}. They {17} {18} {19} in a {20} of {21} {22}.",
+    "headlineentitytags": [
+      [
+        "U.S.",
+        "GPE"
+      ],
+      [
+        "Turkey",
+        "GPE"
+      ],
+      [
+        "Drop",
+        "NN"
+      ],
+      [
+        "Dueling",
+        "VBG"
+      ],
+      [
+        "Sanctions Against Senior",
+        "PERSON"
+      ],
+      [
+        "Officials",
+        "NNS"
+      ],
+      [
+        "tit-for-tat",
+        "JJ"
+      ],
+      [
+        "penalties",
+        "NNS"
+      ],
+      [
+        "initiated",
+        "VBN"
+      ],
+      [
+        "continued",
+        "VBN"
+      ],
+      [
+        "detention",
+        "NN"
+      ],
+      [
+        "American",
+        "GPE"
+      ],
+      [
+        "pastor",
+        "NN"
+      ],
+      [
+        "Turkey",
+        "GPE"
+      ],
+      [
+        "were",
+        "VBD"
+      ],
+      [
+        "imposed",
+        "VBN"
+      ],
+      [
+        "August",
+        "GPE"
+      ],
+      [
+        "were",
+        "VBD"
+      ],
+      [
+        "simultaneously",
+        "RB"
+      ],
+      [
+        "scrubbed",
+        "VBN"
+      ],
+      [
+        "sign",
+        "NN"
+      ],
+      [
+        "warming",
+        "VBG"
+      ],
+      [
+        "relations",
+        "NNS"
+      ]
+    ]
+  },
+  "14": {
+    "headlinetext": " {0} {1} in {2} {3}.  A {4} of the {5}'s {6} {7} to {8} the {9} {10} {11}, {12} up a {13} with the {14}'s {15}.",
+    "headlineentitytags": [
+      [
+        "Bribery",
+        "GPE"
+      ],
+      [
+        "Accusations Deepen Turmoil",
+        "ORGANIZATION"
+      ],
+      [
+        "Sri",
+        "GPE"
+      ],
+      [
+        "Lanka",
+        "NNP"
+      ],
+      [
+        "majority",
+        "NN"
+      ],
+      [
+        "country",
+        "NN"
+      ],
+      [
+        "parliamentarians",
+        "NNPS"
+      ],
+      [
+        "vowed",
+        "VBD"
+      ],
+      [
+        "back",
+        "VB"
+      ],
+      [
+        "ousted",
+        "VBN"
+      ],
+      [
+        "prime",
+        "NNP"
+      ],
+      [
+        "minister",
+        "NNP"
+      ],
+      [
+        "setting",
+        "VBG"
+      ],
+      [
+        "standoff",
+        "NN"
+      ],
+      [
+        "country",
+        "NN"
+      ],
+      [
+        "president",
+        "NN"
+      ]
+    ]
+  },
+  "15": {
+    "headlinetext": " {0} {1} to {2} it {3} to {4} {5}. {6} {7} {8} the {9}..  He maynot be the {10} to {11} the {12} — {13} the {14}. {15}. But he is {16} {17} that could {18} {19}.",
+    "headlineentitytags": [
+      [
+        "Trump",
+        "GPE"
+      ],
+      [
+        "Wants",
+        "VBZ"
+      ],
+      [
+        "Make",
+        "VB"
+      ],
+      [
+        "Hard",
+        "PERSON"
+      ],
+      [
+        "Get",
+        "VB"
+      ],
+      [
+        "Asylum",
+        "PERSON"
+      ],
+      [
+        "Other",
+        "JJ"
+      ],
+      [
+        "Countries",
+        "NNS"
+      ],
+      [
+        "Feel",
+        "VBP"
+      ],
+      [
+        "Same",
+        "ORGANIZATION"
+      ],
+      [
+        "first",
+        "JJ"
+      ],
+      [
+        "flout",
+        "VB"
+      ],
+      [
+        "rules",
+        "NNS"
+      ],
+      [
+        "even",
+        "RB"
+      ],
+      [
+        "E.U",
+        "NNP"
+      ],
+      [
+        "has",
+        "VBZ"
+      ],
+      [
+        "risking",
+        "VBG"
+      ],
+      [
+        "damage",
+        "NN"
+      ],
+      [
+        "become",
+        "VB"
+      ],
+      [
+        "permanent",
+        "JJ"
+      ]
+    ]
+  },
+  "16": {
+    "headlinetext": " {0} of {1} {2} {3} {4} {5} {6}.  {7} {8}, the {9} of {10} for {11}, {12} {13} {14} after the {15} of her {16} {17} {18} for {19}.",
+    "headlineentitytags": [
+      [
+        "Head",
+        "NN"
+      ],
+      [
+        "Far-Right",
+        "JJ"
+      ],
+      [
+        "German",
+        "GPE"
+      ],
+      [
+        "Party",
+        "ORGANIZATION"
+      ],
+      [
+        "Cancels",
+        "VBZ"
+      ],
+      [
+        "Oxford",
+        "GPE"
+      ],
+      [
+        "Trip",
+        "NN"
+      ],
+      [
+        "Alice",
+        "NNP"
+      ],
+      [
+        "Weidel",
+        "NNP"
+      ],
+      [
+        "leader",
+        "NN"
+      ],
+      [
+        "Alternative",
+        "NN"
+      ],
+      [
+        "Germany",
+        "GPE"
+      ],
+      [
+        "cited",
+        "VBD"
+      ],
+      [
+        "security",
+        "NN"
+      ],
+      [
+        "concerns",
+        "NNS"
+      ],
+      [
+        "announcement",
+        "NN"
+      ],
+      [
+        "appearance",
+        "NN"
+      ],
+      [
+        "drew",
+        "VBD"
+      ],
+      [
+        "plans",
+        "NNS"
+      ],
+      [
+        "protests",
+        "NNS"
+      ]
+    ]
+  },
+  "17": {
+    "headlinetext": " {0}'s {1} {2} {3} on {4}'s {5}.  The {6} {7} {8}'s {9} as a {10} {11} and {12} {13} {14} is in {15} after it {16} out an {17} for The {18}.",
+    "headlineentitytags": [
+      [
+        "Journalist",
+        "GPE"
+      ],
+      [
+        "Expulsion",
+        "ORGANIZATION"
+      ],
+      [
+        "Casts",
+        "VBZ"
+      ],
+      [
+        "Shadow",
+        "PERSON"
+      ],
+      [
+        "Hong Kong",
+        "GPE"
+      ],
+      [
+        "Future",
+        "NN"
+      ],
+      [
+        "former",
+        "JJ"
+      ],
+      [
+        "British",
+        "GPE"
+      ],
+      [
+        "colony",
+        "NN"
+      ],
+      [
+        "future",
+        "NN"
+      ],
+      [
+        "uniquely",
+        "RB"
+      ],
+      [
+        "free",
+        "JJ"
+      ],
+      [
+        "open",
+        "JJ"
+      ],
+      [
+        "Chinese",
+        "GPE"
+      ],
+      [
+        "territory",
+        "NN"
+      ],
+      [
+        "question",
+        "NN"
+      ],
+      [
+        "kicked",
+        "VBD"
+      ],
+      [
+        "editor",
+        "NN"
+      ],
+      [
+        "Financial Times",
+        "ORGANIZATION"
+      ]
+    ]
+  },
+  "18": {
+    "headlinetext": " {0} {1} at the {2}? {3} {4} {5} to {6} {7}.  The {8} is {9} {10} {11} {12} at {13} in {14} and {15} in the {16} {17}. We {18} to {19} {20} {21} to {22} {23}\" {24}.",
+    "headlineentitytags": [
+      [
+        "Last",
+        "JJ"
+      ],
+      [
+        "Call",
+        "NN"
+      ],
+      [
+        "Airport",
+        "ORGANIZATION"
+      ],
+      [
+        "Britain",
+        "GPE"
+      ],
+      [
+        "Considers",
+        "VBZ"
+      ],
+      [
+        "End",
+        "NN"
+      ],
+      [
+        "24-Hour",
+        "JJ"
+      ],
+      [
+        "Bar Service",
+        "ORGANIZATION"
+      ],
+      [
+        "government",
+        "NN"
+      ],
+      [
+        "considering",
+        "VBG"
+      ],
+      [
+        "restricting",
+        "VBG"
+      ],
+      [
+        "alcohol",
+        "NN"
+      ],
+      [
+        "sales",
+        "NNS"
+      ],
+      [
+        "airports",
+        "NNS"
+      ],
+      [
+        "England",
+        "GPE"
+      ],
+      [
+        "Wales",
+        "PERSON"
+      ],
+      [
+        "early",
+        "JJ"
+      ],
+      [
+        "morning",
+        "NN"
+      ],
+      [
+        "went",
+        "VBD"
+      ],
+      [
+        "one",
+        "CD"
+      ],
+      [
+        "airport",
+        "NN"
+      ],
+      [
+        "pub",
+        "NN"
+      ],
+      [
+        "get",
+        "VB"
+      ],
+      [
+        "patrons",
+        "NNS"
+      ],
+      [
+        "reaction",
+        "NN"
+      ]
+    ]
+  },
+  "19": {
+    "headlinetext": " {0}. {1} {2} {3} Into {4} in {5}.  Though it {6} a {7} {8} of {9}, the {10} {11} the {12}'s {13} over {14} that it {15}not {16} against {17} in its {18}.",
+    "headlineentitytags": [
+      [
+        "U.K",
+        "NNP"
+      ],
+      [
+        "Opens",
+        "VBZ"
+      ],
+      [
+        "Hate-Crime",
+        "JJ"
+      ],
+      [
+        "Inquiry",
+        "NN"
+      ],
+      [
+        "Anti-Semitism",
+        "NN"
+      ],
+      [
+        "Labour Party",
+        "ORGANIZATION"
+      ],
+      [
+        "involves",
+        "VBZ"
+      ],
+      [
+        "small",
+        "JJ"
+      ],
+      [
+        "number",
+        "NN"
+      ],
+      [
+        "people",
         "NNS"
       ],
       [
@@ -2539,116 +1790,557 @@
         "NN"
       ],
       [
+        "deepens",
+        "VBZ"
+      ],
+      [
+        "party",
+        "NN"
+      ],
+      [
+        "troubles",
+        "NNS"
+      ],
+      [
+        "charges",
+        "NNS"
+      ],
+      [
+        "has",
+        "VBZ"
+      ],
+      [
+        "acted",
+        "VBN"
+      ],
+      [
+        "anti-Semitism",
+        "NN"
+      ],
+      [
+        "ranks",
+        "NNS"
+      ]
+    ]
+  },
+  "20": {
+    "headlinetext": " {0} {1} {2} on {3} but {4} the {5} With {6}.  The Trump {7} {8} {9} {10} {11} on {12}, but is {13} them on {14} {15} by {16} {17} it {18}not {19}.",
+    "headlineentitytags": [
+      [
+        "U.S.",
+        "GPE"
+      ],
+      [
+        "Reimposes",
+        "VBZ"
+      ],
+      [
+        "Sanctions",
+        "PERSON"
+      ],
+      [
+        "Iran",
+        "GPE"
+      ],
+      [
+        "Undercuts",
+        "VBZ"
+      ],
+      [
+        "Pain",
+        "NN"
+      ],
+      [
+        "Waivers",
+        "ORGANIZATION"
+      ],
+      [
+        "administration",
+        "NNP"
+      ],
+      [
+        "announced",
+        "VBD"
+      ],
+      [
+        "punishing",
+        "VBG"
+      ],
+      [
+        "economic",
+        "JJ"
+      ],
+      [
+        "penalties",
+        "NNS"
+      ],
+      [
+        "Iran",
+        "GPE"
+      ],
+      [
+        "waiving",
+        "VBG"
+      ],
+      [
+        "oil",
+        "NN"
+      ],
+      [
+        "imports",
+        "NNS"
+      ],
+      [
+        "eight",
+        "CD"
+      ],
+      [
+        "countries",
+        "NNS"
+      ],
+      [
+        "did",
+        "VBD"
+      ],
+      [
+        "identify",
+        "VB"
+      ]
+    ]
+  },
+  "21": {
+    "headlinetext": " Behind the {0}: How the {1} in {2} {3} a {4} {5}.  {6} F. {7} {8} about the {9} {10} that {11} him and {12} {13} {14} on the {15} in {16}.",
+    "headlineentitytags": [
+      [
+        "Reporting",
+        "NN"
+      ],
+      [
+        "War",
+        "NN"
+      ],
+      [
+        "Yemen",
+        "GPE"
+      ],
+      [
+        "Became",
+        "VBD"
+      ],
+      [
+        "Bloody",
+        "JJ"
+      ],
+      [
+        "Stalemate",
+        "NN"
+      ],
+      [
+        "Robert",
+        "PERSON"
+      ],
+      [
+        "Worth",
+        "NNP"
+      ],
+      [
+        "writes",
+        "VBZ"
+      ],
+      [
+        "local",
+        "JJ"
+      ],
+      [
+        "networks",
+        "NNS"
+      ],
+      [
         "helped",
         "VBD"
       ],
       [
-        "focus",
-        "VB"
+        "Lynsey Addario",
+        "PERSON"
       ],
       [
-        "international",
-        "JJ"
+        "safely",
+        "RB"
       ],
       [
-        "attention",
+        "report",
         "NN"
       ],
+      [
+        "war",
+        "NN"
+      ],
+      [
+        "Yemen",
+        "GPE"
+      ]
+    ]
+  },
+  "22": {
+    "headlinetext": " {0} {1} by {2} Over {3} on {4} {5}.  {6} {7} {8} {9} and {10} in {11} {12}, {13} that {14}, a {15} {16}, be {17} to {18}.",
+    "headlineentitytags": [
       [
         "Pakistan",
         "GPE"
       ],
       [
-        "harsh",
+        "Rocked",
+        "VBD"
+      ],
+      [
+        "Protests",
+        "NNS"
+      ],
+      [
+        "Acquittal of Asia Bibi",
+        "ORGANIZATION"
+      ],
+      [
+        "Blasphemy",
+        "ORGANIZATION"
+      ],
+      [
+        "Charges",
+        "NNS"
+      ],
+      [
+        "Hard-line",
         "JJ"
       ],
       [
-        "blasphemy",
+        "Islamists",
+        "ORGANIZATION"
+      ],
+      [
+        "blocked",
+        "VBD"
+      ],
+      [
+        "highways",
+        "NNS"
+      ],
+      [
+        "demonstrated",
+        "VBD"
+      ],
+      [
+        "several",
+        "JJ"
+      ],
+      [
+        "cities",
+        "NNS"
+      ],
+      [
+        "demanding",
+        "VBG"
+      ],
+      [
+        "Asia Bibi",
+        "GPE"
+      ],
+      [
+        "Christian",
+        "GPE"
+      ],
+      [
+        "woman",
         "NN"
       ],
       [
-        "law",
+        "put",
+        "VBN"
+      ],
+      [
+        "death",
         "NN"
       ]
     ]
   },
-  "29": {
-    "headlinetext": " {0} {1} {2} of {3}, {4}’ s {5} {6} and {7} the {8}.  The {9} {10} of {11} {12} {13} to {14}, a {15} of the {16} {17} {18} who {19} {20} the {21} from {22} {23}.",
+  "23": {
+    "headlinetext": " {0} {1} {2} {3} of {4}, {5} {6} to {7}.  The {8} {9} {10} {11} in {12} {13} {14} {15} {16} that {17} {18} {19} “ {20} {21}. ”",
     "headlineentitytags": [
       [
-        "India",
+        "Palau",
         "GPE"
       ],
       [
-        "Unveils",
+        "Bans",
         "VBZ"
       ],
       [
-        "Statue",
-        "PERSON"
+        "Many",
+        "JJ"
       ],
       [
-        "Unity",
-        "GPE"
+        "Kinds",
+        "NNS"
       ],
       [
-        "World",
-        "PERSON"
-      ],
-      [
-        "Tallest",
-        "JJS"
-      ],
-      [
-        "Statue",
-        "NN"
-      ],
-      [
-        "Twice",
-        "RB"
-      ],
-      [
-        "Size of Lady Liberty",
+        "Sunscreen",
         "ORGANIZATION"
       ],
       [
-        "bronze",
-        "NN"
+        "Citing",
+        "VBG"
       ],
       [
-        "Statue",
-        "NN"
-      ],
-      [
-        "Unity",
-        "ORGANIZATION"
-      ],
-      [
-        "pays",
-        "VBZ"
-      ],
-      [
-        "tribute",
-        "NN"
-      ],
-      [
-        "Sardar Vallabhbhai Patel",
+        "Threat",
         "PERSON"
       ],
       [
-        "leader",
+        "Coral",
         "NN"
       ],
       [
-        "Indian",
+        "Western Pacific",
+        "LOCATION"
+      ],
+      [
+        "nation",
+        "NN"
+      ],
+      [
+        "joined",
+        "VBD"
+      ],
+      [
+        "Hawaii",
         "GPE"
       ],
       [
-        "independence",
+        "banning",
+        "VBG"
+      ],
+      [
+        "products",
+        "NNS"
+      ],
+      [
+        "containing",
+        "VBG"
+      ],
+      [
+        "certain",
+        "JJ"
+      ],
+      [
+        "chemicals",
+        "NNS"
+      ],
+      [
+        "scientists",
+        "NNS"
+      ],
+      [
+        "say",
+        "VBP"
+      ],
+      [
+        "are",
+        "VBP"
+      ],
+      [
+        "reef",
         "NN"
       ],
       [
-        "movement",
+        "toxic",
+        "NN"
+      ]
+    ]
+  },
+  "24": {
+    "headlinetext": " {0} {1} to {2} {3} at {4}.  The {5} {6} {7} {8} after a {9} {10} {11} {12} on his {13}. He {14} he {15} {16} {17} {18} of {19} and {20} {21} of {22} {23} before he {24} to {25} to {26}.",
+    "headlineentitytags": [
+      [
+        "Pilot",
+        "GPE"
+      ],
+      [
+        "Pleads Guilty",
+        "ORGANIZATION"
+      ],
+      [
+        "Being",
+        "VBG"
+      ],
+      [
+        "Drunk",
+        "PERSON"
+      ],
+      [
+        "Heathrow Minutes Before Flight",
+        "ORGANIZATION"
+      ],
+      [
+        "Japan Airlines",
+        "GPE"
+      ],
+      [
+        "pilot",
+        "NN"
+      ],
+      [
+        "was",
+        "VBD"
+      ],
+      [
+        "arrested",
+        "VBN"
+      ],
+      [
+        "bus",
+        "NN"
+      ],
+      [
+        "driver",
+        "NN"
+      ],
+      [
+        "smelled",
+        "VBD"
+      ],
+      [
+        "alcohol",
+        "NN"
+      ],
+      [
+        "breath",
+        "NN"
+      ],
+      [
+        "admitted",
+        "VBD"
+      ],
+      [
+        "had",
+        "VBD"
+      ],
+      [
+        "consumed",
+        "VBN"
+      ],
+      [
+        "two",
+        "CD"
+      ],
+      [
+        "bottles",
+        "NNS"
+      ],
+      [
+        "wine",
+        "NN"
+      ],
+      [
+        "five",
+        "CD"
+      ],
+      [
+        "cans",
+        "NNS"
+      ],
+      [
+        "beer",
+        "NN"
+      ],
+      [
+        "hours",
+        "NNS"
+      ],
+      [
+        "was",
+        "VBD"
+      ],
+      [
+        "fly",
+        "VB"
+      ],
+      [
+        "Tokyo",
+        "GPE"
+      ]
+    ]
+  },
+  "25": {
+    "headlinetext": " Among {0}'s {1}, It 's( {2}) the {3} of the {4}.  In {5} {6} this {7}, {8} {9} {10} {11} with their {12} and their {13}\" {14} {15} of {16} {17} and {18} {19} {20} {21}.",
+    "headlineentitytags": [
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Ultra-Orthodox",
+        "NNP"
+      ],
+      [
+        "Sort of",
+        "ORGANIZATION"
+      ],
+      [
+        "Year",
+        "NN"
+      ],
+      [
+        "Woman",
+        "NN"
+      ],
+      [
+        "elections",
+        "NNS"
+      ],
+      [
+        "held",
+        "VBN"
+      ],
+      [
+        "week",
+        "NN"
+      ],
+      [
+        "several",
+        "JJ"
+      ],
+      [
+        "ultra-Orthodox",
+        "JJ"
+      ],
+      [
+        "communities",
+        "NNS"
+      ],
+      [
+        "broke",
+        "VBD"
+      ],
+      [
+        "rabbis",
+        "NN"
+      ],
+      [
+        "sects",
+        "NNS"
+      ],
+      [
+        "strict",
+        "JJ"
+      ],
+      [
+        "version",
+        "NN"
+      ],
+      [
+        "Jewish",
+        "GPE"
+      ],
+      [
+        "law",
         "NN"
       ],
       [
@@ -2656,52 +2348,64 @@
         "VBD"
       ],
       [
-        "wrest",
+        "elect",
         "VB"
       ],
       [
-        "country",
-        "NN"
+        "female",
+        "JJ"
       ],
       [
-        "British",
-        "GPE"
-      ],
-      [
-        "control",
-        "NN"
+        "mayors",
+        "NNS"
       ]
     ]
   },
-  "30": {
-    "headlinetext": " {0} {1} {2} for {3} After {4}.  {5} {6} {7} {8} {9} from the {10} of a {11} {12} that {13} {14} by a {15} after {16} {17} the {18}’ s {19}.",
+  "26": {
+    "headlinetext": " {0} {1} {2} {3}: {4} {5} 01.  At {6} 36 {7} and 18 {8} {9} {10} {11} {12} during the {13} {14} as {15} {16} to {17} {18}.",
     "headlineentitytags": [
       [
-        "Rescue",
-        "GPE"
+        "Afghan",
+        "PERSON"
       ],
       [
-        "Workers",
-        "NNS"
+        "War",
+        "NNP"
       ],
       [
-        "Search",
-        "VB"
+        "Casualty",
+        "NNP"
       ],
       [
-        "Missing",
-        "VBG"
+        "Report",
+        "NNP"
       ],
       [
-        "Typhoon Strikes Philippines",
-        "ORGANIZATION"
+        "Oct.",
+        "NNP"
       ],
       [
-        "Nine",
+        "26-Nov.",
         "CD"
       ],
       [
-        "bodies",
+        "least",
+        "JJS"
+      ],
+      [
+        "civilians",
+        "NNS"
+      ],
+      [
+        "security",
+        "NN"
+      ],
+      [
+        "force",
+        "NN"
+      ],
+      [
+        "members",
         "NNS"
       ],
       [
@@ -2709,104 +2413,15 @@
         "VBD"
       ],
       [
-        "recovered",
+        "killed",
         "VBN"
       ],
       [
-        "Wednesday",
-        "NNP"
-      ],
-      [
-        "site",
-        "NN"
-      ],
-      [
-        "government",
-        "NN"
-      ],
-      [
-        "building",
-        "NN"
-      ],
-      [
-        "was",
-        "VBD"
-      ],
-      [
-        "buried",
-        "VBN"
-      ],
-      [
-        "landslide",
-        "NN"
-      ],
-      [
-        "Typhoon Yutu",
-        "PERSON"
-      ],
-      [
-        "struck",
-        "VBD"
-      ],
-      [
-        "country",
-        "NN"
-      ],
-      [
-        "north",
-        "NNP"
-      ]
-    ]
-  },
-  "31": {
-    "headlinetext": " {0} {1} {2} in {3} Amid {4}.  {5} {6}, a {7} from {8}, {9} {10} in the {11} during {12} between {13} {14} and {15}.",
-    "headlineentitytags": [
-      [
-        "American",
-        "GPE"
-      ],
-      [
-        "Missionary",
+        "past",
         "JJ"
       ],
       [
-        "Killed",
-        "VBN"
-      ],
-      [
-        "Cameroon",
-        "GPE"
-      ],
-      [
-        "Armed Conflict",
-        "PERSON"
-      ],
-      [
-        "Charles",
-        "PERSON"
-      ],
-      [
-        "Trumann Wesco",
-        "PERSON"
-      ],
-      [
-        "missionary",
-        "JJ"
-      ],
-      [
-        "Indiana",
-        "GPE"
-      ],
-      [
-        "was",
-        "VBD"
-      ],
-      [
-        "shot",
-        "VBN"
-      ],
-      [
-        "head",
+        "week",
         "NN"
       ],
       [
@@ -2814,106 +2429,187 @@
         "VBG"
       ],
       [
-        "armed",
-        "JJ"
+        "spread",
+        "NN"
       ],
       [
-        "separatists",
-        "NNS"
+        "eight",
+        "CD"
       ],
       [
-        "soldiers",
+        "provinces",
         "NNS"
       ]
     ]
   },
-  "32": {
-    "headlinetext": " As {0}, {1}. {2} Who’ ll {3} the {4}.  {5} that {6}, who is {7} with the {8}, {9} to {10} down {11} {12} {13} over who can {14} her {15}.",
+  "27": {
+    "headlinetext": " {0} in {1} as {2} {3} {4} {5} to {6}.  A {7} between a {8} and {9} that {10} to 13 {11} {12} {13}, {14} and {15} about whether there {16} {17} {18} {19} in {20}.",
     "headlineentitytags": [
       [
-        "Merkel Eyes Exit",
+        "Fury Erupts",
         "ORGANIZATION"
       ],
       [
-        "Nervous E.U",
-        "PERSON"
-      ],
-      [
-        "Wonders",
-        "NNS"
-      ],
-      [
-        "Take",
-        "VB"
-      ],
-      [
-        "Stage",
-        "NN"
-      ],
-      [
-        "News",
+        "China",
         "GPE"
       ],
       [
-        "Chancellor Angela Merkel",
+        "Video",
         "PERSON"
       ],
       [
-        "synonymous",
-        "JJ"
+        "Shows",
+        "VBZ"
       ],
       [
-        "European Union",
+        "Fight",
+        "PERSON"
+      ],
+      [
+        "Led",
+        "VBD"
+      ],
+      [
+        "Fatal Bus Crash",
         "ORGANIZATION"
       ],
       [
-        "plans",
-        "VBZ"
+        "dispute",
+        "NN"
       ],
       [
-        "step",
-        "VB"
+        "passenger",
+        "NN"
       ],
       [
-        "has",
-        "VBZ"
+        "driver",
+        "NN"
       ],
       [
-        "created",
+        "led",
+        "VBD"
+      ],
+      [
+        "deaths",
+        "NNS"
+      ],
+      [
+        "elicited",
         "VBN"
       ],
       [
-        "anxiety",
+        "shock",
         "NN"
       ],
       [
-        "fill",
+        "scorn",
         "VB"
       ],
       [
-        "shoes",
+        "questions",
         "NNS"
+      ],
+      [
+        "was",
+        "VBD"
+      ],
+      [
+        "too",
+        "RB"
+      ],
+      [
+        "much",
+        "JJ"
+      ],
+      [
+        "vitriol",
+        "NN"
+      ],
+      [
+        "society",
+        "NN"
       ]
     ]
   },
-  "33": {
-    "headlinetext": " {0}, {1}, {2}: Your {3} {4} {5}.  {6}’ s what you {7} to {8} at the {9} of the {10}.",
+  "28": {
+    "headlinetext": " Our {0}( {1}) {2}: Do {3}'s {4} {5} It?.  This {6}'s {7} {8} {9} the {10} between {11} {12}, {13} and {14}.",
     "headlineentitytags": [
       [
-        "Pittsburgh",
+        "Networked",
         "GPE"
       ],
       [
-        "Midterms",
+        "Dangerous",
+        "ORGANIZATION"
+      ],
+      [
+        "World",
+        "NN"
+      ],
+      [
+        "Australia",
         "GPE"
       ],
       [
-        "Whitey Bulger",
-        "PERSON"
+        "Leaders",
+        "NNS"
       ],
       [
-        "Tuesday",
+        "Get",
+        "VBP"
+      ],
+      [
+        "week",
+        "NN"
+      ],
+      [
+        "Australia",
+        "ORGANIZATION"
+      ],
+      [
+        "Letter",
         "NNP"
+      ],
+      [
+        "explores",
+        "VBZ"
+      ],
+      [
+        "connection",
+        "NN"
+      ],
+      [
+        "international",
+        "JJ"
+      ],
+      [
+        "threats",
+        "NNS"
+      ],
+      [
+        "journalism",
+        "NN"
+      ],
+      [
+        "technology",
+        "NN"
+      ]
+    ]
+  },
+  "29": {
+    "headlinetext": " {0}, {1}, {2}: Your {3} {4}.  {5} 's what you {6} to {7} at the {8} of the {9}.",
+    "headlineentitytags": [
+      [
+        "Immigration",
+        "GPE"
+      ],
+      [
+        "Evangelicals",
+        "NNS"
+      ],
+      [
+        "Roger Stone",
+        "PERSON"
       ],
       [
         "Evening",
@@ -2945,282 +2641,602 @@
       ]
     ]
   },
-  "34": {
-    "headlinetext": " {0} {1} {2} {3} to {4} as {5}.  The {6} of {7} {8}’ s {9}, who {10} {11} {12} if he {13} {14} to {15}, may be a {16} the {17} {18} is {19} a {20} {21} to the {22} over the {23} of {24}.",
+  "30": {
+    "headlinetext": " {0} {1} {2} for {3}.  The {4}, which {5} {6} {7} from the {8}, {9} some {10} as {11} “ {12} {13}. ”",
     "headlineentitytags": [
       [
-        "Senior",
+        "American",
         "GPE"
       ],
       [
-        "Saudi",
-        "GPE"
-      ],
-      [
-        "Prince",
-        "NN"
-      ],
-      [
-        "Returns",
-        "NNS"
-      ],
-      [
-        "Kingdom",
-        "PERSON"
-      ],
-      [
-        "Royals Confront Khashoggi Crisis",
-        "ORGANIZATION"
-      ],
-      [
-        "return",
-        "NN"
-      ],
-      [
-        "King",
+        "Military",
         "NNP"
       ],
       [
-        "Salman",
+        "Apologizes",
+        "VBZ"
+      ],
+      [
+        "Booklet With Racially Offensive Language",
         "PERSON"
       ],
       [
-        "brother",
-        "NNP"
+        "publication",
+        "NN"
       ],
       [
-        "had",
-        "VBD"
+        "has",
+        "VBZ"
       ],
       [
-        "feared",
+        "been",
         "VBN"
       ],
       [
-        "arrest",
+        "removed",
+        "VBN"
+      ],
+      [
+        "internet",
         "NN"
       ],
       [
-        "went",
+        "described",
         "VBD"
       ],
       [
-        "back",
-        "RB"
+        "Saudis",
+        "NNPS"
       ],
       [
-        "Saudi Arabia",
-        "GPE"
-      ],
-      [
-        "sign",
-        "NN"
-      ],
-      [
-        "royal",
-        "NNP"
-      ],
-      [
-        "family",
-        "NN"
-      ],
-      [
-        "seeking",
+        "having",
         "VBG"
       ],
       [
-        "unified",
+        "Negro",
+        "PERSON"
+      ],
+      [
+        "blood",
+        "NN"
+      ]
+    ]
+  },
+  "31": {
+    "headlinetext": " In {0} {1}, {2} {3} as {4} for {5}.  The {6} {7} {8} of the {9} {10} of {11} in {12} this {13}. But {14} {15} {16} {17} {18}'s {19}, and {20} {21} {22} {23} to the {24}.",
+    "headlineentitytags": [
+      [
+        "Venice",
+        "GPE"
+      ],
+      [
+        "Floods",
+        "NNS"
+      ],
+      [
+        "Tourists",
+        "NNS"
+      ],
+      [
+        "Frolic",
+        "VBP"
+      ],
+      [
+        "Locals Fear",
+        "ORGANIZATION"
+      ],
+      [
+        "Treasures",
+        "ORGANIZATION"
+      ],
+      [
+        "city",
+        "NN"
+      ],
+      [
+        "suffered",
+        "VBD"
+      ],
+      [
+        "one",
+        "CD"
+      ],
+      [
+        "worst",
+        "JJS"
+      ],
+      [
+        "episodes",
+        "NNS"
+      ],
+      [
+        "flooding",
+        "NN"
+      ],
+      [
+        "decades",
+        "NNS"
+      ],
+      [
+        "week",
+        "NN"
+      ],
+      [
+        "saltwater",
+        "NN"
+      ],
+      [
+        "has",
+        "VBZ"
+      ],
+      [
+        "long",
+        "RB"
+      ],
+      [
+        "been",
+        "VBN"
+      ],
+      [
+        "Venice",
+        "PERSON"
+      ],
+      [
+        "enemy",
+        "NN"
+      ],
+      [
+        "global",
         "JJ"
+      ],
+      [
+        "warming",
+        "NN"
+      ],
+      [
+        "has",
+        "VBZ"
+      ],
+      [
+        "added",
+        "VBN"
+      ],
+      [
+        "threat",
+        "NN"
+      ]
+    ]
+  },
+  "32": {
+    "headlinetext": " {0} {1} of {2} to {3} {4} in {5}.  The {6} that {7} {8} to {9} an {10} {11} {12} on {13} {14} {15} {16} a {17} {18} to {19} {20}.",
+    "headlineentitytags": [
+      [
+        "Iran",
+        "GPE"
+      ],
+      [
+        "Accused",
+        "VBD"
+      ],
+      [
+        "Plot",
+        "GPE"
+      ],
+      [
+        "Assassinate",
+        "VB"
+      ],
+      [
+        "Dissident",
+        "JJ"
+      ],
+      [
+        "Denmark",
+        "GPE"
+      ],
+      [
+        "charge",
+        "NN"
+      ],
+      [
+        "Iran",
+        "GPE"
+      ],
+      [
+        "tried",
+        "VBD"
+      ],
+      [
+        "kill",
+        "VB"
+      ],
+      [
+        "Arab",
+        "PERSON"
+      ],
+      [
+        "separatist",
+        "NNP"
+      ],
+      [
+        "leader",
+        "NN"
+      ],
+      [
+        "Danish",
+        "GPE"
+      ],
+      [
+        "soil",
+        "NN"
+      ],
+      [
+        "has",
+        "VBZ"
+      ],
+      [
+        "angered",
+        "VBN"
+      ],
+      [
+        "country",
+        "NN"
+      ],
+      [
+        "unused",
+        "JJ"
+      ],
+      [
+        "political",
+        "JJ"
+      ],
+      [
+        "violence",
+        "NN"
+      ]
+    ]
+  },
+  "33": {
+    "headlinetext": " The {0} in {1} {2} That May Be {3} It {4}.  {5} {6}, {7} more {8} {9} in {10} {11} {12}, {13} they may be {14} {15} than a {16} {17}.",
+    "headlineentitytags": [
+      [
+        "Weaknesses",
+        "NNS"
+      ],
+      [
+        "Liberal",
+        "GPE"
+      ],
+      [
+        "Democracy",
+        "NN"
+      ],
+      [
+        "Pulling",
+        "VBG"
+      ],
+      [
+        "Apart",
+        "RB"
+      ],
+      [
+        "Populist",
+        "GPE"
+      ],
+      [
+        "backlashes",
+        "NNS"
+      ],
+      [
+        "growing",
+        "VBG"
+      ],
+      [
+        "common",
+        "JJ"
+      ],
+      [
+        "even",
+        "RB"
+      ],
+      [
+        "very",
+        "RB"
+      ],
+      [
+        "different",
+        "JJ"
+      ],
+      [
+        "countries",
+        "NNS"
+      ],
+      [
+        "suggest",
+        "VBP"
+      ],
+      [
+        "something",
+        "NN"
+      ],
+      [
+        "more",
+        "JJR"
+      ],
+      [
+        "one-off",
+        "JJ"
+      ],
+      [
+        "wave",
+        "NN"
+      ]
+    ]
+  },
+  "34": {
+    "headlinetext": " {0} {1} {2} {3} Is {4} for {5}  \"{6} {7}\".  The {8} of a {9} {10} {11} {12} {13} his {14} to a {15} {16} {17} all in {18}, but the {19} {20} him to {21} down.",
+    "headlineentitytags": [
+      [
+        "U.K.",
+        "NNP"
+      ],
+      [
+        "Food",
+        "NNP"
+      ],
+      [
+        "Magazine",
+        "NN"
+      ],
+      [
+        "Editor",
+        "NN"
+      ],
+      [
+        "Roasted",
+        "JJ"
+      ],
+      [
+        "Email About",
+        "PERSON"
+      ],
+      [
+        "Killing",
+        "VBG"
+      ],
+      [
+        "Vegans",
+        "NNPS"
+      ],
+      [
+        "editor",
+        "NN"
+      ],
+      [
+        "popular",
+        "JJ"
+      ],
+      [
+        "British",
+        "GPE"
+      ],
+      [
+        "food",
+        "NNP"
+      ],
+      [
+        "magazine",
+        "NN"
+      ],
+      [
+        "said",
+        "VBD"
       ],
       [
         "response",
         "NN"
       ],
       [
-        "furor",
+        "freelance",
+        "JJ"
+      ],
+      [
+        "pitch",
         "NN"
       ],
       [
-        "death",
+        "was",
+        "VBD"
+      ],
+      [
+        "jest",
+        "NNP"
+      ],
+      [
+        "outrage",
         "NN"
       ],
       [
-        "Jamal Khashoggi",
-        "PERSON"
+        "forced",
+        "VBD"
+      ],
+      [
+        "step",
+        "VB"
       ]
     ]
   },
   "35": {
-    "headlinetext": " {0} {1} {2} in {3} in {4} of {5} {6}.  A {7} {8} {9} a {10} {11} for {12} {13} on {14} {15} on {16} that he {17} a {18} {19} {20} at {21} {22} in {23}.",
+    "headlinetext": " {0} {1} {2} {3} as {4} {5} {6}.  The Kremlin {7} the {8} {9} of a {10} {11} of {12}'s {13} and {14} {15}, {16} it {17} {18} to {19}'s {20}.",
     "headlineentitytags": [
       [
-        "Nurse",
+        "Russia-Ukraine",
+        "JJ"
+      ],
+      [
+        "Ties",
+        "NNS"
+      ],
+      [
+        "Sour",
+        "JJ"
+      ],
+      [
+        "Further",
+        "RB"
+      ],
+      [
+        "Moscow",
         "GPE"
       ],
       [
-        "Faces",
+        "Imposes",
         "VBZ"
       ],
       [
-        "Trial",
-        "NN"
+        "Sanctions",
+        "NNS"
       ],
       [
-        "Germany",
+        "froze",
+        "VBD"
+      ],
+      [
+        "Russian",
         "GPE"
       ],
       [
-        "Deaths",
+        "assets",
         "NNS"
       ],
       [
-        "100",
-        "CD"
-      ],
-      [
-        "Patients",
-        "NNS"
-      ],
-      [
-        "former",
+        "broad",
         "JJ"
       ],
       [
-        "nurse",
+        "cross-section",
         "NN"
       ],
       [
-        "serving",
+        "Ukraine",
+        "GPE"
+      ],
+      [
+        "political",
+        "JJ"
+      ],
+      [
+        "business",
+        "NN"
+      ],
+      [
+        "elite",
+        "NN"
+      ],
+      [
+        "saying",
         "VBG"
       ],
       [
-        "life",
-        "NN"
-      ],
-      [
-        "sentence",
-        "NN"
-      ],
-      [
-        "murder",
-        "NN"
-      ],
-      [
-        "went",
+        "was",
         "VBD"
       ],
       [
-        "trial",
-        "NN"
+        "responding",
+        "VBG"
       ],
       [
-        "Tuesday",
-        "NNP"
+        "Kiev",
+        "PERSON"
       ],
       [
-        "charges",
+        "moves",
         "NNS"
-      ],
-      [
-        "killed",
-        "VBD"
-      ],
-      [
-        "further",
-        "JJ"
-      ],
-      [
-        "100",
-        "CD"
-      ],
-      [
-        "patients",
-        "NNS"
-      ],
-      [
-        "two",
-        "CD"
-      ],
-      [
-        "hospitals",
-        "NNS"
-      ],
-      [
-        "Germany",
-        "GPE"
       ]
     ]
   },
   "36": {
-    "headlinetext": " {0} {1}.  {2} {3} to {4} if there {5} a {6} with {7}’ s {8}, {9} {10}, or if this {11} another {12} of {13} {14} {15} in {16}.",
+    "headlinetext": " A {0}'s {1} {2} {3}.  A {4} {5} {6} {7} {8} {9} about whether {10} in {11}'s {12} {13} {14} {15} {16} {17} as {18} {19}.",
     "headlineentitytags": [
       [
-        "Indonesia",
-        "GPE"
+        "5-Year-Old",
+        "NN"
       ],
       [
-        "Plane Crash Leaves Experts Puzzled",
+        "15-Page",
+        "JJ"
+      ],
+      [
+        "Résumé Captivates",
         "ORGANIZATION"
       ],
       [
-        "Investigators",
+        "China",
+        "GPE"
+      ],
+      [
+        "leaked",
+        "VBN"
+      ],
+      [
+        "school",
+        "NN"
+      ],
+      [
+        "application",
+        "NN"
+      ],
+      [
+        "has",
+        "VBZ"
+      ],
+      [
+        "prompted",
+        "VBN"
+      ],
+      [
+        "debate",
+        "NN"
+      ],
+      [
+        "children",
         "NNS"
       ],
       [
-        "want",
+        "China",
+        "GPE"
+      ],
+      [
+        "test-crazed",
+        "JJ"
+      ],
+      [
+        "education",
+        "NN"
+      ],
+      [
+        "system",
+        "NN"
+      ],
+      [
+        "are",
         "VBP"
       ],
       [
-        "know",
-        "VB"
+        "being",
+        "VBG"
       ],
       [
-        "was",
-        "VBD"
+        "raised",
+        "VBN"
       ],
       [
-        "problem",
-        "NN"
-      ],
-      [
-        "Boeing",
-        "ORGANIZATION"
-      ],
-      [
-        "new",
-        "NNP"
-      ],
-      [
-        "best-selling",
+        "soulless",
         "JJ"
       ],
       [
-        "jet",
-        "NN"
-      ],
-      [
-        "was",
-        "VBD"
-      ],
-      [
-        "case",
-        "NN"
-      ],
-      [
-        "lax",
-        "JJ"
-      ],
-      [
-        "aviation",
-        "NN"
-      ],
-      [
-        "safety",
-        "NN"
-      ],
-      [
-        "Indonesia",
-        "GPE"
+        "strivers",
+        "NNS"
       ]
     ]
   }

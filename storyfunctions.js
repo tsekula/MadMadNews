@@ -212,7 +212,7 @@ function processStoryParameterRecords(source, body, index, callback) {
     try {
       // send original text to be NLP processed
       var sourceText = getParamTextFromPath(source, body, paramlocation, index);
-      nlpfunctions.getPOSTags(sourceText, function(body) {
+      nlpfunctions.getPOSTags(utils.replaceTroublesomeCharacters(sourceText), function(body) {
           if (!body){
             nextRecordParam(recordIndex+1);
           }
@@ -436,14 +436,16 @@ function makeMadStory(source, body) {
         targetedtuplesindex++;
         newHeadlineEntityTags.push(tuples[tupleindex]);
       } else {              // tag is not on targeted list
-        if (entitytag != "PUNCT")
+        if (["PUNCT", "POS"].indexOf(entitytag) == -1 || ['``'].indexOf(literal)>-1) {
           newRecordText = newRecordText + " ";
+        }
         newRecordText = newRecordText + literal;
       }
       
       
     }
     
+    newRecordText = newRecordText.replace(/``\s?/, " \"").replace(/\s?\'\'/,"\"");
     newHeadlineText = newHeadlineText.replace("{{"+recitalParams[i]+"}}", newRecordText);
   }
   

@@ -1,0 +1,73 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "mad mad news",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "huh",
+                        "what",
+                        "I don't know",
+                        "what is that",
+                        "what's that"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MakeRandomMadNewsIntent",
+                    "slots": [],
+                    "samples": [
+                        "generate a headline",
+                        "make a random headline",
+                        "generate mad mad news",
+                        "generate mad news",
+                        "make random mad news",
+                        "make random mad mad news",
+                        "make random news",
+                        "generate news",
+                        "give me random news"
+                    ]
+                },
+                {
+                    "name": "MakeOwnMadNewsIntent",
+                    "slots": [],
+                    "samples": [
+                        "make my own mad mad news",
+                        "make my own mad news",
+                        "make my own news",
+                        "make my own"
+                    ]
+                },
+                {
+                    "name": "GiveWordIntent",
+                    "slots": [
+                        {
+                            "name": "word",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "use {word}"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
