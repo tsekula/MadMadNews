@@ -1,19 +1,27 @@
-var headlinefunctions = require('./headlinefunctions.js');
+var storyfunctions = require('./storyfunctions.js');
+var posTags = require("./pos-tags.json");
 var utils = require('./utils.js');
-var headline;
+var storyIndex, story;
 var headlinePOStags;
 var sourceIndex;
 
 // set to NYT World Stories as source per headline-sources.json
-sourceIndex=1;
-// get a random headline
-headline = headlinefunctions.getRandomHeadline(sourceIndex);
+sourceIndex=0;
 
-console.log(headline);
+// choose 5 spots to designate word replacement
+var replacetags = [3,5,6,9, 12, 15];
+// get a random story
+storyIndex = storyfunctions.getRandomStoryIndex(sourceIndex);
+story = storyfunctions.getStory(sourceIndex, storyIndex);
+var readme = storyfunctions.getAlexaStoryFormattedForReading(story, replacetags);
+
+var thistag = story.headlineentitytags[replacetags[0]][1];
+
+var chosenwords = ["poop", "plop", "parp", "starp", "hohffsd", "clarp"];
 
 
-// get real words for each substitution spot from the user
+console.log(storyfunctions.getAlexaFinalStory(readme, replacetags, chosenwords));
 
-// put the real words in place
-
-// return the final presentation of the headlines sections with real words in place
+// write out the tags that need the user to provide
+//var taglist = storyfunctions.getAlexaWordsForUserToReplace(story, replacetags);
+//console.log(taglist);

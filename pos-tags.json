@@ -1,222 +1,122 @@
 [
  {
-   "tag": "C",
-   "description": "Coord Conjuncn",
-   "example": "and,but,or"
- },
- {
    "tag": "CD",
-   "description": "Cardinal number",
-   "example": "one,two"
- },
- {
-   "tag": "DT",
-   "description": "Determiner",
-   "example": "the,some"
- },
- {
-   "tag": "EX",
-   "description": "Existential there",
-   "example": "there"
- },
- {
-   "tag": "FW",
-   "description": "Foreign Word",
-   "example": "mon dieu"
- },
- {
-   "tag": "IN",
-   "description": "Preposition",
-   "example": "of,in,by"
+   "fullname": "a number",
+   "examples": "one, nineteen, eight hundred",
+   "description": "a word representing quantity or amount"
  },
  {
    "tag": "JJ",
-   "description": "Adjective",
-   "example": "big"
+   "fullname": "an adjective",
+   "examples": "big, yellow, funny",
+   "description": "a word that describes or clarifies a noun"
  },
  {
    "tag": "JJR",
-   "description": "Adj., comparative",
-   "example": "bigger"
+   "fullname": "an adjective ending in -e -r",
+   "examples": "bigger, faster, smarter",
+   "description": "an adjective used to describe and compare two nouns"
  },
  {
    "tag": "JJS",
-   "description": "Adj., superlative",
-   "example": "biggest"
- },
- {
-   "tag": "LS",
-   "description": "List item marker",
-   "example": "1,One"
- },
- {
-   "tag": "MD",
-   "description": "Modal",
-   "example": "can,should"
+   "fullname": "an adjective ending in e. s. t. ",
+   "examples": "biggest, fastest, smartest",
+   "description": "an adjective used to describe an object which is at the upper or lower limit of a quality"
  },
  {
    "tag": "NN",
-   "description": "Noun, sing. or mass",
-   "example": "dog"
+   "fullname": "a singular noun",
+   "examples": "dog, bicycle, applause, yogurt",
+   "description": "a common word for people, animals, places, things, or ideas"
  },
  {
    "tag": "NNP",
-   "description": "Proper noun, sing.",
-   "example": "Edinburgh"
+   "fullname": "a singular proper noun",
+   "examples": "Harry Potter, Jupiter, Heaven",
+   "description": "the name of a unique person, animal, thing, or idea"
  },
  {
    "tag": "NNPS",
-   "description": "Proper noun, plural",
-   "example": "Smiths"
+   "fullname": "a plural proper noun",
+   "examples": "Beatles, Rocky Mountains, Transformers, MacDonald's french fries",
+   "description": "the name of a unique group of people, things, or ideas"
  },
  {
    "tag": "NNS",
-   "description": "Noun, plural",
-   "example": "dogs"
- },
- {
-   "tag": "POS",
-   "description": "Possessive ending",
-   "example": "?s"
- },
- {
-   "tag": "PDT",
-   "description": "Predeterminer",
-   "example": "all, both"
- },
- {
-   "tag": "PRP$",
-   "description": "Possessive pronoun",
-   "example": "my,one?s"
- },
- {
-   "tag": "PRP",
-   "description": "Personal pronoun",
-   "example": "I,you,she"
+   "fullname": "a plural common noun",
+   "examples": "puppies, fireworks, memories, raindrops",
+   "description": "a common word for a group of people, animals, places, things, or ideas"
  },
  {
    "tag": "RB",
-   "description": "Adverb",
-   "example": "quickly"
- },
- {
-   "tag": "RBR",
-   "description": "Adverb, comparative",
-   "example": "faster"
- },
- {
-   "tag": "RBS",
-   "description": "Adverb, superlative",
-   "example": "fastest"
- },
- {
-   "tag": "RP",
-   "description": "Particle",
-   "example": "p,off"
- },
- {
-   "tag": "SYM",
-   "description": "Symbol",
-   "example": "#ERROR!"
- },
- {
-   "tag": "TO",
-   "description": "?to?",
-   "example": "to"
+   "fullname": "an adverb",
+   "examples": "quickly, nearly, hilariously, confusingly",
+   "description": "a word that describes how, where, or when an action took place, or describes another adjective, and usually ends in l y"
  },
  {
    "tag": "UH",
-   "description": "Interjection",
-   "example": "oh, oops"
+   "fullname": "an exclamation",
+   "examples": "oh, oops, uh oh, oh no, ha ha",
+   "description": "a word or phrase that expresses strong emotion, such as surprise, pleasure, or anger"
  },
  {
    "tag": "VB",
-   "description": "verb, base form",
-   "example": "eat"
+   "fullname": "a verb, in base form",
+   "examples": "eat, love, pray",
+   "description": "an action word"
  },
  {
    "tag": "VBD",
-   "description": "verb, past tense",
-   "example": "ate"
+   "fullname": "a verb in the past tense",
+   "examples": "ate, loved, prayed",
+   "description": "a word for an action that has already happened"
  },
  {
    "tag": "VBG",
-   "description": "verb, gerund",
-   "example": "eating"
+   "fullname": "a verb ending in i. n. g.",
+   "examples": "eating, loving, praying",
+   "description": "a word for an action that is in the process of happening"
  },
  {
    "tag": "VBN",
-   "description": "verb, past part",
-   "example": "eaten"
+   "fullname": "a verb, in the past participle form",
+   "examples": "eaten, flown, gone, forgotten",
+   "description": "a word for an action that has already happened"
  },
  {
    "tag": "VBP",
-   "description": "Verb, present",
-   "example": "eat"
+   "fullname": "a verb, in the present tense, plural",
+   "examples": "eat, pray, love",
+   "description": "a word for an action being done by more than 1 person or thing"
  },
  {
    "tag": "VBZ",
-   "description": "Verb, present",
-   "example": "eats"
+   "fullname": "a verb, in the present tense, singular",
+   "examples": "eats, prays, loves",
+   "description": "a word for an action being done by 1 person or thing"
+},
+ {
+   "tag": "PERSON",
+   "fullname": "the name of a person",
+   "examples": "Mickey Mouse, Jerry Seinfeld, Queen Elizabeth",
+   "description": "the name of somebody real or fictional"
  },
  {
-   "tag": "WDT",
-   "description": "Wh-determiner",
-   "example": "which,that"
+   "tag": "ORGANIZATION",
+   "fullname": "an group of people, team, or formal organization",
+   "examples": "The Dodgers, The Beatles, Congress",
+   "description": ""
  },
  {
-   "tag": "WP",
-   "description": "Wh pronoun",
-   "example": "who,what"
+   "tag": "GPE",
+   "fullname": "the name of a place",
+   "examples": "Zimbabwe, school, Mars",
+   "description": "a real or imaginary geographical location"
  },
  {
-   "tag": "WP$",
-   "description": "Possessive-Wh",
-   "example": "whose"
- },
- {
-   "tag": "WRB",
-   "description": "Wh-adverb",
-   "example": "how,where"
- },
- {
-   "tag": ",",
-   "description": "Comma",
-   "example": ","
- },
- {
-   "tag": ".",
-   "description": "Sent-final punct",
-   "example": ". ! ?"
- },
- {
-   "tag": ":",
-   "description": "Mid-sent punct.",
-   "example": ": ; ?"
- },
- {
-   "tag": "$",
-   "description": "Dollar sign",
-   "example": "$"
- },
- {
-   "tag": "#",
-   "description": "Pound sign",
-   "example": "#"
- },
- {
-   "tag": "\"",
-   "description": "quote",
-   "example": "\""
- },
- {
-   "tag": "(",
-   "description": "Left paren",
-   "example": "("
- },
- {
-   "tag": ")",
-   "description": "Right paren",
-   "example": ")"
+   "tag": "LOCATION",
+   "fullname": "the name of a place",
+   "examples": "Zimbabwe, school, Mars",
+   "description": "a real or imaginary geographical location"
  }
 ]

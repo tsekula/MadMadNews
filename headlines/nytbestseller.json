@@ -1,160 +1,170 @@
 {
   "0": {
-    "headlinetext": "'EVERY {{0}}', by Nicholas Sparks. Difficult {{1}} surface when Hope {{2}} and Tru {{3}} meet in a North Carolina seaside {{4}}.",
+    "headlinetext": "'EVERY BREATH', by {{0}} {{1}}. {{2}} choices surface when Hope Anderson and Tru Walls {{3}} in a {{4}} Carolina seaside town.",
     "headlinepostags": [
-      "NN",
-      "NNS",
       "NNP",
-      "NNS",
-      "NN"
+      "NNP",
+      "JJ",
+      "VB",
+      "NNP"
     ]
   },
   "1": {
-    "headlinetext": "'UNSHELTERED', by Barbara Kingsolver. Intertwined {{0}} of two families who live in {{1}} {{2}} on the same street corner in Vineland, N.J.",
+    "headlinetext": "'{{0}}', by Barbara {{1}}. Intertwined stories of two {{2}} who live in {{3}} centuries on the {{4}} {{5}} corner in Vineland, {{6}}",
     "headlinepostags": [
+      "JJ",
+      "NNP",
       "NNS",
       "JJ",
-      "NNS"
+      "JJ",
+      "NN",
+      "NNP"
     ]
   },
   "2": {
-    "headlinetext": "'{{0}} {{1}}', by John {{2}}. {{3}} Flowers investigates {{4}} in a {{5}} {{6}} following an attempt to revive its {{7}} {{8}}.",
+    "headlinetext": "'{{0}} {{1}}', by {{2}} Sandford. {{3}} {{4}} investigates shootings in a {{5}} town following an {{6}} to {{7}} its {{8}} economy.",
     "headlinepostags": [
       "JJ",
       "NN",
       "NNP",
       "NNP",
-      "NNS",
+      "NNPS",
       "NNP",
       "NN",
-      "VBG",
-      "NN"
+      "VB",
+      "VBG"
     ]
   },
   "3": {
-    "headlinetext": "'THE NEXT PERSON YOU MEET IN HEAVEN', by Mitch Albom. The sequel to \"The {{0}} People You {{1}} in Heaven\" follows Annie on her {{2}} journey.",
-    "headlinepostags": [
-      "CD",
-      "VB",
-      "JJ"
-    ]
-  },
-  "4": {
-    "headlinetext": "'DESPERATE MEASURES', by Stuart {{0}}. The {{1}} {{2}} in the Stone {{3}} series.",
+    "headlinetext": "'THE NEXT PERSON YOU MEET IN HEAVEN', by {{0}} Albom. The {{1}} to \"The Five {{2}} You Meet in {{3}}\" follows Annie on her heavenly journey.",
     "headlinepostags": [
       "NNP",
       "NN",
+      "NNS",
+      "NNP"
+    ]
+  },
+  "4": {
+    "headlinetext": "'{{0}} {{1}}', by Stuart {{2}}. The {{3}} book in the Stone {{4}} series.",
+    "headlinepostags": [
+      "JJ",
+      "NN",
+      "NNP",
       "NN",
       "NNP"
     ]
   },
   "5": {
-    "headlinetext": "'A SPARK OF {{0}}', by Jodi Picoult. The {{1}} of {{2}}, {{3}} and {{4}} {{5}} when a gunman holds them all hostage in a {{6}}'s {{7}} {{8}} in Mississippi.",
+    "headlinetext": "'A SPARK OF LIGHT', by {{0}} Picoult. The lives of patients, {{1}} and activists {{2}} when a gunman holds them all {{3}} in a {{4}}'s health center in {{5}}.",
     "headlinepostags": [
-      "NN",
-      "NNS",
-      "NNS",
-      "NNS",
+      "NNP",
       "NNS",
       "VB",
       "NN",
       "NN",
-      "NN"
+      "NNP"
     ]
   },
   "6": {
-    "headlinetext": "'{{0}}', by {{1}} Patterson and James O Born. {{2}} Bennett discovers that an assassin is targeting him and his family.",
+    "headlinetext": "'AMBUSH', by {{0}} Patterson and {{1}} O {{2}}. {{3}} Bennett discovers that an assassin is targeting him and his family.",
     "headlinepostags": [
-      "NN",
       "NNP",
+      "NNP",
+      "VBN",
       "NNP"
     ]
   },
   "7": {
-    "headlinetext": "'WHERE THE CRAWDADS SING', by Delia Owens. In a {{0}} town on the {{1}} {{2}} {{3}} in 1969, a {{4}} woman who survived alone in the {{5}} becomes a {{6}} suspect.",
+    "headlinetext": "'WHERE THE CRAWDADS {{0}}', by {{1}} Owens. In a {{2}} {{3}} on the North Carolina coast in 1969, a {{4}} woman who {{5}} {{6}} in the {{7}} becomes a {{8}} suspect.",
     "headlinepostags": [
+      "NN",
+      "NNP",
       "JJ",
-      "NNP",
-      "NNP",
       "NN",
       "JJ",
+      "VBD",
+      "RB",
       "NN",
       "NN"
     ]
   },
   "8": {
-    "headlinetext": "'THE WITCH {{0}}', by Tana French. After Toby Hennessy {{1}} to his {{2}}’s ancestral home, a skull {{3}} in the {{4}} exposes his family's past.",
+    "headlinetext": "'THE {{0}} ELM', by {{1}} {{2}}. After Toby Hennessy retreats to his {{3}}’s ancestral {{4}}, a {{5}} {{6}} in the backyard exposes his family's {{7}}.",
     "headlinepostags": [
       "NN",
-      "NNS",
+      "NNP",
+      "JJ",
+      "NN",
+      "NN",
       "NN",
       "VBN",
-      "NN"
+      "JJ"
     ]
   },
   "9": {
-    "headlinetext": "'CRAZY {{0}} {{1}}', by Kevin Kwan. A New Yorker gets a {{2}} when she spends the {{3}} with her boyfriend in Singapore.",
+    "headlinetext": "'{{0}} {{1}} ASIANS', by Kevin {{2}}. A New Yorker gets a {{3}} when she spends the {{4}} with her boyfriend in Singapore.",
     "headlinepostags": [
+      "JJ",
       "NN",
-      "NN",
+      "NNP",
       "NN",
       "NN"
     ]
   },
   "10": {
-    "headlinetext": "'{{0}} {{1}}: RED WAR', by {{2}} Mills. When the {{3}} {{4}} {{5}} plots to invade the Baltics, only {{6}} {{7}} can {{8}} him.",
+    "headlinetext": "'{{0}} FLYNN: RED WAR', by {{1}} {{2}}. When the Russian {{3}} minister {{4}} to invade the Baltics, only Mitch Rapp can {{5}} him.",
     "headlinepostags": [
-      "NN",
       "NN",
       "NNP",
       "NNP",
       "JJ",
-      "NN",
-      "NNP",
-      "NNP",
+      "NNS",
       "VB"
     ]
   },
   "11": {
-    "headlinetext": "'WINTER IN PARADISE', by {{0}} {{1}}. {{2}} {{3}} {{4}} her husband’s secret life on a {{5}} island following his death.",
+    "headlinetext": "'{{0}} IN PARADISE', by Elin Hilderbrand. Irene Steele uncovers her {{1}}’s {{2}} {{3}} on a {{4}} island {{5}} his {{6}}.",
     "headlinepostags": [
+      "NN",
+      "NN",
+      "JJ",
+      "NN",
       "NNP",
-      "NNP",
-      "NNP",
-      "NNP",
-      "NNS",
-      "NNP"
-    ]
-  },
-  "12": {
-    "headlinetext": "'THE TATTOOIST OF AUSCHWITZ', by {{0}} Morris. A concentration camp detainee {{1}} with permanently {{2}} {{3}} prisoners falls in love with one of them.",
-    "headlinepostags": [
-      "NNP",
-      "VBN",
       "VBG",
       "NN"
     ]
   },
-  "13": {
-    "headlinetext": "'{{0}} OLIPHANT IS COMPLETELY {{1}}', by {{2}} Honeyman. A {{3}} woman’s {{4}} life is {{5}} by the {{6}} {{7}} from her office.",
+  "12": {
+    "headlinetext": "'THE TATTOOIST OF {{0}}', by Heather {{1}}. A {{2}} camp detainee tasked with permanently marking {{3}} pris{{4}}rs falls in {{5}} with one of them.",
     "headlinepostags": [
       "NN",
+      "NNP",
+      "NN",
+      "NN",
+      "CD",
+      "NN"
+    ]
+  },
+  "13": {
+    "headlinetext": "'{{0}} OLIPHANT IS COMPLETELY FINE', by {{1}} Honeyman. A young {{2}}’s {{3}} {{4}} is disrupted by the {{5}} {{6}} from her office.",
+    "headlinepostags": [
       "NN",
       "NNP",
-      "JJ",
+      "NN",
       "VBN",
-      "VBN",
+      "NN",
       "NNP",
       "NN"
     ]
   },
   "14": {
-    "headlinetext": "'THE {{0}} FIRE', by {{1}} Scalzi. As humanity's interstellar empire nears {{2}}, Emperox {{3}} II faces resourceful adversaries.",
+    "headlinetext": "'THE CONSUMING {{0}}', by John Scalzi. As {{1}}'s interstellar empire nears {{2}}, Emperox Grayland II faces {{3}} {{4}}.",
     "headlinepostags": [
       "NN",
-      "NNP",
       "NN",
-      "NNP"
+      "NN",
+      "JJ",
+      "NNS"
     ]
   }
 }

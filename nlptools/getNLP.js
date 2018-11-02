@@ -4,7 +4,7 @@ var request = require('request');
 var nlpfunctions = require('./nlpfunctions.js');
 var exports = module.exports = {};
 const NLPAPI = "https://nlp-api-tsekula.c9users.io:8080/nlp/parse-sentences"
-const NLPAPITEST = "https://nlp-api-tsekula.c9users.io:8080/nlp/parse"
+const NLPAPINEW = "https://nltk-api-tsekula.c9users.io:8080/nlp/parse-sentences"
 
 exports.processString = function (tags, callback){
   var replacetags = getListofTagstoReplace(tags);
@@ -81,7 +81,7 @@ exports.getPOSTags = function(text, callback) {
     return callback(null);
   }
     request.get({
-    url: NLPAPI,
+    url: NLPAPINEW,
     json: {
       "text": text  }
     }, function(err, response, body) {
@@ -90,8 +90,10 @@ exports.getPOSTags = function(text, callback) {
         return callback(null);
         }
       if (body){
-        var newText = getModifiedSentence(body);
-        return callback(newText);
+        //var newText = getModifiedSentence(body);
+        //return callback(newText);
+        console.log(body);
+        return callback(body);
       }
       else
         return callback(null);

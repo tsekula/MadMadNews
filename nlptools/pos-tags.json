@@ -1,0 +1,222 @@
+[
+ {
+   "tag": "C",
+   "description": "Coord Conjuncn",
+   "example": "and,but,or"
+ },
+ {
+   "tag": "CD",
+   "description": "Cardinal number",
+   "example": "one,two"
+ },
+ {
+   "tag": "DT",
+   "description": "Determiner",
+   "example": "the,some"
+ },
+ {
+   "tag": "EX",
+   "description": "Existential there",
+   "example": "there"
+ },
+ {
+   "tag": "FW",
+   "description": "Foreign Word",
+   "example": "mon dieu"
+ },
+ {
+   "tag": "IN",
+   "description": "Preposition",
+   "example": "of,in,by"
+ },
+ {
+   "tag": "JJ",
+   "description": "Adjective",
+   "example": "big"
+ },
+ {
+   "tag": "JJR",
+   "description": "Adj., comparative",
+   "example": "bigger"
+ },
+ {
+   "tag": "JJS",
+   "description": "Adj., superlative",
+   "example": "biggest"
+ },
+ {
+   "tag": "LS",
+   "description": "List item marker",
+   "example": "1,One"
+ },
+ {
+   "tag": "MD",
+   "description": "Modal",
+   "example": "can,should"
+ },
+ {
+   "tag": "NN",
+   "description": "Noun, sing. or mass",
+   "example": "dog"
+ },
+ {
+   "tag": "NNP",
+   "description": "Proper noun, sing.",
+   "example": "Edinburgh"
+ },
+ {
+   "tag": "NNPS",
+   "description": "Proper noun, plural",
+   "example": "Smiths"
+ },
+ {
+   "tag": "NNS",
+   "description": "Noun, plural",
+   "example": "dogs"
+ },
+ {
+   "tag": "POS",
+   "description": "Possessive ending",
+   "example": "?s"
+ },
+ {
+   "tag": "PDT",
+   "description": "Predeterminer",
+   "example": "all, both"
+ },
+ {
+   "tag": "PRP$",
+   "description": "Possessive pronoun",
+   "example": "my,one?s"
+ },
+ {
+   "tag": "PRP",
+   "description": "Personal pronoun",
+   "example": "I,you,she"
+ },
+ {
+   "tag": "RB",
+   "description": "Adverb",
+   "example": "quickly"
+ },
+ {
+   "tag": "RBR",
+   "description": "Adverb, comparative",
+   "example": "faster"
+ },
+ {
+   "tag": "RBS",
+   "description": "Adverb, superlative",
+   "example": "fastest"
+ },
+ {
+   "tag": "RP",
+   "description": "Particle",
+   "example": "p,off"
+ },
+ {
+   "tag": "SYM",
+   "description": "Symbol",
+   "example": "#ERROR!"
+ },
+ {
+   "tag": "TO",
+   "description": "?to?",
+   "example": "to"
+ },
+ {
+   "tag": "UH",
+   "description": "Interjection",
+   "example": "oh, oops"
+ },
+ {
+   "tag": "VB",
+   "description": "verb, base form",
+   "example": "eat"
+ },
+ {
+   "tag": "VBD",
+   "description": "verb, past tense",
+   "example": "ate"
+ },
+ {
+   "tag": "VBG",
+   "description": "verb, gerund",
+   "example": "eating"
+ },
+ {
+   "tag": "VBN",
+   "description": "verb, past part",
+   "example": "eaten"
+ },
+ {
+   "tag": "VBP",
+   "description": "Verb, present",
+   "example": "eat"
+ },
+ {
+   "tag": "VBZ",
+   "description": "Verb, present",
+   "example": "eats"
+ },
+ {
+   "tag": "WDT",
+   "description": "Wh-determiner",
+   "example": "which,that"
+ },
+ {
+   "tag": "WP",
+   "description": "Wh pronoun",
+   "example": "who,what"
+ },
+ {
+   "tag": "WP$",
+   "description": "Possessive-Wh",
+   "example": "whose"
+ },
+ {
+   "tag": "WRB",
+   "description": "Wh-adverb",
+   "example": "how,where"
+ },
+ {
+   "tag": ",",
+   "description": "Comma",
+   "example": ","
+ },
+ {
+   "tag": ".",
+   "description": "Sent-final punct",
+   "example": ". ! ?"
+ },
+ {
+   "tag": ":",
+   "description": "Mid-sent punct.",
+   "example": ": ; ?"
+ },
+ {
+   "tag": "$",
+   "description": "Dollar sign",
+   "example": "$"
+ },
+ {
+   "tag": "#",
+   "description": "Pound sign",
+   "example": "#"
+ },
+ {
+   "tag": "\"",
+   "description": "quote",
+   "example": "\""
+ },
+ {
+   "tag": "(",
+   "description": "Left paren",
+   "example": "("
+ },
+ {
+   "tag": ")",
+   "description": "Right paren",
+   "example": ")"
+ }
+]

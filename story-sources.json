@@ -1,0 +1,27 @@
+{
+  "sources": [
+  {
+    "name": "NY Times Top Stories - World",
+    "output_file": "nyttopstoriesworld.json",
+    "alexa_params":{
+      "introduction": "From the New York Times top stories in world news",
+      "reading_format": "{{title}}. {{abstract}}"
+    },
+    "source_request_params": {
+      "url": "https://api.nytimes.com/svc/topstories/v2/world.json",
+      "qs": {
+        "api-key": "4652552890064bc788ec90a4d5ff1048",
+        "section": "world",
+        "format": "json"
+      }
+    },
+    "source_response_params": {
+      "record_label": "results",
+      "record_params": {
+        "title": "title",
+        "abstract": "abstract"
+      }
+    }
+}
+  ]
+  }
